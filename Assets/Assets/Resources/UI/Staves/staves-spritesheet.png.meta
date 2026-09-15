@@ -1,0 +1,3094 @@
+fileFormatVersion: 2
+guid: cb1c0baedd8593041947a35d5b46a9cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3250729422529337116
+    second: staves-spritesheet_0
+  - first:
+      213: 3715411573677363492
+    second: staves-spritesheet_1
+  - first:
+      213: 9095326284810921477
+    second: staves-spritesheet_2
+  - first:
+      213: -7093680911984181056
+    second: staves-spritesheet_3
+  - first:
+      213: -2396296362898543014
+    second: staves-spritesheet_4
+  - first:
+      213: 240481559477575669
+    second: staves-spritesheet_5
+  - first:
+      213: -5579527099106285901
+    second: staves-spritesheet_6
+  - first:
+      213: 1383204037322355461
+    second: staves-spritesheet_7
+  - first:
+      213: 3218891243217402575
+    second: staves-spritesheet_8
+  - first:
+      213: -3685073358041029742
+    second: staves-spritesheet_9
+  - first:
+      213: 3310392213491560685
+    second: staves-spritesheet_10
+  - first:
+      213: 6952403876459639195
+    second: staves-spritesheet_11
+  - first:
+      213: 5703896648120168692
+    second: staves-spritesheet_12
+  - first:
+      213: 331957196566893141
+    second: staves-spritesheet_13
+  - first:
+      213: 8767355447993631347
+    second: staves-spritesheet_14
+  - first:
+      213: -7039076520237124312
+    second: staves-spritesheet_15
+  - first:
+      213: 8627159874945025793
+    second: staves-spritesheet_16
+  - first:
+      213: -3112870219630510983
+    second: staves-spritesheet_17
+  - first:
+      213: 7711396694722605579
+    second: staves-spritesheet_18
+  - first:
+      213: 615218830360725431
+    second: staves-spritesheet_19
+  - first:
+      213: -3172856037295477148
+    second: staves-spritesheet_20
+  - first:
+      213: 7721431622412418839
+    second: staves-spritesheet_21
+  - first:
+      213: 240428291497679563
+    second: staves-spritesheet_22
+  - first:
+      213: -4439459260063555204
+    second: staves-spritesheet_23
+  - first:
+      213: 1584050295083757896
+    second: staves-spritesheet_24
+  - first:
+      213: 6507372861847349096
+    second: staves-spritesheet_25
+  - first:
+      213: -3288894822311779752
+    second: staves-spritesheet_26
+  - first:
+      213: -8951450502938078063
+    second: staves-spritesheet_27
+  - first:
+      213: -8049394723521917259
+    second: staves-spritesheet_28
+  - first:
+      213: 8016631000247981453
+    second: staves-spritesheet_29
+  - first:
+      213: -5040842963158641731
+    second: staves-spritesheet_30
+  - first:
+      213: -6609621696612226947
+    second: staves-spritesheet_31
+  - first:
+      213: -8890115519667332527
+    second: staves-spritesheet_32
+  - first:
+      213: 4723625849159005942
+    second: staves-spritesheet_33
+  - first:
+      213: -4147125496567755065
+    second: staves-spritesheet_34
+  - first:
+      213: -7191096375957461755
+    second: staves-spritesheet_35
+  - first:
+      213: -5354855800387661768
+    second: staves-spritesheet_36
+  - first:
+      213: 2797983361570990029
+    second: staves-spritesheet_37
+  - first:
+      213: -2336469578325277405
+    second: staves-spritesheet_38
+  - first:
+      213: -7439816121391861270
+    second: staves-spritesheet_39
+  - first:
+      213: -7151282719022157606
+    second: staves-spritesheet_40
+  - first:
+      213: -2668698639447209052
+    second: staves-spritesheet_41
+  - first:
+      213: -7488407749600093428
+    second: staves-spritesheet_42
+  - first:
+      213: 5662581703849590284
+    second: staves-spritesheet_43
+  - first:
+      213: 5714525494473321665
+    second: staves-spritesheet_44
+  - first:
+      213: -7559393155069634446
+    second: staves-spritesheet_45
+  - first:
+      213: -8792164513334722309
+    second: staves-spritesheet_46
+  - first:
+      213: 8452503127747791464
+    second: staves-spritesheet_47
+  - first:
+      213: 3835770636279630431
+    second: staves-spritesheet_48
+  - first:
+      213: 4211882729458991714
+    second: staves-spritesheet_49
+  - first:
+      213: -4076429467302546921
+    second: staves-spritesheet_50
+  - first:
+      213: 3071343062909020579
+    second: staves-spritesheet_51
+  - first:
+      213: 7291962508764128111
+    second: staves-spritesheet_52
+  - first:
+      213: -8296450146637011095
+    second: staves-spritesheet_53
+  - first:
+      213: -443383613588318501
+    second: staves-spritesheet_54
+  - first:
+      213: 4962328201535119325
+    second: staves-spritesheet_55
+  - first:
+      213: 2326246390398352441
+    second: staves-spritesheet_56
+  - first:
+      213: -1034572028461790871
+    second: staves-spritesheet_57
+  - first:
+      213: 5668035008273039494
+    second: staves-spritesheet_58
+  - first:
+      213: -8041485223380374022
+    second: staves-spritesheet_59
+  - first:
+      213: 2369568200953762351
+    second: staves-spritesheet_60
+  - first:
+      213: -8941073857748586031
+    second: staves-spritesheet_61
+  - first:
+      213: 3302019409375659632
+    second: staves-spritesheet_62
+  - first:
+      213: -6283719864784871192
+    second: staves-spritesheet_63
+  - first:
+      213: -7352784487626619433
+    second: staves-spritesheet_64
+  - first:
+      213: 5174121796656083486
+    second: staves-spritesheet_65
+  - first:
+      213: 6343323075686382339
+    second: staves-spritesheet_66
+  - first:
+      213: 9022363227885072631
+    second: staves-spritesheet_67
+  - first:
+      213: -2796990568250913836
+    second: staves-spritesheet_68
+  - first:
+      213: -967298224744270593
+    second: staves-spritesheet_69
+  - first:
+      213: -5378402428771667436
+    second: staves-spritesheet_70
+  - first:
+      213: -1483406959054814331
+    second: staves-spritesheet_71
+  - first:
+      213: 7481688410750963336
+    second: staves-spritesheet_72
+  - first:
+      213: -2984396695851663284
+    second: staves-spritesheet_73
+  - first:
+      213: 3247752849207304517
+    second: staves-spritesheet_74
+  - first:
+      213: 7520536534235190323
+    second: staves-spritesheet_75
+  - first:
+      213: 6954113189731070972
+    second: staves-spritesheet_76
+  - first:
+      213: -3867977073605713861
+    second: staves-spritesheet_77
+  - first:
+      213: -8457084428485123276
+    second: staves-spritesheet_78
+  - first:
+      213: -3760423879573126080
+    second: staves-spritesheet_79
+  - first:
+      213: -925428292213151917
+    second: staves-spritesheet_80
+  - first:
+      213: -8642974716328677444
+    second: staves-spritesheet_81
+  - first:
+      213: 9018874800752814467
+    second: staves-spritesheet_82
+  - first:
+      213: -328393955354557608
+    second: staves-spritesheet_83
+  - first:
+      213: 4218654372728269755
+    second: staves-spritesheet_84
+  - first:
+      213: 8604508944036124695
+    second: staves-spritesheet_85
+  - first:
+      213: 6622873893216906555
+    second: staves-spritesheet_86
+  - first:
+      213: 1354648521048538878
+    second: staves-spritesheet_87
+  - first:
+      213: 4310710086994341676
+    second: staves-spritesheet_88
+  - first:
+      213: -1455996907861522220
+    second: staves-spritesheet_89
+  - first:
+      213: 5897330156203754748
+    second: staves-spritesheet_90
+  - first:
+      213: 4124144895474243614
+    second: staves-spritesheet_91
+  - first:
+      213: -627177737760880610
+    second: staves-spritesheet_92
+  - first:
+      213: 124340421199607069
+    second: staves-spritesheet_93
+  - first:
+      213: 869418477169757623
+    second: staves-spritesheet_94
+  - first:
+      213: -5243522175682624312
+    second: staves-spritesheet_95
+  - first:
+      213: 6822428146708656729
+    second: staves-spritesheet_96
+  - first:
+      213: 6059709073959085768
+    second: staves-spritesheet_97
+  - first:
+      213: -9025487838365637080
+    second: staves-spritesheet_98
+  - first:
+      213: 3683971665882040382
+    second: staves-spritesheet_99
+  - first:
+      213: 3656729009730257918
+    second: staves-spritesheet_100
+  - first:
+      213: -8142855015705012086
+    second: staves-spritesheet_101
+  - first:
+      213: 5654608624973390559
+    second: staves-spritesheet_102
+  - first:
+      213: -8119965754714133325
+    second: staves-spritesheet_103
+  - first:
+      213: -8088084517382102183
+    second: staves-spritesheet_104
+  - first:
+      213: 2851982119903760588
+    second: staves-spritesheet_105
+  - first:
+      213: 7546455774325843283
+    second: staves-spritesheet_106
+  - first:
+      213: 5014399374966396470
+    second: staves-spritesheet_107
+  - first:
+      213: -1729095053765487202
+    second: staves-spritesheet_108
+  - first:
+      213: 6213139540390939564
+    second: staves-spritesheet_109
+  - first:
+      213: 4921208857567420877
+    second: staves-spritesheet_110
+  - first:
+      213: 985527363345937625
+    second: staves-spritesheet_111
+  - first:
+      213: 7168120374150663279
+    second: staves-spritesheet_112
+  - first:
+      213: -4200682093578575613
+    second: staves-spritesheet_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: staves-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 13
+        width: 117
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e86a3530d613e2d0800000000000000
+      internalID: -3250729422529337116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 9
+        width: 124
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4211a63242bcf8330800000000000000
+      internalID: 3715411573677363492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 13
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506ad622117193e70800000000000000
+      internalID: 9095326284810921477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 27
+        width: 117
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0c6336bce2e8d90800000000000000
+      internalID: -7093680911984181056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 103
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e2fd07725aebed0800000000000000
+      internalID: -2396296362898543014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 14
+        width: 118
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff51b744bc565300800000000000000
+      internalID: 240481559477575669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 13
+        width: 120
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6aa1b3aa98192b0800000000000000
+      internalID: -5579527099106285901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 14
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5033c705eb0223310800000000000000
+      internalID: 1383204037322355461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 14
+        width: 107
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcab692088ccbac20800000000000000
+      internalID: 3218891243217402575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 14
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29365b22e4dfbdcc0800000000000000
+      internalID: -3685073358041029742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 14
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de03260dd20e0fd20800000000000000
+      internalID: 3310392213491560685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 0
+        width: 64
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91fc6f7d76eb7060800000000000000
+      internalID: 6952403876459639195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 0
+        width: 58
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f07ebae7cf482f40800000000000000
+      internalID: 5703896648120168692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 0
+        width: 54
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552110ebf495b9400800000000000000
+      internalID: 331957196566893141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 0
+        width: 111
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3720f391457eba970800000000000000
+      internalID: 8767355447993631347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 0
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8253970133d205e90800000000000000
+      internalID: -7039076520237124312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 122
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1070a969234d9b770800000000000000
+      internalID: 8627159874945025793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 0
+        width: 51
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cf707270ddcc4d0800000000000000
+      internalID: -3112870219630510983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 0
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02ff07ef62640b60800000000000000
+      internalID: 7711396694722605579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 1
+        width: 114
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b748c24442b98800800000000000000
+      internalID: 615218830360725431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 0
+        width: 70
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eac8d9e30c7f3d0800000000000000
+      internalID: -3172856037295477148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f3c539629082b60800000000000000
+      internalID: 7721431622412418839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 1
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca5cacd14c265300800000000000000
+      internalID: 240428291497679563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 1
+        width: 50
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71e711035fd362c0800000000000000
+      internalID: -4439459260063555204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 1
+        width: 67
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841f1d8c95dabf510800000000000000
+      internalID: 1584050295083757896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1
+        width: 65
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867ad6be325de4a50800000000000000
+      internalID: 6507372861847349096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 1
+        width: 120
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8522c7c959f7b52d0800000000000000
+      internalID: -3288894822311779752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 5
+        width: 121
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19452e3c13f06c380800000000000000
+      internalID: -8951450502938078063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 5
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be829f752eca4090800000000000000
+      internalID: -8049394723521917259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1
+        width: 57
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d855a29bb6bc04f60800000000000000
+      internalID: 8016631000247981453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 1
+        width: 70
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3d66458045b0ab0800000000000000
+      internalID: -5040842963158641731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3863
+        y: 1
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78a6b11618e544a0800000000000000
+      internalID: -6609621696612226947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 3975
+        y: 1
+        width: 115
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a9a066907ff9480800000000000000
+      internalID: -8890115519667332527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 1
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6b9f6dea0bd8140800000000000000
+      internalID: 4723625849159005942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 1
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce0d1255537276c0800000000000000
+      internalID: -4147125496567755065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4356
+        y: 1
+        width: 123
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505e47532f7143c90800000000000000
+      internalID: -7191096375957461755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 1
+        width: 55
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8301472550bbfa5b0800000000000000
+      internalID: -5354855800387661768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4627
+        y: 1
+        width: 89
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc764e10b0f64d620800000000000000
+      internalID: 2797983361570990029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4768
+        y: 1
+        width: 64
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3254a633c41339fd0800000000000000
+      internalID: -2336469578325277405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4868
+        y: 1
+        width: 117
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1b63ac7a670c890800000000000000
+      internalID: -7439816121391861270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 1
+        width: 108
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad07b44914a81cc90800000000000000
+      internalID: -7151282719022157606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5137
+        y: 2
+        width: 95
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab4e2f0ab0e6fad0800000000000000
+      internalID: -2668698639447209052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5252
+        y: 3
+        width: 120
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bddc7b3d4d31890800000000000000
+      internalID: -7488407749600093428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 2
+        width: 44
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eb499de08859e40800000000000000
+      internalID: 5662581703849590284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5507
+        y: 4
+        width: 112
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cceefd09a21e4f40800000000000000
+      internalID: 5714525494473321665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5592
+        y: 113
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2781e821af3a71790800000000000000
+      internalID: -7559393155069634446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 5645
+        y: 2
+        width: 103
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf083ef35f4fbf580800000000000000
+      internalID: -8792164513334722309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 5761
+        y: 4
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a0948bfc25d4570800000000000000
+      internalID: 8452503127747791464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 2
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a425722156b3530800000000000000
+      internalID: 3835770636279630431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6032
+        y: 2
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2628105e60d937a30800000000000000
+      internalID: 4211882729458991714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 2
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7123f715ffc9d67c0800000000000000
+      internalID: -4076429467302546921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6293
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a96d083e3a9f9a20800000000000000
+      internalID: 3071343062909020579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6314
+        y: 2
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f632a5a6441423560800000000000000
+      internalID: 7291962508764128111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6401
+        y: 1
+        width: 123
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967a6f05c861ddc80800000000000000
+      internalID: -8296450146637011095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 6564
+        y: 1
+        width: 56
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6d6dcd3f8c8d9f0800000000000000
+      internalID: -443383613588318501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 6695
+        y: 1
+        width: 50
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf576f253bbdd440800000000000000
+      internalID: 4962328201535119325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 6817
+        y: 6
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c7abf54cc784020800000000000000
+      internalID: 2326246390398352441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 6935
+        y: 1
+        width: 82
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969caf4b83674a1f0800000000000000
+      internalID: -1034572028461790871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 1
+        width: 122
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680c79a3fc7e8ae40800000000000000
+      internalID: 5668035008273039494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 7203
+        y: 1
+        width: 54
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd2cd18bc7e66090800000000000000
+      internalID: -8041485223380374022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 7328
+        y: 1
+        width: 67
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2219e869b562e020800000000000000
+      internalID: 2369568200953762351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 7431
+        y: 1
+        width: 112
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d13d5eb2bceae380800000000000000
+      internalID: -8941073857748586031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 7584
+        y: 1
+        width: 64
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0760841782123dd20800000000000000
+      internalID: 3302019409375659632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 7702
+        y: 1
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0ae67531ebbc8a0800000000000000
+      internalID: -6283719864784871192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 7837
+        y: 1
+        width: 70
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d543091779a5f990800000000000000
+      internalID: -7352784487626619433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 7959
+        y: 1
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12ba424c5c2ec740800000000000000
+      internalID: 5174121796656083486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 8093
+        y: 1
+        width: 70
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b33dd9ab2080850800000000000000
+      internalID: 6343323075686382339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 8196
+        y: 1
+        width: 121
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0f2a0ad8fd53d70800000000000000
+      internalID: 9022363227885072631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 8356
+        y: 1
+        width: 56
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db4943b5e71f29d0800000000000000
+      internalID: -2796990568250913836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 8477
+        y: 1
+        width: 70
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4704ab3677392f0800000000000000
+      internalID: -967298224744270593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 8599
+        y: 1
+        width: 82
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41277fdac731c55b0800000000000000
+      internalID: -5378402428771667436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 8736
+        y: 1
+        width: 64
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583023cea31e96be0800000000000000
+      internalID: -1483406959054814331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 8867
+        y: 1
+        width: 58
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ec7fa48fb44d760800000000000000
+      internalID: 7481688410750963336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 8979
+        y: 4
+        width: 90
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4089e2640b4596d0800000000000000
+      internalID: -2984396695851663284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 9104
+        y: 4
+        width: 95
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541a34f4206521d20800000000000000
+      internalID: 3247752849207304517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 9248
+        y: 4
+        width: 64
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3349f63e1205e5860800000000000000
+      internalID: 7520536534235190323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 9373
+        y: 4
+        width: 71
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf377c10a19f18060800000000000000
+      internalID: 6954113189731070972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 9489
+        y: 3
+        width: 91
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b306060585f225ac0800000000000000
+      internalID: -3867977073605713861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 9639
+        y: 4
+        width: 50
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43328a4158662aa80800000000000000
+      internalID: -8457084428485123276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 9744
+        y: 4
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044c525b76a40dbc0800000000000000
+      internalID: -3760423879573126080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 9891
+        y: 4
+        width: 58
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357e9811fd73823f0800000000000000
+      internalID: -925428292213151917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 10007
+        y: 4
+        width: 82
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfeb86b94cfd0880800000000000000
+      internalID: -8642974716328677444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 10147
+        y: 4
+        width: 57
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389e794e8da792d70800000000000000
+      internalID: 9018874800752814467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 10247
+        y: 17
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853c4b0007f417bf0800000000000000
+      internalID: -328393955354557608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 10376
+        y: 17
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbed94fccbab8a30800000000000000
+      internalID: 4218654372728269755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 10503
+        y: 17
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718d1f3cb4b596770800000000000000
+      internalID: 8604508944036124695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 10631
+        y: 17
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3de66567bc29eb50800000000000000
+      internalID: 6622873893216906555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 10759
+        y: 17
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe3b9417adacc210800000000000000
+      internalID: 1354648521048538878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 10887
+        y: 17
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fadf82cf7b2db30800000000000000
+      internalID: 4310710086994341676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 11015
+        y: 17
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8c8d8c6824bcbe0800000000000000
+      internalID: -1455996907861522220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 11143
+        y: 17
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf449bb188687d150800000000000000
+      internalID: 5897330156203754748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 11271
+        y: 16
+        width: 114
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e189bf88ee7eb3930800000000000000
+      internalID: 4124144895474243614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 11399
+        y: 17
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18cab1ab21db47f0800000000000000
+      internalID: -627177737760880610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 11527
+        y: 16
+        width: 114
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1533dc44feb9b100800000000000000
+      internalID: 124340421199607069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 11655
+        y: 16
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd4dd4af7bc01c00800000000000000
+      internalID: 869418477169757623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 11782
+        y: 16
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4cd82dc544b37b0800000000000000
+      internalID: -5243522175682624312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 11912
+        y: 16
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952323ea0422eae50800000000000000
+      internalID: 6822428146708656729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 12039
+        y: 16
+        width: 114
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6ea8b0c49681450800000000000000
+      internalID: 6059709073959085768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 12167
+        y: 16
+        width: 114
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826ab9d41a60fb280800000000000000
+      internalID: -9025487838365637080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 12295
+        y: 16
+        width: 114
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38c08b26b8102330800000000000000
+      internalID: 3683971665882040382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 12423
+        y: 16
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef386d009af4fb230800000000000000
+      internalID: 3656729009730257918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 12551
+        y: 16
+        width: 114
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8815638184cefe80800000000000000
+      internalID: -8142855015705012086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 12679
+        y: 16
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd22663c594397e40800000000000000
+      internalID: 5654608624973390559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 5866
+        y: 81
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc6de1ea26105f80800000000000000
+      internalID: -8119965754714133325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 6288
+        y: 81
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9536a14ebf951cf80800000000000000
+      internalID: -8088084517382102183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 6359
+        y: 84
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc011aaa0a6449720800000000000000
+      internalID: 2851982119903760588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 6295
+        y: 55
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35523ed3b856ab860800000000000000
+      internalID: 7546455774325843283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 56
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63610d20aa9b69540800000000000000
+      internalID: 5014399374966396470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 6876
+        y: 56
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e955c61b5350108e0800000000000000
+      internalID: -1729095053765487202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 46
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab8fec4e71893650800000000000000
+      internalID: 6213139540390939564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 6876
+        y: 46
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1efccd165ab4440800000000000000
+      internalID: 4921208857567420877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 21
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d479a85aeb4dad00800000000000000
+      internalID: 985527363345937625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 6803
+        y: 30
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c8d7080874a7360800000000000000
+      internalID: 7168120374150663279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staves-spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 6877
+        y: 30
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301a7ed54ed24b5c0800000000000000
+      internalID: -4200682093578575613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      staves-spritesheet_0: -3250729422529337116
+      staves-spritesheet_1: 3715411573677363492
+      staves-spritesheet_10: 3310392213491560685
+      staves-spritesheet_100: 3656729009730257918
+      staves-spritesheet_101: -8142855015705012086
+      staves-spritesheet_102: 5654608624973390559
+      staves-spritesheet_103: -8119965754714133325
+      staves-spritesheet_104: -8088084517382102183
+      staves-spritesheet_105: 2851982119903760588
+      staves-spritesheet_106: 7546455774325843283
+      staves-spritesheet_107: 5014399374966396470
+      staves-spritesheet_108: -1729095053765487202
+      staves-spritesheet_109: 6213139540390939564
+      staves-spritesheet_11: 6952403876459639195
+      staves-spritesheet_110: 4921208857567420877
+      staves-spritesheet_111: 985527363345937625
+      staves-spritesheet_112: 7168120374150663279
+      staves-spritesheet_113: -4200682093578575613
+      staves-spritesheet_12: 5703896648120168692
+      staves-spritesheet_13: 331957196566893141
+      staves-spritesheet_14: 8767355447993631347
+      staves-spritesheet_15: -7039076520237124312
+      staves-spritesheet_16: 8627159874945025793
+      staves-spritesheet_17: -3112870219630510983
+      staves-spritesheet_18: 7711396694722605579
+      staves-spritesheet_19: 615218830360725431
+      staves-spritesheet_2: 9095326284810921477
+      staves-spritesheet_20: -3172856037295477148
+      staves-spritesheet_21: 7721431622412418839
+      staves-spritesheet_22: 240428291497679563
+      staves-spritesheet_23: -4439459260063555204
+      staves-spritesheet_24: 1584050295083757896
+      staves-spritesheet_25: 6507372861847349096
+      staves-spritesheet_26: -3288894822311779752
+      staves-spritesheet_27: -8951450502938078063
+      staves-spritesheet_28: -8049394723521917259
+      staves-spritesheet_29: 8016631000247981453
+      staves-spritesheet_3: -7093680911984181056
+      staves-spritesheet_30: -5040842963158641731
+      staves-spritesheet_31: -6609621696612226947
+      staves-spritesheet_32: -8890115519667332527
+      staves-spritesheet_33: 4723625849159005942
+      staves-spritesheet_34: -4147125496567755065
+      staves-spritesheet_35: -7191096375957461755
+      staves-spritesheet_36: -5354855800387661768
+      staves-spritesheet_37: 2797983361570990029
+      staves-spritesheet_38: -2336469578325277405
+      staves-spritesheet_39: -7439816121391861270
+      staves-spritesheet_4: -2396296362898543014
+      staves-spritesheet_40: -7151282719022157606
+      staves-spritesheet_41: -2668698639447209052
+      staves-spritesheet_42: -7488407749600093428
+      staves-spritesheet_43: 5662581703849590284
+      staves-spritesheet_44: 5714525494473321665
+      staves-spritesheet_45: -7559393155069634446
+      staves-spritesheet_46: -8792164513334722309
+      staves-spritesheet_47: 8452503127747791464
+      staves-spritesheet_48: 3835770636279630431
+      staves-spritesheet_49: 4211882729458991714
+      staves-spritesheet_5: 240481559477575669
+      staves-spritesheet_50: -4076429467302546921
+      staves-spritesheet_51: 3071343062909020579
+      staves-spritesheet_52: 7291962508764128111
+      staves-spritesheet_53: -8296450146637011095
+      staves-spritesheet_54: -443383613588318501
+      staves-spritesheet_55: 4962328201535119325
+      staves-spritesheet_56: 2326246390398352441
+      staves-spritesheet_57: -1034572028461790871
+      staves-spritesheet_58: 5668035008273039494
+      staves-spritesheet_59: -8041485223380374022
+      staves-spritesheet_6: -5579527099106285901
+      staves-spritesheet_60: 2369568200953762351
+      staves-spritesheet_61: -8941073857748586031
+      staves-spritesheet_62: 3302019409375659632
+      staves-spritesheet_63: -6283719864784871192
+      staves-spritesheet_64: -7352784487626619433
+      staves-spritesheet_65: 5174121796656083486
+      staves-spritesheet_66: 6343323075686382339
+      staves-spritesheet_67: 9022363227885072631
+      staves-spritesheet_68: -2796990568250913836
+      staves-spritesheet_69: -967298224744270593
+      staves-spritesheet_7: 1383204037322355461
+      staves-spritesheet_70: -5378402428771667436
+      staves-spritesheet_71: -1483406959054814331
+      staves-spritesheet_72: 7481688410750963336
+      staves-spritesheet_73: -2984396695851663284
+      staves-spritesheet_74: 3247752849207304517
+      staves-spritesheet_75: 7520536534235190323
+      staves-spritesheet_76: 6954113189731070972
+      staves-spritesheet_77: -3867977073605713861
+      staves-spritesheet_78: -8457084428485123276
+      staves-spritesheet_79: -3760423879573126080
+      staves-spritesheet_8: 3218891243217402575
+      staves-spritesheet_80: -925428292213151917
+      staves-spritesheet_81: -8642974716328677444
+      staves-spritesheet_82: 9018874800752814467
+      staves-spritesheet_83: -328393955354557608
+      staves-spritesheet_84: 4218654372728269755
+      staves-spritesheet_85: 8604508944036124695
+      staves-spritesheet_86: 6622873893216906555
+      staves-spritesheet_87: 1354648521048538878
+      staves-spritesheet_88: 4310710086994341676
+      staves-spritesheet_89: -1455996907861522220
+      staves-spritesheet_9: -3685073358041029742
+      staves-spritesheet_90: 5897330156203754748
+      staves-spritesheet_91: 4124144895474243614
+      staves-spritesheet_92: -627177737760880610
+      staves-spritesheet_93: 124340421199607069
+      staves-spritesheet_94: 869418477169757623
+      staves-spritesheet_95: -5243522175682624312
+      staves-spritesheet_96: 6822428146708656729
+      staves-spritesheet_97: 6059709073959085768
+      staves-spritesheet_98: -9025487838365637080
+      staves-spritesheet_99: 3683971665882040382
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

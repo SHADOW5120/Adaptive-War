@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6fc6e0763a1e7240a9c5949f333fec0, type: 3}
+  m_Name: InvincibleSO
+  m_EditorClassIdentifier: Assembly-CSharp::UnitDataSO
+  entityName: Invincible
+  icon: {fileID: -2295598453352507679, guid: d68f6dfb72502b2418ab789364fb5678, type: 3}
+  description: Like a film
+  entityType: 0
+  cost: 80
+  maxHealth: 150
+  prefab: {fileID: 0}
+  moveSpeed: 5
+  damage: 15
+  attackRange: 1.5
+  attackCooldown: 1.2

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6fc6e0763a1e7240a9c5949f333fec0, type: 3}
+  m_Name: FrozenFrankySO
+  m_EditorClassIdentifier: Assembly-CSharp::UnitDataSO
+  entityName: Fronzen Franky
+  icon: {fileID: 652583235143896857, guid: 47bb59a2e6744e04fba7e90d0bce3c60, type: 3}
+  description: A cool guy
+  entityType: 0
+  cost: 90
+  maxHealth: 100
+  prefab: {fileID: 3896571455493649495, guid: 95c6050e1342c6b4799fa624c6cba49b, type: 3}
+  moveSpeed: 5
+  damage: 15
+  attackRange: 1.5
+  attackCooldown: 1.2

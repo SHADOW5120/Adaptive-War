@@ -1,0 +1,4602 @@
+fileFormatVersion: 2
+guid: 08b23f6b12962fa45a169b38e7260527
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2327345577010957821
+    second: peasantGoldAlpha_0
+  - first:
+      213: -7715297577648002554
+    second: peasantGoldAlpha_1
+  - first:
+      213: -1291896037019923746
+    second: peasantGoldAlpha_2
+  - first:
+      213: 3603301711835119979
+    second: peasantGoldAlpha_3
+  - first:
+      213: -6961187887246019853
+    second: peasantGoldAlpha_4
+  - first:
+      213: -7813110697443047985
+    second: peasantGoldAlpha_5
+  - first:
+      213: -279810870565094099
+    second: peasantGoldAlpha_6
+  - first:
+      213: 5603998372754325256
+    second: peasantGoldAlpha_7
+  - first:
+      213: 236651930375689856
+    second: peasantGoldAlpha_8
+  - first:
+      213: 7046563459977178651
+    second: peasantGoldAlpha_9
+  - first:
+      213: -2466340512584225722
+    second: peasantGoldAlpha_10
+  - first:
+      213: -135178297436267479
+    second: peasantGoldAlpha_11
+  - first:
+      213: 6071376908819401634
+    second: peasantGoldAlpha_12
+  - first:
+      213: 5794969513739427904
+    second: peasantGoldAlpha_13
+  - first:
+      213: -1290141787008264374
+    second: peasantGoldAlpha_14
+  - first:
+      213: 2458045053031110174
+    second: peasantGoldAlpha_15
+  - first:
+      213: -3038990269948351028
+    second: peasantGoldAlpha_16
+  - first:
+      213: -1137669111142997495
+    second: peasantGoldAlpha_17
+  - first:
+      213: 2307761863007416383
+    second: peasantGoldAlpha_18
+  - first:
+      213: 1160109246750123719
+    second: peasantGoldAlpha_19
+  - first:
+      213: -5075027294389776614
+    second: peasantGoldAlpha_20
+  - first:
+      213: 2557993034551228425
+    second: peasantGoldAlpha_21
+  - first:
+      213: 2627437573672469008
+    second: peasantGoldAlpha_22
+  - first:
+      213: -8452921483272069056
+    second: peasantGoldAlpha_23
+  - first:
+      213: -2456073012440979806
+    second: peasantGoldAlpha_24
+  - first:
+      213: -8884039249028469566
+    second: peasantGoldAlpha_25
+  - first:
+      213: 6502455190601261575
+    second: peasantGoldAlpha_26
+  - first:
+      213: -1963751447753916617
+    second: peasantGoldAlpha_27
+  - first:
+      213: 5035219295017106828
+    second: peasantGoldAlpha_28
+  - first:
+      213: -5614646980487632012
+    second: peasantGoldAlpha_29
+  - first:
+      213: 1624262247272751882
+    second: peasantGoldAlpha_30
+  - first:
+      213: 4506824456123948197
+    second: peasantGoldAlpha_31
+  - first:
+      213: -468491904870287871
+    second: peasantGoldAlpha_32
+  - first:
+      213: -7615054520424857611
+    second: peasantGoldAlpha_33
+  - first:
+      213: 7512463697468618517
+    second: peasantGoldAlpha_34
+  - first:
+      213: 4371808206659239771
+    second: peasantGoldAlpha_35
+  - first:
+      213: -669390163057349863
+    second: peasantGoldAlpha_36
+  - first:
+      213: -3168734828962332017
+    second: peasantGoldAlpha_37
+  - first:
+      213: 3441039965543669845
+    second: peasantGoldAlpha_38
+  - first:
+      213: 850282860473001229
+    second: peasantGoldAlpha_39
+  - first:
+      213: 8216252891711319704
+    second: peasantGoldAlpha_40
+  - first:
+      213: 7248339917290215426
+    second: peasantGoldAlpha_41
+  - first:
+      213: -5548954934770469683
+    second: peasantGoldAlpha_42
+  - first:
+      213: 8200557330120300211
+    second: peasantGoldAlpha_43
+  - first:
+      213: -7176234360575334634
+    second: peasantGoldAlpha_44
+  - first:
+      213: 7461386699860734630
+    second: peasantGoldAlpha_45
+  - first:
+      213: -6961897682247797695
+    second: peasantGoldAlpha_46
+  - first:
+      213: -7323000356831055804
+    second: peasantGoldAlpha_47
+  - first:
+      213: -7533042501178435757
+    second: peasantGoldAlpha_48
+  - first:
+      213: 7091425001812297511
+    second: peasantGoldAlpha_49
+  - first:
+      213: -65825693070818530
+    second: peasantGoldAlpha_50
+  - first:
+      213: -4463680071652041500
+    second: peasantGoldAlpha_51
+  - first:
+      213: -7262778327109007831
+    second: peasantGoldAlpha_52
+  - first:
+      213: -5332582611907313792
+    second: peasantGoldAlpha_53
+  - first:
+      213: 3138990634775201832
+    second: peasantGoldAlpha_54
+  - first:
+      213: 3560053761463050319
+    second: peasantGoldAlpha_55
+  - first:
+      213: -8846054087721862409
+    second: peasantGoldAlpha_56
+  - first:
+      213: 4072152323175070112
+    second: peasantGoldAlpha_57
+  - first:
+      213: 2035532216606786716
+    second: peasantGoldAlpha_58
+  - first:
+      213: 5568688279542752903
+    second: peasantGoldAlpha_59
+  - first:
+      213: 3432114355319515301
+    second: peasantGoldAlpha_60
+  - first:
+      213: 3630369089150048431
+    second: peasantGoldAlpha_61
+  - first:
+      213: 4325032144812189619
+    second: peasantGoldAlpha_62
+  - first:
+      213: -496736410716784529
+    second: peasantGoldAlpha_63
+  - first:
+      213: 6398863936088140580
+    second: peasantGoldAlpha_64
+  - first:
+      213: -5426990930698589567
+    second: peasantGoldAlpha_65
+  - first:
+      213: -3247110807799691537
+    second: peasantGoldAlpha_66
+  - first:
+      213: -671435943203175463
+    second: peasantGoldAlpha_67
+  - first:
+      213: 350070268676612201
+    second: peasantGoldAlpha_68
+  - first:
+      213: -4528814790260903558
+    second: peasantGoldAlpha_69
+  - first:
+      213: -6889476127011603579
+    second: peasantGoldAlpha_70
+  - first:
+      213: -4220721786429627410
+    second: peasantGoldAlpha_71
+  - first:
+      213: 1904612746803135027
+    second: peasantGoldAlpha_72
+  - first:
+      213: -7696624054945559502
+    second: peasantGoldAlpha_73
+  - first:
+      213: -8632635082073676827
+    second: peasantGoldAlpha_74
+  - first:
+      213: 7906137275241518981
+    second: peasantGoldAlpha_75
+  - first:
+      213: 2017396810185073866
+    second: peasantGoldAlpha_76
+  - first:
+      213: 2205323977435418215
+    second: peasantGoldAlpha_77
+  - first:
+      213: -451507634616983893
+    second: peasantGoldAlpha_78
+  - first:
+      213: -5849915766705389828
+    second: peasantGoldAlpha_79
+  - first:
+      213: 8396201912640245793
+    second: peasantGoldAlpha_80
+  - first:
+      213: 2913507263031317988
+    second: peasantGoldAlpha_81
+  - first:
+      213: -7058112137362650270
+    second: peasantGoldAlpha_82
+  - first:
+      213: -158458930858535428
+    second: peasantGoldAlpha_83
+  - first:
+      213: 383706250901190202
+    second: peasantGoldAlpha_84
+  - first:
+      213: -1047302545766190538
+    second: peasantGoldAlpha_85
+  - first:
+      213: -4953522615267348461
+    second: peasantGoldAlpha_86
+  - first:
+      213: 54706040279890771
+    second: peasantGoldAlpha_87
+  - first:
+      213: -273236896084259029
+    second: peasantGoldAlpha_88
+  - first:
+      213: 5472688632523130049
+    second: peasantGoldAlpha_89
+  - first:
+      213: -4649852568930765703
+    second: peasantGoldAlpha_90
+  - first:
+      213: 7218388021050326671
+    second: peasantGoldAlpha_91
+  - first:
+      213: -3325553077161172699
+    second: peasantGoldAlpha_92
+  - first:
+      213: -445821900971175893
+    second: peasantGoldAlpha_93
+  - first:
+      213: -5855420388566841396
+    second: peasantGoldAlpha_94
+  - first:
+      213: -8522475461517390618
+    second: peasantGoldAlpha_95
+  - first:
+      213: 6563695483626387083
+    second: peasantGoldAlpha_96
+  - first:
+      213: -4895699918899292114
+    second: peasantGoldAlpha_97
+  - first:
+      213: 3239030032165338528
+    second: peasantGoldAlpha_98
+  - first:
+      213: 2530829989635045866
+    second: peasantGoldAlpha_99
+  - first:
+      213: 5276868401992640536
+    second: peasantGoldAlpha_100
+  - first:
+      213: -6737326530888801566
+    second: peasantGoldAlpha_101
+  - first:
+      213: -8535018749006931425
+    second: peasantGoldAlpha_102
+  - first:
+      213: 7210293229730661909
+    second: peasantGoldAlpha_103
+  - first:
+      213: 1872529474301592628
+    second: peasantGoldAlpha_104
+  - first:
+      213: -3870149824202447544
+    second: peasantGoldAlpha_105
+  - first:
+      213: 5516046344723730337
+    second: peasantGoldAlpha_106
+  - first:
+      213: 7921839438314444514
+    second: peasantGoldAlpha_107
+  - first:
+      213: 2467413663085661294
+    second: peasantGoldAlpha_108
+  - first:
+      213: 6279084812953899037
+    second: peasantGoldAlpha_109
+  - first:
+      213: 3967418443986108194
+    second: peasantGoldAlpha_110
+  - first:
+      213: -3755594357826776624
+    second: peasantGoldAlpha_111
+  - first:
+      213: 6462720318586119162
+    second: peasantGoldAlpha_112
+  - first:
+      213: -6455862983017896772
+    second: peasantGoldAlpha_113
+  - first:
+      213: -8302811894409080525
+    second: peasantGoldAlpha_114
+  - first:
+      213: 7112141488041102489
+    second: peasantGoldAlpha_115
+  - first:
+      213: -4743160523701140506
+    second: peasantGoldAlpha_116
+  - first:
+      213: -1485141671116936085
+    second: peasantGoldAlpha_117
+  - first:
+      213: -7138686323409376399
+    second: peasantGoldAlpha_118
+  - first:
+      213: 8844668126210726259
+    second: peasantGoldAlpha_119
+  - first:
+      213: 1459693048055501208
+    second: peasantGoldAlpha_120
+  - first:
+      213: -8742386428025950338
+    second: peasantGoldAlpha_121
+  - first:
+      213: 2079834104718151169
+    second: peasantGoldAlpha_122
+  - first:
+      213: 3345046638608152033
+    second: peasantGoldAlpha_123
+  - first:
+      213: -4112616322341732468
+    second: peasantGoldAlpha_124
+  - first:
+      213: 7849229472206759722
+    second: peasantGoldAlpha_125
+  - first:
+      213: 6632296708788315917
+    second: peasantGoldAlpha_126
+  - first:
+      213: 7839297944773326996
+    second: peasantGoldAlpha_127
+  - first:
+      213: -2597102244384310530
+    second: peasantGoldAlpha_128
+  - first:
+      213: 8466479191593642045
+    second: peasantGoldAlpha_129
+  - first:
+      213: 3045648853597383037
+    second: peasantGoldAlpha_130
+  - first:
+      213: 8438356110583193297
+    second: peasantGoldAlpha_131
+  - first:
+      213: 6974217993577576001
+    second: peasantGoldAlpha_132
+  - first:
+      213: 3675911726623653533
+    second: peasantGoldAlpha_133
+  - first:
+      213: -1787660466029877297
+    second: peasantGoldAlpha_134
+  - first:
+      213: 5507665954615547205
+    second: peasantGoldAlpha_135
+  - first:
+      213: -1452744556810138501
+    second: peasantGoldAlpha_136
+  - first:
+      213: -8809670329575599089
+    second: peasantGoldAlpha_137
+  - first:
+      213: -4461108011158224568
+    second: peasantGoldAlpha_138
+  - first:
+      213: -8414990532879973715
+    second: peasantGoldAlpha_139
+  - first:
+      213: -6025195601871151855
+    second: peasantGoldAlpha_140
+  - first:
+      213: 615966953388601097
+    second: peasantGoldAlpha_141
+  - first:
+      213: 8712942831991145561
+    second: peasantGoldAlpha_142
+  - first:
+      213: 5568667501844769773
+    second: peasantGoldAlpha_143
+  - first:
+      213: -74360183402908945
+    second: peasantGoldAlpha_144
+  - first:
+      213: 976218279261619671
+    second: peasantGoldAlpha_145
+  - first:
+      213: 122133180899383815
+    second: peasantGoldAlpha_146
+  - first:
+      213: 1134227183327877458
+    second: peasantGoldAlpha_147
+  - first:
+      213: -405913296362034131
+    second: peasantGoldAlpha_148
+  - first:
+      213: -1921565898502587679
+    second: peasantGoldAlpha_149
+  - first:
+      213: -8756999411927887372
+    second: peasantGoldAlpha_150
+  - first:
+      213: -6804199838988771958
+    second: peasantGoldAlpha_151
+  - first:
+      213: -9076896618233290324
+    second: peasantGoldAlpha_152
+  - first:
+      213: 2320586873077979482
+    second: peasantGoldAlpha_153
+  - first:
+      213: -5983986145314114105
+    second: peasantGoldAlpha_154
+  - first:
+      213: 1289641242189522020
+    second: peasantGoldAlpha_155
+  - first:
+      213: -8915251660630987703
+    second: peasantGoldAlpha_156
+  - first:
+      213: -1468944099349559902
+    second: peasantGoldAlpha_157
+  - first:
+      213: -2218235572970030960
+    second: peasantGoldAlpha_158
+  - first:
+      213: 8876009778800905118
+    second: peasantGoldAlpha_159
+  - first:
+      213: -8351370736863689346
+    second: peasantGoldAlpha_160
+  - first:
+      213: -6595740959135918782
+    second: peasantGoldAlpha_161
+  - first:
+      213: -4059021793487322589
+    second: peasantGoldAlpha_162
+  - first:
+      213: 4475887220698955430
+    second: peasantGoldAlpha_163
+  - first:
+      213: -8313962799215325178
+    second: peasantGoldAlpha_164
+  - first:
+      213: -1315255174001187345
+    second: peasantGoldAlpha_165
+  - first:
+      213: -7423245837129687051
+    second: peasantGoldAlpha_166
+  - first:
+      213: -1470026141013845173
+    second: peasantGoldAlpha_167
+  - first:
+      213: 4541891131008070209
+    second: peasantGoldAlpha_168
+  - first:
+      213: -6285875236884949257
+    second: peasantGoldAlpha_169
+  - first:
+      213: -2887433836732266685
+    second: peasantGoldAlpha_170
+  - first:
+      213: -5028297827069267124
+    second: peasantGoldAlpha_171
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: peasantGoldAlpha_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 735
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3027fac478b93bfd0800000000000000
+      internalID: -2327345577010957821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 741
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60aebd30bb1cde490800000000000000
+      internalID: -7715297577648002554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 728
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda41ba2663421ee0800000000000000
+      internalID: -1291896037019923746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 738
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b614d78d0df710230800000000000000
+      internalID: 3603301711835119979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 734
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2f2fd9f74e46f90800000000000000
+      internalID: -6961187887246019853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 734
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc54a106731429390800000000000000
+      internalID: -7813110697443047985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 727
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dbca7ee79ed1cf0800000000000000
+      internalID: -279810870565094099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 738
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f73e924d665cd40800000000000000
+      internalID: 5603998372754325256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 737
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08614754da1c84300800000000000000
+      internalID: 236651930375689856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 740
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1eef2fe12c6ac160800000000000000
+      internalID: 7046563459977178651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_10
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 727
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c234cfe5cc5cdd0800000000000000
+      internalID: -2466340512584225722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 728
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c18fffd00cf1ef0800000000000000
+      internalID: -135178297436267479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 727
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab80bb812dd14450800000000000000
+      internalID: 6071376908819401634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 727
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04028a6d11edb6050800000000000000
+      internalID: 5794969513739427904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 727
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a471c7351ee781ee0800000000000000
+      internalID: -1290141787008264374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 669
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1653d3d3fabc1220800000000000000
+      internalID: 2458045053031110174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 669
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd2cd3637653d5d0800000000000000
+      internalID: -3038990269948351028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 663
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902236698ff2630f0800000000000000
+      internalID: -1137669111142997495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 672
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3030c6ff21d60020800000000000000
+      internalID: 2307761863007416383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_19
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 663
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6ef21a639891010800000000000000
+      internalID: 1160109246750123719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 671
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f4c7c7091e199b0800000000000000
+      internalID: -5075027294389776614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 664
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9087952bc11df7320800000000000000
+      internalID: 2557993034551228425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 663
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01203407d88867420800000000000000
+      internalID: 2627437573672469008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 673
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040ec4b42b031ba80800000000000000
+      internalID: -8452921483272069056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_24
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 663
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a62807ab964aedd0800000000000000
+      internalID: -2456073012440979806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_25
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 674
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cca7076f5d85b480800000000000000
+      internalID: -8884039249028469566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_26
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 664
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702eeab5b8c5d3a50800000000000000
+      internalID: 6502455190601261575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_27
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 663
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ff771767a5fb4e0800000000000000
+      internalID: -1963751447753916617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 615
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dffa56541b0e540800000000000000
+      internalID: 5035219295017106828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 614
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ba0d4a154c412b0800000000000000
+      internalID: -5614646980487632012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 599
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0325ce78e98a8610800000000000000
+      internalID: 1624262247272751882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_31
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 609
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac9f44f6f47b8e30800000000000000
+      internalID: 4506824456123948197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_32
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 610
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1067f0e38159f79f0800000000000000
+      internalID: -468491904870287871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 607
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fff7dc8244e15690800000000000000
+      internalID: -7615054520424857611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_34
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 609
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51772ab1ee1a14860800000000000000
+      internalID: 7512463697468618517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_35
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 600
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fbf00b668cbac30800000000000000
+      internalID: 4371808206659239771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_36
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 612
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b63da7139d5b6f0800000000000000
+      internalID: -669390163057349863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_37
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 599
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82ca4436746604d0800000000000000
+      internalID: -3168734828962332017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_38
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 599
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55027240e9701cf20800000000000000
+      internalID: 3441039965543669845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_39
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 599
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05a811b1cfcccb00800000000000000
+      internalID: 850282860473001229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_40
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 599
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89eaa33397ef50270800000000000000
+      internalID: 8216252891711319704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_41
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 599
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2081e5d50c6479460800000000000000
+      internalID: 7248339917290215426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_42
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 599
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4fa5ee2e62ef2b0800000000000000
+      internalID: -5548954934770469683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 535
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6db0e717b3ec170800000000000000
+      internalID: 8200557330120300211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_44
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 547
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61764f0ded4e86c90800000000000000
+      internalID: -7176234360575334634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_45
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 535
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2f501ebab2c8760800000000000000
+      internalID: 7461386699860734630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_46
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 544
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144310791fe526f90800000000000000
+      internalID: -6961897682247797695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 535
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440b60179f97f5a90800000000000000
+      internalID: -7323000356831055804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_48
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 543
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357d657c1c1457790800000000000000
+      internalID: -7533042501178435757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_49
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 536
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7278858977dc96260800000000000000
+      internalID: 7091425001812297511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_50
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 535
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e138b6381e3261ff0800000000000000
+      internalID: -65825693070818530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_51
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 545
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec903adf92dd02c0800000000000000
+      internalID: -4463680071652041500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_52
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 535
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9260342679d653b90800000000000000
+      internalID: -7262778327109007831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_53
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 544
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ff6d12e5cdef5b0800000000000000
+      internalID: -5332582611907313792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_54
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 535
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828cd0be95fef8b20800000000000000
+      internalID: 3138990634775201832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_55
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 545
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f406c49b80ad76130800000000000000
+      internalID: 3560053761463050319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_56
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 535
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa3275fca08c3580800000000000000
+      internalID: -8846054087721862409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9b12676f0338830800000000000000
+      internalID: 4072152323175070112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_58
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 484
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9406bb24c9af3c10800000000000000
+      internalID: 2035532216606786716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_59
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 472
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786e60f6c74f74d40800000000000000
+      internalID: 5568688279542752903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_60
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 481
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8a65172d151af20800000000000000
+      internalID: 3432114355319515301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_61
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 473
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8d85ab379a16230800000000000000
+      internalID: 3630369089150048431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 482
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b72da912d9950c30800000000000000
+      internalID: 4325032144812189619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_63
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 471
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f683934cddc3b19f0800000000000000
+      internalID: -496736410716784529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_64
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b6794e8d45dc850800000000000000
+      internalID: 6398863936088140580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_65
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 471
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18aa17080847fa4b0800000000000000
+      internalID: -5426990930698589567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_66
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 481
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe684ca9ce1ffe2d0800000000000000
+      internalID: -3247110807799691537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_67
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 471
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d302fb21949ea6f0800000000000000
+      internalID: -671435943203175463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_68
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 471
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96025eafd03bbd400800000000000000
+      internalID: 350070268676612201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_69
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 483
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71b6f461fa6621c0800000000000000
+      internalID: -4528814790260903558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_70
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 471
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b70f8e6f9a360a0800000000000000
+      internalID: -6889476127011603579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_71
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 471
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee32c18c5ebfc65c0800000000000000
+      internalID: -4220721786429627410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_72
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 407
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332c1efb33b8e6a10800000000000000
+      internalID: 1904612746803135027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_73
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 407
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c4e335339103590800000000000000
+      internalID: -7696624054945559502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_74
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 408
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e36c696128b23880800000000000000
+      internalID: -8632635082073676827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_75
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 407
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587de3c96fd38bd60800000000000000
+      internalID: 7906137275241518981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_76
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 410
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac46612d5bb3ffb10800000000000000
+      internalID: 2017396810185073866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_77
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 414
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e80b12972ea9e10800000000000000
+      internalID: 2205323977435418215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_78
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 400
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae1741d23cebb9f0800000000000000
+      internalID: -451507634616983893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_79
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 411
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe7197ba9ce0dea0800000000000000
+      internalID: -5849915766705389828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_80
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 400
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1209061972d458470800000000000000
+      internalID: 8396201912640245793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_81
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 415
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e590875b6bde6820800000000000000
+      internalID: 2913507263031317988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_82
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 399
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b40a3186c8c0e90800000000000000
+      internalID: -7058112137362650270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_83
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 413
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf550b2217a0dcdf0800000000000000
+      internalID: -158458930858535428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_84
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 407
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36ff0f5dc2335500800000000000000
+      internalID: 383706250901190202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_85
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 409
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6327e3b22eb3771f0800000000000000
+      internalID: -1047302545766190538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_86
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 407
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31030222d6d814bb0800000000000000
+      internalID: -4953522615267348461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_87
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 343
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b73f19ada52c000800000000000000
+      internalID: 54706040279890771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_88
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 343
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f0e5d9d74453cf0800000000000000
+      internalID: -273236896084259029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_89
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 344
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c40cd3d055e2fb40800000000000000
+      internalID: 5472688632523130049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_90
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 343
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b1fa79b7687fb0800000000000000
+      internalID: -4649852568930765703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_91
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 346
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eb3a519addc2460800000000000000
+      internalID: 7218388021050326671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_92
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 350
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521e91a881349d1d0800000000000000
+      internalID: -3325553077161172699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_93
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 336
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b201687d75f10d9f0800000000000000
+      internalID: -445821900971175893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_94
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 347
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7c4e01e2e5dbea0800000000000000
+      internalID: -5855420388566841396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_95
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 336
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecc545c8b51ab980800000000000000
+      internalID: -8522475461517390618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_96
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 351
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86f263344ee61b50800000000000000
+      internalID: 6563695483626387083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_97
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 335
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28591fbcdafe0cb0800000000000000
+      internalID: -4895699918899292114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_98
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 349
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad790437a853fc20800000000000000
+      internalID: 3239030032165338528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_99
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 343
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae93a1777705f1320800000000000000
+      internalID: 2530829989635045866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_100
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 343
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81821438ad33b3940800000000000000
+      internalID: 5276868401992640536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_101
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 279
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2ee8e47353082a0800000000000000
+      internalID: -6737326530888801566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_102
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a94221ba58d8980800000000000000
+      internalID: -8535018749006931425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_103
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 279
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516008c9d7b101460800000000000000
+      internalID: 7210293229730661909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_104
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 281
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4340233c2af8cf910800000000000000
+      internalID: 1872529474301592628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_105
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 272
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8456fd46d377a4ac0800000000000000
+      internalID: -3870149824202447544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_106
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af89dddceeec8c40800000000000000
+      internalID: 5516046344723730337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_107
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 282
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e699685ff600fd60800000000000000
+      internalID: 7921839438314444514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_108
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 287
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c8a2657a30e3220800000000000000
+      internalID: 2467413663085661294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_109
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 273
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10daae8e5ac32750800000000000000
+      internalID: 6279084812953899037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_110
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 279
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fff15fd0a1f0730800000000000000
+      internalID: 3967418443986108194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_111
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 280
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1164d54d271ebc0800000000000000
+      internalID: -3755594357826776624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_112
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 279
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3660883e130b950800000000000000
+      internalID: 6462720318586119162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_113
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 272
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4ef9252da2866a0800000000000000
+      internalID: -6455862983017896772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_114
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 229
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331dbdc729c76cc80800000000000000
+      internalID: -8302811894409080525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_115
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 223
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c020b600763b260800000000000000
+      internalID: 7112141488041102489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_116
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 228
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3432052a8ec2eb0800000000000000
+      internalID: -4743160523701140506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_117
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 222
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ce1fbc487b36be0800000000000000
+      internalID: -1485141671116936085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_118
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bae3a7c9a4eec90800000000000000
+      internalID: -7138686323409376399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_119
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 218
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379920bbcc29eba70800000000000000
+      internalID: 8844668126210726259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_120
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 223
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891947ae71fd14410800000000000000
+      internalID: 1459693048055501208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_121
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 215
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f2154ecddcca680800000000000000
+      internalID: -8742386428025950338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_122
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 215
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ec77b491e0ddc10800000000000000
+      internalID: 2079834104718151169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_123
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 215
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e57a5be13efb6e20800000000000000
+      internalID: 3345046638608152033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_124
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 226
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ff8519e3d0de6c0800000000000000
+      internalID: -4112616322341732468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_125
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 215
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2729633e901eec60800000000000000
+      internalID: 7849229472206759722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_126
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07e15c97b6aa0c50800000000000000
+      internalID: 6632296708788315917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_127
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 222
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498f9a642f7cacc60800000000000000
+      internalID: 7839297944773326996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_128
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 223
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa7a1ec44d35fbd0800000000000000
+      internalID: -2597102244384310530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_129
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 215
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38ec29a7f9fe7570800000000000000
+      internalID: 8466479191593642045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_130
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 151
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d796f3dee71544a20800000000000000
+      internalID: 3045648853597383037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_131
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 151
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dede8b9c201b1570800000000000000
+      internalID: 8438356110583193297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_132
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 143
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146345d605669c060800000000000000
+      internalID: 6974217993577576001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_133
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 143
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e78135d36730330800000000000000
+      internalID: 3675911726623653533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_134
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7a74f0744f037e0800000000000000
+      internalID: -1787660466029877297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_135
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 143
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5455f5e31092f6c40800000000000000
+      internalID: 5507665954615547205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_136
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 144
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c03f5c580d6dbe0800000000000000
+      internalID: -1452744556810138501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_137
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 140
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f041959c283cdb580800000000000000
+      internalID: -8809670329575599089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_138
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 143
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841c34a56e5f612c0800000000000000
+      internalID: -4461108011158224568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_139
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 143
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da20a63e1b2f73b80800000000000000
+      internalID: -8414990532879973715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_140
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 144
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d5930e584326ca0800000000000000
+      internalID: -6025195601871151855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_141
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 143
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f6b1a3eaa5c8800800000000000000
+      internalID: 615966953388601097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_142
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 152
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9544e11b7579ae870800000000000000
+      internalID: 8712942831991145561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_143
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb28bfb691e74d40800000000000000
+      internalID: 5568667501844769773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_144
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 82
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe236d2aec1d7fef0800000000000000
+      internalID: -74360183402908945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_145
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5c1ae4a593c8d00800000000000000
+      internalID: 976218279261619671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_146
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 75
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70adbce1b77e1b100800000000000000
+      internalID: 122133180899383815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_147
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25999d42d959dbf00800000000000000
+      internalID: 1134227183327877458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_148
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 72
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cabb0f108ed5af0800000000000000
+      internalID: -405913296362034131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_149
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 71
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eabf370ff93555e0800000000000000
+      internalID: -1921565898502587679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_150
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1dbb17e63e87680800000000000000
+      internalID: -8756999411927887372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_151
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ddd40fb40a291a0800000000000000
+      internalID: -6804199838988771958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_152
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 71
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1a24ffd92680280800000000000000
+      internalID: -9076896618233290324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_153
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a595f305771643020800000000000000
+      internalID: 2320586873077979482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_154
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c571bb2e4c94fca0800000000000000
+      internalID: -5983986145314114105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_155
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 71
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464666080e9b5e110800000000000000
+      internalID: 1289641242189522020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_156
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 80
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ce0e489d9a64480800000000000000
+      internalID: -8915251660630987703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_157
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a50d5bdf134d9be0800000000000000
+      internalID: -1468944099349559902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_158
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0987cf4cf7e3731e0800000000000000
+      internalID: -2218235572970030960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_159
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b4250eddbed2b70800000000000000
+      internalID: 8876009778800905118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_160
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 11
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75c5a1ff88f91c80800000000000000
+      internalID: -8351370736863689346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_161
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 7
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245953c1b883774a0800000000000000
+      internalID: -6595740959135918782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_162
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 9
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3228e973f257ba7c0800000000000000
+      internalID: -4059021793487322589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_163
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 11
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeb87486bb8d1e30800000000000000
+      internalID: 4475887220698955430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_164
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60055f422eede9c80800000000000000
+      internalID: -8313962799215325178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_165
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 8
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe52aa443664fbde0800000000000000
+      internalID: -1315255174001187345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_166
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffdc7dbd355bf890800000000000000
+      internalID: -7423245837129687051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_167
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bd456630b699be0800000000000000
+      internalID: -1470026141013845173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_168
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 8
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142bb307be9080f30800000000000000
+      internalID: 4541891131008070209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_169
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f65c0ba6c514c8a0800000000000000
+      internalID: -6285875236884949257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_170
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 8
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34741294936cde7d0800000000000000
+      internalID: -2887433836732266685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantGoldAlpha_171
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43faa074c5e73ab0800000000000000
+      internalID: -5028297827069267124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      peasantGoldAlpha_0: -2327345577010957821
+      peasantGoldAlpha_1: -7715297577648002554
+      peasantGoldAlpha_10: -2466340512584225722
+      peasantGoldAlpha_100: 5276868401992640536
+      peasantGoldAlpha_101: -6737326530888801566
+      peasantGoldAlpha_102: -8535018749006931425
+      peasantGoldAlpha_103: 7210293229730661909
+      peasantGoldAlpha_104: 1872529474301592628
+      peasantGoldAlpha_105: -3870149824202447544
+      peasantGoldAlpha_106: 5516046344723730337
+      peasantGoldAlpha_107: 7921839438314444514
+      peasantGoldAlpha_108: 2467413663085661294
+      peasantGoldAlpha_109: 6279084812953899037
+      peasantGoldAlpha_11: -135178297436267479
+      peasantGoldAlpha_110: 3967418443986108194
+      peasantGoldAlpha_111: -3755594357826776624
+      peasantGoldAlpha_112: 6462720318586119162
+      peasantGoldAlpha_113: -6455862983017896772
+      peasantGoldAlpha_114: -8302811894409080525
+      peasantGoldAlpha_115: 7112141488041102489
+      peasantGoldAlpha_116: -4743160523701140506
+      peasantGoldAlpha_117: -1485141671116936085
+      peasantGoldAlpha_118: -7138686323409376399
+      peasantGoldAlpha_119: 8844668126210726259
+      peasantGoldAlpha_12: 6071376908819401634
+      peasantGoldAlpha_120: 1459693048055501208
+      peasantGoldAlpha_121: -8742386428025950338
+      peasantGoldAlpha_122: 2079834104718151169
+      peasantGoldAlpha_123: 3345046638608152033
+      peasantGoldAlpha_124: -4112616322341732468
+      peasantGoldAlpha_125: 7849229472206759722
+      peasantGoldAlpha_126: 6632296708788315917
+      peasantGoldAlpha_127: 7839297944773326996
+      peasantGoldAlpha_128: -2597102244384310530
+      peasantGoldAlpha_129: 8466479191593642045
+      peasantGoldAlpha_13: 5794969513739427904
+      peasantGoldAlpha_130: 3045648853597383037
+      peasantGoldAlpha_131: 8438356110583193297
+      peasantGoldAlpha_132: 6974217993577576001
+      peasantGoldAlpha_133: 3675911726623653533
+      peasantGoldAlpha_134: -1787660466029877297
+      peasantGoldAlpha_135: 5507665954615547205
+      peasantGoldAlpha_136: -1452744556810138501
+      peasantGoldAlpha_137: -8809670329575599089
+      peasantGoldAlpha_138: -4461108011158224568
+      peasantGoldAlpha_139: -8414990532879973715
+      peasantGoldAlpha_14: -1290141787008264374
+      peasantGoldAlpha_140: -6025195601871151855
+      peasantGoldAlpha_141: 615966953388601097
+      peasantGoldAlpha_142: 8712942831991145561
+      peasantGoldAlpha_143: 5568667501844769773
+      peasantGoldAlpha_144: -74360183402908945
+      peasantGoldAlpha_145: 976218279261619671
+      peasantGoldAlpha_146: 122133180899383815
+      peasantGoldAlpha_147: 1134227183327877458
+      peasantGoldAlpha_148: -405913296362034131
+      peasantGoldAlpha_149: -1921565898502587679
+      peasantGoldAlpha_15: 2458045053031110174
+      peasantGoldAlpha_150: -8756999411927887372
+      peasantGoldAlpha_151: -6804199838988771958
+      peasantGoldAlpha_152: -9076896618233290324
+      peasantGoldAlpha_153: 2320586873077979482
+      peasantGoldAlpha_154: -5983986145314114105
+      peasantGoldAlpha_155: 1289641242189522020
+      peasantGoldAlpha_156: -8915251660630987703
+      peasantGoldAlpha_157: -1468944099349559902
+      peasantGoldAlpha_158: -2218235572970030960
+      peasantGoldAlpha_159: 8876009778800905118
+      peasantGoldAlpha_16: -3038990269948351028
+      peasantGoldAlpha_160: -8351370736863689346
+      peasantGoldAlpha_161: -6595740959135918782
+      peasantGoldAlpha_162: -4059021793487322589
+      peasantGoldAlpha_163: 4475887220698955430
+      peasantGoldAlpha_164: -8313962799215325178
+      peasantGoldAlpha_165: -1315255174001187345
+      peasantGoldAlpha_166: -7423245837129687051
+      peasantGoldAlpha_167: -1470026141013845173
+      peasantGoldAlpha_168: 4541891131008070209
+      peasantGoldAlpha_169: -6285875236884949257
+      peasantGoldAlpha_17: -1137669111142997495
+      peasantGoldAlpha_170: -2887433836732266685
+      peasantGoldAlpha_171: -5028297827069267124
+      peasantGoldAlpha_18: 2307761863007416383
+      peasantGoldAlpha_19: 1160109246750123719
+      peasantGoldAlpha_2: -1291896037019923746
+      peasantGoldAlpha_20: -5075027294389776614
+      peasantGoldAlpha_21: 2557993034551228425
+      peasantGoldAlpha_22: 2627437573672469008
+      peasantGoldAlpha_23: -8452921483272069056
+      peasantGoldAlpha_24: -2456073012440979806
+      peasantGoldAlpha_25: -8884039249028469566
+      peasantGoldAlpha_26: 6502455190601261575
+      peasantGoldAlpha_27: -1963751447753916617
+      peasantGoldAlpha_28: 5035219295017106828
+      peasantGoldAlpha_29: -5614646980487632012
+      peasantGoldAlpha_3: 3603301711835119979
+      peasantGoldAlpha_30: 1624262247272751882
+      peasantGoldAlpha_31: 4506824456123948197
+      peasantGoldAlpha_32: -468491904870287871
+      peasantGoldAlpha_33: -7615054520424857611
+      peasantGoldAlpha_34: 7512463697468618517
+      peasantGoldAlpha_35: 4371808206659239771
+      peasantGoldAlpha_36: -669390163057349863
+      peasantGoldAlpha_37: -3168734828962332017
+      peasantGoldAlpha_38: 3441039965543669845
+      peasantGoldAlpha_39: 850282860473001229
+      peasantGoldAlpha_4: -6961187887246019853
+      peasantGoldAlpha_40: 8216252891711319704
+      peasantGoldAlpha_41: 7248339917290215426
+      peasantGoldAlpha_42: -5548954934770469683
+      peasantGoldAlpha_43: 8200557330120300211
+      peasantGoldAlpha_44: -7176234360575334634
+      peasantGoldAlpha_45: 7461386699860734630
+      peasantGoldAlpha_46: -6961897682247797695
+      peasantGoldAlpha_47: -7323000356831055804
+      peasantGoldAlpha_48: -7533042501178435757
+      peasantGoldAlpha_49: 7091425001812297511
+      peasantGoldAlpha_5: -7813110697443047985
+      peasantGoldAlpha_50: -65825693070818530
+      peasantGoldAlpha_51: -4463680071652041500
+      peasantGoldAlpha_52: -7262778327109007831
+      peasantGoldAlpha_53: -5332582611907313792
+      peasantGoldAlpha_54: 3138990634775201832
+      peasantGoldAlpha_55: 3560053761463050319
+      peasantGoldAlpha_56: -8846054087721862409
+      peasantGoldAlpha_57: 4072152323175070112
+      peasantGoldAlpha_58: 2035532216606786716
+      peasantGoldAlpha_59: 5568688279542752903
+      peasantGoldAlpha_6: -279810870565094099
+      peasantGoldAlpha_60: 3432114355319515301
+      peasantGoldAlpha_61: 3630369089150048431
+      peasantGoldAlpha_62: 4325032144812189619
+      peasantGoldAlpha_63: -496736410716784529
+      peasantGoldAlpha_64: 6398863936088140580
+      peasantGoldAlpha_65: -5426990930698589567
+      peasantGoldAlpha_66: -3247110807799691537
+      peasantGoldAlpha_67: -671435943203175463
+      peasantGoldAlpha_68: 350070268676612201
+      peasantGoldAlpha_69: -4528814790260903558
+      peasantGoldAlpha_7: 5603998372754325256
+      peasantGoldAlpha_70: -6889476127011603579
+      peasantGoldAlpha_71: -4220721786429627410
+      peasantGoldAlpha_72: 1904612746803135027
+      peasantGoldAlpha_73: -7696624054945559502
+      peasantGoldAlpha_74: -8632635082073676827
+      peasantGoldAlpha_75: 7906137275241518981
+      peasantGoldAlpha_76: 2017396810185073866
+      peasantGoldAlpha_77: 2205323977435418215
+      peasantGoldAlpha_78: -451507634616983893
+      peasantGoldAlpha_79: -5849915766705389828
+      peasantGoldAlpha_8: 236651930375689856
+      peasantGoldAlpha_80: 8396201912640245793
+      peasantGoldAlpha_81: 2913507263031317988
+      peasantGoldAlpha_82: -7058112137362650270
+      peasantGoldAlpha_83: -158458930858535428
+      peasantGoldAlpha_84: 383706250901190202
+      peasantGoldAlpha_85: -1047302545766190538
+      peasantGoldAlpha_86: -4953522615267348461
+      peasantGoldAlpha_87: 54706040279890771
+      peasantGoldAlpha_88: -273236896084259029
+      peasantGoldAlpha_89: 5472688632523130049
+      peasantGoldAlpha_9: 7046563459977178651
+      peasantGoldAlpha_90: -4649852568930765703
+      peasantGoldAlpha_91: 7218388021050326671
+      peasantGoldAlpha_92: -3325553077161172699
+      peasantGoldAlpha_93: -445821900971175893
+      peasantGoldAlpha_94: -5855420388566841396
+      peasantGoldAlpha_95: -8522475461517390618
+      peasantGoldAlpha_96: 6563695483626387083
+      peasantGoldAlpha_97: -4895699918899292114
+      peasantGoldAlpha_98: 3239030032165338528
+      peasantGoldAlpha_99: 2530829989635045866
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

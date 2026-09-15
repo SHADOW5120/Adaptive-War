@@ -1,0 +1,2808 @@
+fileFormatVersion: 2
+guid: 5b7a201679a89a844b8e79af503b2838
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4605025062130359389
+    second: loot_props-spritesheet_0
+  - first:
+      213: 8260005529263476781
+    second: loot_props-spritesheet_1
+  - first:
+      213: 6051860580487807147
+    second: loot_props-spritesheet_2
+  - first:
+      213: -1520736899538477409
+    second: loot_props-spritesheet_3
+  - first:
+      213: -5679085657763162505
+    second: loot_props-spritesheet_4
+  - first:
+      213: 7805545883945988218
+    second: loot_props-spritesheet_5
+  - first:
+      213: 2378908590364975075
+    second: loot_props-spritesheet_6
+  - first:
+      213: 3306133635861003187
+    second: loot_props-spritesheet_7
+  - first:
+      213: 7881246404696861505
+    second: loot_props-spritesheet_8
+  - first:
+      213: -6577219268605554835
+    second: loot_props-spritesheet_9
+  - first:
+      213: 8048022124429963106
+    second: loot_props-spritesheet_10
+  - first:
+      213: -1612767865311290671
+    second: loot_props-spritesheet_11
+  - first:
+      213: -7336246373300805204
+    second: loot_props-spritesheet_12
+  - first:
+      213: 8517746076277096316
+    second: loot_props-spritesheet_13
+  - first:
+      213: 5658964993801155837
+    second: loot_props-spritesheet_14
+  - first:
+      213: 6230035865975492796
+    second: loot_props-spritesheet_15
+  - first:
+      213: -8327758942001504923
+    second: loot_props-spritesheet_16
+  - first:
+      213: 6335933359075547026
+    second: loot_props-spritesheet_17
+  - first:
+      213: -1143842040955332593
+    second: loot_props-spritesheet_18
+  - first:
+      213: -2173223163310024472
+    second: loot_props-spritesheet_19
+  - first:
+      213: -7550665819966065701
+    second: loot_props-spritesheet_20
+  - first:
+      213: -1443385394600453303
+    second: loot_props-spritesheet_21
+  - first:
+      213: -2614713049105495589
+    second: loot_props-spritesheet_22
+  - first:
+      213: 1795504530413377863
+    second: loot_props-spritesheet_23
+  - first:
+      213: 7797719790817683568
+    second: loot_props-spritesheet_24
+  - first:
+      213: 1397554786403737254
+    second: loot_props-spritesheet_25
+  - first:
+      213: 1221422025173308306
+    second: loot_props-spritesheet_26
+  - first:
+      213: -311961089060050655
+    second: loot_props-spritesheet_27
+  - first:
+      213: 2440365245925140108
+    second: loot_props-spritesheet_28
+  - first:
+      213: 2239087531058048523
+    second: loot_props-spritesheet_29
+  - first:
+      213: 3067990270618238123
+    second: loot_props-spritesheet_30
+  - first:
+      213: -6097810719277605402
+    second: loot_props-spritesheet_31
+  - first:
+      213: 2167888454595931976
+    second: loot_props-spritesheet_32
+  - first:
+      213: -8843007490401064562
+    second: loot_props-spritesheet_33
+  - first:
+      213: -8795590463367312648
+    second: loot_props-spritesheet_34
+  - first:
+      213: -101951611672922328
+    second: loot_props-spritesheet_35
+  - first:
+      213: -5852518070637520992
+    second: loot_props-spritesheet_36
+  - first:
+      213: 618106223837450280
+    second: loot_props-spritesheet_37
+  - first:
+      213: -1877468613563579525
+    second: loot_props-spritesheet_38
+  - first:
+      213: -2505846378097544758
+    second: loot_props-spritesheet_39
+  - first:
+      213: 4072443694227299503
+    second: loot_props-spritesheet_40
+  - first:
+      213: 3104798731629037956
+    second: loot_props-spritesheet_41
+  - first:
+      213: 8040697925501634874
+    second: loot_props-spritesheet_42
+  - first:
+      213: -5942974309282160438
+    second: loot_props-spritesheet_43
+  - first:
+      213: -7992290802786302531
+    second: loot_props-spritesheet_44
+  - first:
+      213: -8426826511997254303
+    second: loot_props-spritesheet_45
+  - first:
+      213: 3052075423583101462
+    second: loot_props-spritesheet_46
+  - first:
+      213: -3127140270484613205
+    second: loot_props-spritesheet_47
+  - first:
+      213: -503083172402110203
+    second: loot_props-spritesheet_48
+  - first:
+      213: 7085465357333696991
+    second: loot_props-spritesheet_49
+  - first:
+      213: -1900580763458642244
+    second: loot_props-spritesheet_50
+  - first:
+      213: 2457869656742616581
+    second: loot_props-spritesheet_51
+  - first:
+      213: 5408955207546408968
+    second: loot_props-spritesheet_52
+  - first:
+      213: 8140932232624570474
+    second: loot_props-spritesheet_53
+  - first:
+      213: -6120635857401811880
+    second: loot_props-spritesheet_54
+  - first:
+      213: -6408319765052382732
+    second: loot_props-spritesheet_55
+  - first:
+      213: -5701056351302107782
+    second: loot_props-spritesheet_56
+  - first:
+      213: -7421086676035499958
+    second: loot_props-spritesheet_57
+  - first:
+      213: -6099957688321738830
+    second: loot_props-spritesheet_58
+  - first:
+      213: 7606468807107025563
+    second: loot_props-spritesheet_59
+  - first:
+      213: -4235354646792002551
+    second: loot_props-spritesheet_60
+  - first:
+      213: 4984204067557072565
+    second: loot_props-spritesheet_61
+  - first:
+      213: -1581597895963307919
+    second: loot_props-spritesheet_62
+  - first:
+      213: 2438477167613992993
+    second: loot_props-spritesheet_63
+  - first:
+      213: -6700813958728775657
+    second: loot_props-spritesheet_64
+  - first:
+      213: 3995539956001934585
+    second: loot_props-spritesheet_65
+  - first:
+      213: 3904403155712903715
+    second: loot_props-spritesheet_66
+  - first:
+      213: -3503402358116291371
+    second: loot_props-spritesheet_67
+  - first:
+      213: -8916196040888566052
+    second: loot_props-spritesheet_68
+  - first:
+      213: -3188829886417462450
+    second: loot_props-spritesheet_69
+  - first:
+      213: 7865696456905822657
+    second: loot_props-spritesheet_70
+  - first:
+      213: -8646462268312904827
+    second: loot_props-spritesheet_71
+  - first:
+      213: 730012897785343779
+    second: loot_props-spritesheet_72
+  - first:
+      213: -4095459149917117327
+    second: loot_props-spritesheet_73
+  - first:
+      213: 3841258080414737468
+    second: loot_props-spritesheet_74
+  - first:
+      213: 6098618698681353140
+    second: loot_props-spritesheet_75
+  - first:
+      213: -2640388603007076551
+    second: loot_props-spritesheet_76
+  - first:
+      213: -2237937454576947405
+    second: loot_props-spritesheet_77
+  - first:
+      213: 1826808062346947228
+    second: loot_props-spritesheet_78
+  - first:
+      213: 2033543000552764640
+    second: loot_props-spritesheet_79
+  - first:
+      213: 4317418772837765556
+    second: loot_props-spritesheet_80
+  - first:
+      213: -2689077824770061145
+    second: loot_props-spritesheet_81
+  - first:
+      213: -638924854917060000
+    second: loot_props-spritesheet_82
+  - first:
+      213: 1171848535000900967
+    second: loot_props-spritesheet_83
+  - first:
+      213: 3700494984327475592
+    second: loot_props-spritesheet_84
+  - first:
+      213: 1761698658625732154
+    second: loot_props-spritesheet_85
+  - first:
+      213: 5900823158622830725
+    second: loot_props-spritesheet_86
+  - first:
+      213: 799874298539073237
+    second: loot_props-spritesheet_87
+  - first:
+      213: 664672607748322750
+    second: loot_props-spritesheet_88
+  - first:
+      213: 9145897563524702641
+    second: loot_props-spritesheet_89
+  - first:
+      213: -6740423857755985084
+    second: loot_props-spritesheet_90
+  - first:
+      213: -3854354431148100604
+    second: loot_props-spritesheet_91
+  - first:
+      213: -7136786103739004255
+    second: loot_props-spritesheet_92
+  - first:
+      213: 2682561559357158186
+    second: loot_props-spritesheet_93
+  - first:
+      213: -5951731163241017490
+    second: loot_props-spritesheet_94
+  - first:
+      213: -46931554573302906
+    second: loot_props-spritesheet_95
+  - first:
+      213: 8112260815241259922
+    second: loot_props-spritesheet_96
+  - first:
+      213: -8700434335807002239
+    second: loot_props-spritesheet_97
+  - first:
+      213: -8711536463347207151
+    second: loot_props-spritesheet_98
+  - first:
+      213: 8440559251340484760
+    second: loot_props-spritesheet_99
+  - first:
+      213: -5042197741749421072
+    second: loot_props-spritesheet_100
+  - first:
+      213: -689084353529174730
+    second: loot_props-spritesheet_101
+  - first:
+      213: 9178902552891744534
+    second: loot_props-spritesheet_102
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: loot_props-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c1d0245e558ef30800000000000000
+      internalID: 4605025062130359389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d201386f34f61a270800000000000000
+      internalID: 8260005529263476781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 6
+        width: 106
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba04a2242278cf350800000000000000
+      internalID: 6051860580487807147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 5
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e1e2ad8d145eae0800000000000000
+      internalID: -1520736899538477409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 5
+        width: 110
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776d200fea5df21b0800000000000000
+      internalID: -5679085657763162505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 6
+        width: 105
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70fc9a30aed25c60800000000000000
+      internalID: 7805545883945988218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 11
+        width: 122
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef54d942c4930120800000000000000
+      internalID: 2378908590364975075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 5
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb3771760fb1ed20800000000000000
+      internalID: 3306133635861003187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 5
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14be74339dfcf5d60800000000000000
+      internalID: 7881246404696861505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 9
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f49ec3ce509b4a0800000000000000
+      internalID: -6577219268605554835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 9
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fe12f5b7150bf60800000000000000
+      internalID: 8048022124429963106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 9
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da94fadb2c4e99e0800000000000000
+      internalID: -1612767865311290671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 9
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca168a6eaca603a90800000000000000
+      internalID: -7336246373300805204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 9
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f397b6dec153670800000000000000
+      internalID: 8517746076277096316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 4
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df473ebedaea88e40800000000000000
+      internalID: 5658964993801155837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 4
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb09969ac98857650800000000000000
+      internalID: 6230035865975492796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 9
+        width: 121
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ddae65d5bdd6c80800000000000000
+      internalID: -8327758942001504923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 4
+        width: 112
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297de3422d1cde750800000000000000
+      internalID: 6335933359075547026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 7
+        width: 101
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0813bd59b14020f0800000000000000
+      internalID: -1143842040955332593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 2
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e851451c0927d1e0800000000000000
+      internalID: -2173223163310024472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 2
+        width: 116
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd33d3f1175a63790800000000000000
+      internalID: -7550665819966065701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 2
+        width: 115
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b5ad881a018fbe0800000000000000
+      internalID: -1443385394600453303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2
+        width: 116
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd90d7ec55ca6bbd0800000000000000
+      internalID: -2614713049105495589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 2
+        width: 117
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749d4ef7bd9eae810800000000000000
+      internalID: 1795504530413377863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078a8bde5d0173c60800000000000000
+      internalID: 7797719790817683568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 0
+        width: 113
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeddb57cac156310800000000000000
+      internalID: 1397554786403737254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 1
+        width: 117
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2931b4b4cdc53f010800000000000000
+      internalID: 1221422025173308306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129e4d6da01bbabf0800000000000000
+      internalID: -311961089060050655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 0
+        width: 115
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86a395f24bedd120800000000000000
+      internalID: 2440365245925140108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 0
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ea8bd0f36d21f10800000000000000
+      internalID: 2239087531058048523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 0
+        width: 99
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacfd8e65e0b39a20800000000000000
+      internalID: 3067990270618238123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 4238
+        y: 0
+        width: 101
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed93e95579306ba0800000000000000
+      internalID: -6097810719277605402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4374
+        y: 0
+        width: 85
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f6cd04013e51e10800000000000000
+      internalID: 2167888454595931976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 0
+        width: 99
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89a68c2a83574580800000000000000
+      internalID: -8843007490401064562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 0
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa8d291319cfe580800000000000000
+      internalID: -8795590463367312648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4743
+        y: 0
+        width: 115
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827f4f1ac8bc59ef0800000000000000
+      internalID: -101951611672922328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4870
+        y: 0
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7981e92dda7cea0800000000000000
+      internalID: -5852518070637520992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 0
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8201a41f554f39800800000000000000
+      internalID: 618106223837450280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 5143
+        y: 1
+        width: 82
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7309934e34e1f5e0800000000000000
+      internalID: -1877468613563579525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5263
+        y: 6
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1fbc3eef1793dd0800000000000000
+      internalID: -2505846378097544758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5398
+        y: 2
+        width: 84
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac923296f9348830800000000000000
+      internalID: 4072443694227299503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5521
+        y: 2
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48905d91ff5761b20800000000000000
+      internalID: 3104798731629037956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5657
+        y: 1
+        width: 79
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39cebb692c469f60800000000000000
+      internalID: 8040697925501634874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 4
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0e6f95a50568da0800000000000000
+      internalID: -5942974309282160438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 6040
+        y: 1
+        width: 81
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db50d4e1cdda51190800000000000000
+      internalID: -7992290802786302531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 6158
+        y: 6
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1654f804fe5ed0b80800000000000000
+      internalID: -8426826511997254303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 6277
+        y: 8
+        width: 119
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612ee5a5d662b5a20800000000000000
+      internalID: 3052075423583101462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6426
+        y: 3
+        width: 78
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba712f60e7a2a94d0800000000000000
+      internalID: -3127140270484613205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 6550
+        y: 3
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501ee782580b409f0800000000000000
+      internalID: -503083172402110203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6697
+        y: 3
+        width: 46
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1163cb331a45260800000000000000
+      internalID: 7085465357333696991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6801
+        y: 4
+        width: 95
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe5b178dd7cf95e0800000000000000
+      internalID: -1900580763458642244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 3
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50eda523e6b1c1220800000000000000
+      internalID: 2457869656742616581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 7184
+        y: 0
+        width: 96
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8009dc77a18701b40800000000000000
+      internalID: 5408955207546408968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 7323
+        y: 3
+        width: 75
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a608d1aabb66af070800000000000000
+      internalID: 8140932232624570474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 7466
+        y: 0
+        width: 43
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ceb00cd122f0ba0800000000000000
+      internalID: -6120635857401811880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 7577
+        y: 3
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f120fc50231117a0800000000000000
+      internalID: -6408319765052382732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 7697
+        y: 0
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d37283477c1e0b0800000000000000
+      internalID: -5701056351302107782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 7830
+        y: 2
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48058b9cf0030990800000000000000
+      internalID: -7421086676035499958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 7949
+        y: 2
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b77baa2dc8985ba0800000000000000
+      internalID: -6099957688321738830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 8093
+        y: 1
+        width: 69
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a14ba441b9f8960800000000000000
+      internalID: 7606468807107025563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 8219
+        y: 0
+        width: 75
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904a92c736ff835c0800000000000000
+      internalID: -4235354646792002551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 8357
+        y: 0
+        width: 55
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bedbc621337b2540800000000000000
+      internalID: 4984204067557072565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 8479
+        y: 2
+        width: 68
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1701a91e7190d0ae0800000000000000
+      internalID: -1581597895963307919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 8601
+        y: 2
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1206888701637d120800000000000000
+      internalID: 2438477167613992993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 8728
+        y: 2
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7180efbf43de103a0800000000000000
+      internalID: -6700813958728775657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 8856
+        y: 2
+        width: 82
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc0063bb62037730800000000000000
+      internalID: 3995539956001934585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 9130
+        y: 3
+        width: 44
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a8e24dbf93f2630800000000000000
+      internalID: 3904403155712903715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 9242
+        y: 3
+        width: 75
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc663bfd1a616fc0800000000000000
+      internalID: -3503402358116291371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 9368
+        y: 3
+        width: 79
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeb71bd0fe434480800000000000000
+      internalID: -8916196040888566052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 9496
+        y: 3
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b10fa0d100fb3d0800000000000000
+      internalID: -3188829886417462450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 9623
+        y: 3
+        width: 82
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c19be8d041982d60800000000000000
+      internalID: 7865696456905822657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 9753
+        y: 1
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b146db068910880800000000000000
+      internalID: -8646462268312904827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 9775
+        y: 101
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fe2fddcd6812a00800000000000000
+      internalID: 730012897785343779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 9785
+        y: 113
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17421111a910a27c0800000000000000
+      internalID: -4095459149917117327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 9882
+        y: 3
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3428bd4fd3ee4530800000000000000
+      internalID: 3841258080414737468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 10007
+        y: 3
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305730565a2a450800000000000000
+      internalID: 6098618698681353140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 10144
+        y: 3
+        width: 65
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937f5c01e847b5bd0800000000000000
+      internalID: -2640388603007076551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 10506
+        y: 10
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f266efdbf31f0e0800000000000000
+      internalID: -2237937454576947405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 10643
+        y: 12
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a620df0402a5910800000000000000
+      internalID: 1826808062346947228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 10883
+        y: 5
+        width: 119
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4fd67b598983c10800000000000000
+      internalID: 2033543000552764640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 11156
+        y: 7
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1199dcf7d8aeb30800000000000000
+      internalID: 4317418772837765556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 11273
+        y: 6
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac433937f97eaad0800000000000000
+      internalID: -2689077824770061145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 11789
+        y: 7
+        width: 101
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a2088ca351227f0800000000000000
+      internalID: -638924854917060000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 12048
+        y: 7
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7656a4ba80e334010800000000000000
+      internalID: 1171848535000900967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 12679
+        y: 10
+        width: 114
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88134f9059cca5330800000000000000
+      internalID: 3700494984327475592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 23
+        width: 108
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e3bac989fc27810800000000000000
+      internalID: 1761698658625732154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 17
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580cc1c166fe3e150800000000000000
+      internalID: 5900823158622830725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 72
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ded265cf69b91b00800000000000000
+      internalID: 799874298539073237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 5777
+        y: 8
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb575c41734693900800000000000000
+      internalID: 664672607748322750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 7077
+        y: 9
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b120028061ccee70800000000000000
+      internalID: 9145897563524702641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 8970
+        y: 3
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44be2e2b6343572a0800000000000000
+      internalID: -6740423857755985084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 10244
+        y: 16
+        width: 120
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404f6fce015928ac0800000000000000
+      internalID: -3854354431148100604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 10378
+        y: 15
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa41b8d9da05fc90800000000000000
+      internalID: -7136786103739004255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 10768
+        y: 16
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23f991868f5a3520800000000000000
+      internalID: 2682561559357158186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 11018
+        y: 20
+        width: 110
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f85686a04376da0800000000000000
+      internalID: -5951731163241017490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 11398
+        y: 16
+        width: 116
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683c6e0fff3495ff0800000000000000
+      internalID: -46931554573302906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 11543
+        y: 22
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ba6c91b3a849070800000000000000
+      internalID: 8112260815241259922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 11670
+        y: 21
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189ac968119d14780800000000000000
+      internalID: -8700434335807002239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 11927
+        y: 21
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114b3560eb76a1780800000000000000
+      internalID: -8711536463347207151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 12173
+        y: 18
+        width: 105
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89069c94be3e22570800000000000000
+      internalID: 8440559251340484760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 12313
+        y: 16
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbbfbb5ed3860ab0800000000000000
+      internalID: -5042197741749421072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 12442
+        y: 16
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6352d9f6e61ef66f0800000000000000
+      internalID: -689084353529174730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loot_props-spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 12556
+        y: 18
+        width: 105
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611e90d6d33026f70800000000000000
+      internalID: 9178902552891744534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      loot_props-spritesheet_0: 4605025062130359389
+      loot_props-spritesheet_1: 8260005529263476781
+      loot_props-spritesheet_10: 8048022124429963106
+      loot_props-spritesheet_100: -5042197741749421072
+      loot_props-spritesheet_101: -689084353529174730
+      loot_props-spritesheet_102: 9178902552891744534
+      loot_props-spritesheet_11: -1612767865311290671
+      loot_props-spritesheet_12: -7336246373300805204
+      loot_props-spritesheet_13: 8517746076277096316
+      loot_props-spritesheet_14: 5658964993801155837
+      loot_props-spritesheet_15: 6230035865975492796
+      loot_props-spritesheet_16: -8327758942001504923
+      loot_props-spritesheet_17: 6335933359075547026
+      loot_props-spritesheet_18: -1143842040955332593
+      loot_props-spritesheet_19: -2173223163310024472
+      loot_props-spritesheet_2: 6051860580487807147
+      loot_props-spritesheet_20: -7550665819966065701
+      loot_props-spritesheet_21: -1443385394600453303
+      loot_props-spritesheet_22: -2614713049105495589
+      loot_props-spritesheet_23: 1795504530413377863
+      loot_props-spritesheet_24: 7797719790817683568
+      loot_props-spritesheet_25: 1397554786403737254
+      loot_props-spritesheet_26: 1221422025173308306
+      loot_props-spritesheet_27: -311961089060050655
+      loot_props-spritesheet_28: 2440365245925140108
+      loot_props-spritesheet_29: 2239087531058048523
+      loot_props-spritesheet_3: -1520736899538477409
+      loot_props-spritesheet_30: 3067990270618238123
+      loot_props-spritesheet_31: -6097810719277605402
+      loot_props-spritesheet_32: 2167888454595931976
+      loot_props-spritesheet_33: -8843007490401064562
+      loot_props-spritesheet_34: -8795590463367312648
+      loot_props-spritesheet_35: -101951611672922328
+      loot_props-spritesheet_36: -5852518070637520992
+      loot_props-spritesheet_37: 618106223837450280
+      loot_props-spritesheet_38: -1877468613563579525
+      loot_props-spritesheet_39: -2505846378097544758
+      loot_props-spritesheet_4: -5679085657763162505
+      loot_props-spritesheet_40: 4072443694227299503
+      loot_props-spritesheet_41: 3104798731629037956
+      loot_props-spritesheet_42: 8040697925501634874
+      loot_props-spritesheet_43: -5942974309282160438
+      loot_props-spritesheet_44: -7992290802786302531
+      loot_props-spritesheet_45: -8426826511997254303
+      loot_props-spritesheet_46: 3052075423583101462
+      loot_props-spritesheet_47: -3127140270484613205
+      loot_props-spritesheet_48: -503083172402110203
+      loot_props-spritesheet_49: 7085465357333696991
+      loot_props-spritesheet_5: 7805545883945988218
+      loot_props-spritesheet_50: -1900580763458642244
+      loot_props-spritesheet_51: 2457869656742616581
+      loot_props-spritesheet_52: 5408955207546408968
+      loot_props-spritesheet_53: 8140932232624570474
+      loot_props-spritesheet_54: -6120635857401811880
+      loot_props-spritesheet_55: -6408319765052382732
+      loot_props-spritesheet_56: -5701056351302107782
+      loot_props-spritesheet_57: -7421086676035499958
+      loot_props-spritesheet_58: -6099957688321738830
+      loot_props-spritesheet_59: 7606468807107025563
+      loot_props-spritesheet_6: 2378908590364975075
+      loot_props-spritesheet_60: -4235354646792002551
+      loot_props-spritesheet_61: 4984204067557072565
+      loot_props-spritesheet_62: -1581597895963307919
+      loot_props-spritesheet_63: 2438477167613992993
+      loot_props-spritesheet_64: -6700813958728775657
+      loot_props-spritesheet_65: 3995539956001934585
+      loot_props-spritesheet_66: 3904403155712903715
+      loot_props-spritesheet_67: -3503402358116291371
+      loot_props-spritesheet_68: -8916196040888566052
+      loot_props-spritesheet_69: -3188829886417462450
+      loot_props-spritesheet_7: 3306133635861003187
+      loot_props-spritesheet_70: 7865696456905822657
+      loot_props-spritesheet_71: -8646462268312904827
+      loot_props-spritesheet_72: 730012897785343779
+      loot_props-spritesheet_73: -4095459149917117327
+      loot_props-spritesheet_74: 3841258080414737468
+      loot_props-spritesheet_75: 6098618698681353140
+      loot_props-spritesheet_76: -2640388603007076551
+      loot_props-spritesheet_77: -2237937454576947405
+      loot_props-spritesheet_78: 1826808062346947228
+      loot_props-spritesheet_79: 2033543000552764640
+      loot_props-spritesheet_8: 7881246404696861505
+      loot_props-spritesheet_80: 4317418772837765556
+      loot_props-spritesheet_81: -2689077824770061145
+      loot_props-spritesheet_82: -638924854917060000
+      loot_props-spritesheet_83: 1171848535000900967
+      loot_props-spritesheet_84: 3700494984327475592
+      loot_props-spritesheet_85: 1761698658625732154
+      loot_props-spritesheet_86: 5900823158622830725
+      loot_props-spritesheet_87: 799874298539073237
+      loot_props-spritesheet_88: 664672607748322750
+      loot_props-spritesheet_89: 9145897563524702641
+      loot_props-spritesheet_9: -6577219268605554835
+      loot_props-spritesheet_90: -6740423857755985084
+      loot_props-spritesheet_91: -3854354431148100604
+      loot_props-spritesheet_92: -7136786103739004255
+      loot_props-spritesheet_93: 2682561559357158186
+      loot_props-spritesheet_94: -5951731163241017490
+      loot_props-spritesheet_95: -46931554573302906
+      loot_props-spritesheet_96: 8112260815241259922
+      loot_props-spritesheet_97: -8700434335807002239
+      loot_props-spritesheet_98: -8711536463347207151
+      loot_props-spritesheet_99: 8440559251340484760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

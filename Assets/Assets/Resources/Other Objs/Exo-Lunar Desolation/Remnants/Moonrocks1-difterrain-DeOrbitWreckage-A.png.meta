@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: a854499aaf2f0e34ca40704306a3b309
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5440536941514806005
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_0
+  - first:
+      213: -2682878879682594859
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_1
+  - first:
+      213: -8214049351781915822
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_2
+  - first:
+      213: 2367006379645919030
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_3
+  - first:
+      213: -3991802347571712222
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_4
+  - first:
+      213: -6466251894353896260
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_5
+  - first:
+      213: -8684282404107879507
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_6
+  - first:
+      213: -4211173662781171546
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_7
+  - first:
+      213: -2349551380599929715
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_8
+  - first:
+      213: -1047599424478697486
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_9
+  - first:
+      213: 5369412253390232107
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_10
+  - first:
+      213: -4623953096415607025
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_11
+  - first:
+      213: -4480521667219789405
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_12
+  - first:
+      213: 3554015371777051584
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_13
+  - first:
+      213: -2621670951831024127
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_14
+  - first:
+      213: 8018542167644091110
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_15
+  - first:
+      213: -7522780701159248557
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_16
+  - first:
+      213: 8773439977471973496
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_17
+  - first:
+      213: 6625644585547912558
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_18
+  - first:
+      213: -8848247794541711679
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_19
+  - first:
+      213: 5241087378959758577
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_20
+  - first:
+      213: 6500688883923526899
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_21
+  - first:
+      213: -8009018521889196215
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_22
+  - first:
+      213: 5291153361510520794
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_23
+  - first:
+      213: 7622797578564805077
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_24
+  - first:
+      213: -554621399358472360
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_25
+  - first:
+      213: -1202373671392149809
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_26
+  - first:
+      213: 5101264025671872984
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_27
+  - first:
+      213: -4678786097406136362
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_28
+  - first:
+      213: -2933335065491821874
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_29
+  - first:
+      213: -943750816830400796
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_30
+  - first:
+      213: -5407589006108007861
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_31
+  - first:
+      213: 6293376371007187781
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_32
+  - first:
+      213: 2833105485998885857
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_33
+  - first:
+      213: 2678373739855846545
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_34
+  - first:
+      213: 7694975678962397547
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_35
+  - first:
+      213: -6026746234445920910
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_36
+  - first:
+      213: -5873078488873931473
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_37
+  - first:
+      213: 2248490234740757900
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_38
+  - first:
+      213: -2470290656834729191
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_39
+  - first:
+      213: -1776869211080560555
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_40
+  - first:
+      213: 3577806900317438902
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_41
+  - first:
+      213: 5244321374571050527
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_42
+  - first:
+      213: -4365983727495373083
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_43
+  - first:
+      213: -4756845133289701115
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_44
+  - first:
+      213: 1578547786266375752
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_45
+  - first:
+      213: -1352706427035738361
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_46
+  - first:
+      213: -9076200996235058005
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_47
+  - first:
+      213: -6433455546635282859
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_48
+  - first:
+      213: -1772411598261709809
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_49
+  - first:
+      213: 402309781985460839
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_50
+  - first:
+      213: -8186319859579696133
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_51
+  - first:
+      213: -3464203649972656740
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_52
+  - first:
+      213: -5374709804385804185
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_53
+  - first:
+      213: -7808714511720320769
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_54
+  - first:
+      213: -9057335270104200427
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_55
+  - first:
+      213: 575836758654010685
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_56
+  - first:
+      213: 4020797205774117738
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_57
+  - first:
+      213: 3643568433812083956
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_58
+  - first:
+      213: 7938658165548529671
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_59
+  - first:
+      213: 1750701634311462824
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_60
+  - first:
+      213: 2608770431370170415
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_61
+  - first:
+      213: 6367895290766967730
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_62
+  - first:
+      213: -1490665043760321030
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_63
+  - first:
+      213: -6184085379063987341
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_0
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 492
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2516ae58ba08b40800000000000000
+      internalID: 5440536941514806005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 500
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7fe199fdf74cad0800000000000000
+      internalID: -2682878879682594859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 492
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253e28b62a5d10e80800000000000000
+      internalID: -8214049351781915822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 494
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fd0e7e2cb49d020800000000000000
+      internalID: 2367006379645919030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 486
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fea631ae44a98c0800000000000000
+      internalID: -3991802347571712222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 496
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcd6d869224346a0800000000000000
+      internalID: -6466251894353896260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 914
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab79fd2a2b3b7780800000000000000
+      internalID: -8684282404107879507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 491
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8927e8dd7ee85c0800000000000000
+      internalID: -4211173662781171546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 480
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8400d1c777b46fd0800000000000000
+      internalID: -2349551380599929715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 487
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f72b05bfdd2671f0800000000000000
+      internalID: -1047599424478697486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 491
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a54fffefbf38a40800000000000000
+      internalID: 5369412253390232107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 485
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f078416582b64dfb0800000000000000
+      internalID: -4623953096415607025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 489
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a96ce0584df1d1c0800000000000000
+      internalID: -4480521667219789405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_13
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 486
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb8c019626625130800000000000000
+      internalID: 3554015371777051584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 480
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ec626d824fd9bd0800000000000000
+      internalID: -2621670951831024127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_15
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 357
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2baee0e95974f60800000000000000
+      internalID: 8018542167644091110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_16
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 352
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d2d384fc6b99790800000000000000
+      internalID: -7522780701159248557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_17
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 346
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8789d630d2581c970800000000000000
+      internalID: 8773439977471973496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_18
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65d29975a403fb50800000000000000
+      internalID: 6625644585547912558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_19
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 344
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce25b9c285b43580800000000000000
+      internalID: -8848247794541711679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_20
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 326
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4fda3e3351cb840800000000000000
+      internalID: 5241087378959758577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_21
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 337
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4a7990916173a50800000000000000
+      internalID: 6500688883923526899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_22
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 338
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947354386104ad090800000000000000
+      internalID: -8009018521889196215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_23
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 322
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7d2f4d2f3fd6940800000000000000
+      internalID: 5291153361510520794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_24
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 331
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d12019a20e99c960800000000000000
+      internalID: 7622797578564805077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_25
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 315
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f786a96c69d48f0800000000000000
+      internalID: -554621399358472360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_26
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 318
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce736d248f405fe0800000000000000
+      internalID: -1202373671392149809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_27
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 305
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1b6ab8a945bc640800000000000000
+      internalID: 5101264025671872984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_28
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 285
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df221c65dc911fb0800000000000000
+      internalID: -4678786097406136362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_29
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 294
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaa926ac43ba47d0800000000000000
+      internalID: -2933335065491821874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_30
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6d65ed1af17e2f0800000000000000
+      internalID: -943750816830400796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_31
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 278
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42ef97137264f4b0800000000000000
+      internalID: -5407589006108007861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_32
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 270
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b68b73770965750800000000000000
+      internalID: 6293376371007187781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_33
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 276
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb8c28dd66315720800000000000000
+      internalID: 2833105485998885857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_34
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 273
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c97dbc9be7b2520800000000000000
+      internalID: 2678373739855846545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61f2db3c9b0aca60800000000000000
+      internalID: 7694975678962397547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_36
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 252
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2758d681b32bc5ca0800000000000000
+      internalID: -6026746234445920910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_37
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 244
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d6ea43b32ae7ea0800000000000000
+      internalID: -5873078488873931473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_38
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 245
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8558aa94fd343f10800000000000000
+      internalID: 2248490234740757900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_39
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 236
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b466b5cb3c7bdd0800000000000000
+      internalID: -2470290656834729191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_40
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 190
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550f635edda4757e0800000000000000
+      internalID: -1776869211080560555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_41
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3cc587b6ce6a130800000000000000
+      internalID: 3577806900317438902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_42
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 92
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16bb4b218297c840800000000000000
+      internalID: 5244321374571050527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_43
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 84
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee908b8ee8e863c0800000000000000
+      internalID: -4365983727495373083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_44
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 83
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501c8badd8a4cfdb0800000000000000
+      internalID: -4756845133289701115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 90
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846f26d19d028e510800000000000000
+      internalID: 1578547786266375752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_46
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f952beba83a3de0800000000000000
+      internalID: -1352706427035738361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_47
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 79
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4ec5d184bda0280800000000000000
+      internalID: -9076200996235058005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_48
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 86
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55699882446c7b6a0800000000000000
+      internalID: -6433455546635282859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_49
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 89
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0414d1ca012767e0800000000000000
+      internalID: -1772411598261709809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_50
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 86
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76288ec7d9a459500800000000000000
+      internalID: 402309781985460839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_51
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 91
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbc600f579546e80800000000000000
+      internalID: -8186319859579696133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_52
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95a4cd622dacefc0800000000000000
+      internalID: -3464203649972656740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_53
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 56
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76066cac8e13965b0800000000000000
+      internalID: -5374709804385804185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_54
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0f870268fd1a390800000000000000
+      internalID: -7808714511720320769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_55
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 76
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b82d54f81ed4280800000000000000
+      internalID: -9057335270104200427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_56
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 59
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d354f282b78cdf700800000000000000
+      internalID: 575836758654010685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_57
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 55
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bac0c61cdbcc730800000000000000
+      internalID: 4020797205774117738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_58
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 64
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f41234af2e809230800000000000000
+      internalID: 3643568433812083956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_59
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70836ce6a87cb2e60800000000000000
+      internalID: 7938658165548529671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_60
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af94dc5cddbb4810800000000000000
+      internalID: 1750701634311462824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_61
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 51
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f209c5ea2e6343420800000000000000
+      internalID: 2608770431370170415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b34c05470f4f5850800000000000000
+      internalID: 6367895290766967730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_63
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 20
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afde2936a08105be0800000000000000
+      internalID: -1490665043760321030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A_64
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 26
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3734438cc17bd2aa0800000000000000
+      internalID: -6184085379063987341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Moonrocks1-difterrain-DeOrbitWreckage-A_0: 5440536941514806005
+      Moonrocks1-difterrain-DeOrbitWreckage-A_1: -2682878879682594859
+      Moonrocks1-difterrain-DeOrbitWreckage-A_10: 5369412253390232107
+      Moonrocks1-difterrain-DeOrbitWreckage-A_11: -4623953096415607025
+      Moonrocks1-difterrain-DeOrbitWreckage-A_12: -4480521667219789405
+      Moonrocks1-difterrain-DeOrbitWreckage-A_13: 3554015371777051584
+      Moonrocks1-difterrain-DeOrbitWreckage-A_14: -2621670951831024127
+      Moonrocks1-difterrain-DeOrbitWreckage-A_15: 8018542167644091110
+      Moonrocks1-difterrain-DeOrbitWreckage-A_16: -7522780701159248557
+      Moonrocks1-difterrain-DeOrbitWreckage-A_17: 8773439977471973496
+      Moonrocks1-difterrain-DeOrbitWreckage-A_18: 6625644585547912558
+      Moonrocks1-difterrain-DeOrbitWreckage-A_19: -8848247794541711679
+      Moonrocks1-difterrain-DeOrbitWreckage-A_2: -8214049351781915822
+      Moonrocks1-difterrain-DeOrbitWreckage-A_20: 5241087378959758577
+      Moonrocks1-difterrain-DeOrbitWreckage-A_21: 6500688883923526899
+      Moonrocks1-difterrain-DeOrbitWreckage-A_22: -8009018521889196215
+      Moonrocks1-difterrain-DeOrbitWreckage-A_23: 5291153361510520794
+      Moonrocks1-difterrain-DeOrbitWreckage-A_24: 7622797578564805077
+      Moonrocks1-difterrain-DeOrbitWreckage-A_25: -554621399358472360
+      Moonrocks1-difterrain-DeOrbitWreckage-A_26: -1202373671392149809
+      Moonrocks1-difterrain-DeOrbitWreckage-A_27: 5101264025671872984
+      Moonrocks1-difterrain-DeOrbitWreckage-A_28: -4678786097406136362
+      Moonrocks1-difterrain-DeOrbitWreckage-A_29: -2933335065491821874
+      Moonrocks1-difterrain-DeOrbitWreckage-A_3: 2367006379645919030
+      Moonrocks1-difterrain-DeOrbitWreckage-A_30: -943750816830400796
+      Moonrocks1-difterrain-DeOrbitWreckage-A_31: -5407589006108007861
+      Moonrocks1-difterrain-DeOrbitWreckage-A_32: 6293376371007187781
+      Moonrocks1-difterrain-DeOrbitWreckage-A_33: 2833105485998885857
+      Moonrocks1-difterrain-DeOrbitWreckage-A_34: 2678373739855846545
+      Moonrocks1-difterrain-DeOrbitWreckage-A_35: 7694975678962397547
+      Moonrocks1-difterrain-DeOrbitWreckage-A_36: -6026746234445920910
+      Moonrocks1-difterrain-DeOrbitWreckage-A_37: -5873078488873931473
+      Moonrocks1-difterrain-DeOrbitWreckage-A_38: 2248490234740757900
+      Moonrocks1-difterrain-DeOrbitWreckage-A_39: -2470290656834729191
+      Moonrocks1-difterrain-DeOrbitWreckage-A_4: -3991802347571712222
+      Moonrocks1-difterrain-DeOrbitWreckage-A_40: -1776869211080560555
+      Moonrocks1-difterrain-DeOrbitWreckage-A_41: 3577806900317438902
+      Moonrocks1-difterrain-DeOrbitWreckage-A_42: 5244321374571050527
+      Moonrocks1-difterrain-DeOrbitWreckage-A_43: -4365983727495373083
+      Moonrocks1-difterrain-DeOrbitWreckage-A_44: -4756845133289701115
+      Moonrocks1-difterrain-DeOrbitWreckage-A_45: 1578547786266375752
+      Moonrocks1-difterrain-DeOrbitWreckage-A_46: -1352706427035738361
+      Moonrocks1-difterrain-DeOrbitWreckage-A_47: -9076200996235058005
+      Moonrocks1-difterrain-DeOrbitWreckage-A_48: -6433455546635282859
+      Moonrocks1-difterrain-DeOrbitWreckage-A_49: -1772411598261709809
+      Moonrocks1-difterrain-DeOrbitWreckage-A_5: -6466251894353896260
+      Moonrocks1-difterrain-DeOrbitWreckage-A_50: 402309781985460839
+      Moonrocks1-difterrain-DeOrbitWreckage-A_51: -8186319859579696133
+      Moonrocks1-difterrain-DeOrbitWreckage-A_52: -3464203649972656740
+      Moonrocks1-difterrain-DeOrbitWreckage-A_53: -5374709804385804185
+      Moonrocks1-difterrain-DeOrbitWreckage-A_54: -7808714511720320769
+      Moonrocks1-difterrain-DeOrbitWreckage-A_55: -9057335270104200427
+      Moonrocks1-difterrain-DeOrbitWreckage-A_56: 575836758654010685
+      Moonrocks1-difterrain-DeOrbitWreckage-A_57: 4020797205774117738
+      Moonrocks1-difterrain-DeOrbitWreckage-A_58: 3643568433812083956
+      Moonrocks1-difterrain-DeOrbitWreckage-A_59: 7938658165548529671
+      Moonrocks1-difterrain-DeOrbitWreckage-A_6: -8684282404107879507
+      Moonrocks1-difterrain-DeOrbitWreckage-A_60: 1750701634311462824
+      Moonrocks1-difterrain-DeOrbitWreckage-A_61: 2608770431370170415
+      Moonrocks1-difterrain-DeOrbitWreckage-A_62: 6367895290766967730
+      Moonrocks1-difterrain-DeOrbitWreckage-A_63: -1490665043760321030
+      Moonrocks1-difterrain-DeOrbitWreckage-A_64: -6184085379063987341
+      Moonrocks1-difterrain-DeOrbitWreckage-A_7: -4211173662781171546
+      Moonrocks1-difterrain-DeOrbitWreckage-A_8: -2349551380599929715
+      Moonrocks1-difterrain-DeOrbitWreckage-A_9: -1047599424478697486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

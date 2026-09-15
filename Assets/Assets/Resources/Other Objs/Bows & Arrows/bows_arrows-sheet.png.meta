@@ -1,0 +1,2730 @@
+fileFormatVersion: 2
+guid: d496f53ac9be97e438531f640c8ab73c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1222710954513674565
+    second: bows_arrows-sheet_0
+  - first:
+      213: 7024498284103237065
+    second: bows_arrows-sheet_1
+  - first:
+      213: -4833455485709690698
+    second: bows_arrows-sheet_2
+  - first:
+      213: -9219452505693978968
+    second: bows_arrows-sheet_3
+  - first:
+      213: 5858167795174641168
+    second: bows_arrows-sheet_4
+  - first:
+      213: 2168841734352458784
+    second: bows_arrows-sheet_5
+  - first:
+      213: 3077340664894770935
+    second: bows_arrows-sheet_6
+  - first:
+      213: 6349807891005850541
+    second: bows_arrows-sheet_7
+  - first:
+      213: -6659948652756235927
+    second: bows_arrows-sheet_8
+  - first:
+      213: 6094213169534669417
+    second: bows_arrows-sheet_9
+  - first:
+      213: -5028226420499297259
+    second: bows_arrows-sheet_10
+  - first:
+      213: 8784153448063152215
+    second: bows_arrows-sheet_11
+  - first:
+      213: 5927698668988513657
+    second: bows_arrows-sheet_12
+  - first:
+      213: 1545323467721469526
+    second: bows_arrows-sheet_13
+  - first:
+      213: -1032730165310088038
+    second: bows_arrows-sheet_14
+  - first:
+      213: -4725248603804279782
+    second: bows_arrows-sheet_15
+  - first:
+      213: 8620663004316068153
+    second: bows_arrows-sheet_16
+  - first:
+      213: 7514896599877729435
+    second: bows_arrows-sheet_17
+  - first:
+      213: -2835269776480800618
+    second: bows_arrows-sheet_18
+  - first:
+      213: -4583816468548015659
+    second: bows_arrows-sheet_19
+  - first:
+      213: 84843770581950821
+    second: bows_arrows-sheet_20
+  - first:
+      213: -5607837048550567107
+    second: bows_arrows-sheet_21
+  - first:
+      213: -7715947461643372446
+    second: bows_arrows-sheet_22
+  - first:
+      213: -4959100371336191869
+    second: bows_arrows-sheet_23
+  - first:
+      213: -8672690658157414412
+    second: bows_arrows-sheet_24
+  - first:
+      213: -3178232164335110607
+    second: bows_arrows-sheet_25
+  - first:
+      213: 8702440978029481821
+    second: bows_arrows-sheet_26
+  - first:
+      213: 4046140797758444708
+    second: bows_arrows-sheet_27
+  - first:
+      213: 5087411316029906596
+    second: bows_arrows-sheet_28
+  - first:
+      213: 7890332233540844829
+    second: bows_arrows-sheet_29
+  - first:
+      213: -3722122997484898342
+    second: bows_arrows-sheet_30
+  - first:
+      213: -6196018338420488459
+    second: bows_arrows-sheet_31
+  - first:
+      213: 7479281729522645485
+    second: bows_arrows-sheet_32
+  - first:
+      213: -4723107706222690234
+    second: bows_arrows-sheet_33
+  - first:
+      213: -690846594449502835
+    second: bows_arrows-sheet_34
+  - first:
+      213: -6148410453345733977
+    second: bows_arrows-sheet_35
+  - first:
+      213: 8830887100688870766
+    second: bows_arrows-sheet_36
+  - first:
+      213: -6141037494289063452
+    second: bows_arrows-sheet_37
+  - first:
+      213: -3160687625377145444
+    second: bows_arrows-sheet_38
+  - first:
+      213: -6702665242088969280
+    second: bows_arrows-sheet_39
+  - first:
+      213: -8459543939153676549
+    second: bows_arrows-sheet_40
+  - first:
+      213: 6397899607538842761
+    second: bows_arrows-sheet_41
+  - first:
+      213: -8170553354624390924
+    second: bows_arrows-sheet_42
+  - first:
+      213: -3122318911726583652
+    second: bows_arrows-sheet_43
+  - first:
+      213: -6207834085614226436
+    second: bows_arrows-sheet_44
+  - first:
+      213: -5698465730818532412
+    second: bows_arrows-sheet_45
+  - first:
+      213: 4989510866182621708
+    second: bows_arrows-sheet_46
+  - first:
+      213: -8602875587104905913
+    second: bows_arrows-sheet_47
+  - first:
+      213: 1447835778349628341
+    second: bows_arrows-sheet_48
+  - first:
+      213: 6215731711795343700
+    second: bows_arrows-sheet_49
+  - first:
+      213: 8379299820260388515
+    second: bows_arrows-sheet_50
+  - first:
+      213: 1917454903464977884
+    second: bows_arrows-sheet_51
+  - first:
+      213: 603767810849121141
+    second: bows_arrows-sheet_52
+  - first:
+      213: -665640500057020391
+    second: bows_arrows-sheet_53
+  - first:
+      213: 7688399553729299644
+    second: bows_arrows-sheet_54
+  - first:
+      213: 6398118685950329954
+    second: bows_arrows-sheet_55
+  - first:
+      213: 6885713026822827356
+    second: bows_arrows-sheet_56
+  - first:
+      213: -8664282321636865038
+    second: bows_arrows-sheet_57
+  - first:
+      213: 4388907273848699862
+    second: bows_arrows-sheet_58
+  - first:
+      213: -558431450193843256
+    second: bows_arrows-sheet_59
+  - first:
+      213: -4895820335737152520
+    second: bows_arrows-sheet_60
+  - first:
+      213: -3489268480837085355
+    second: bows_arrows-sheet_61
+  - first:
+      213: 2538558976313528052
+    second: bows_arrows-sheet_62
+  - first:
+      213: -8019884173452118309
+    second: bows_arrows-sheet_63
+  - first:
+      213: -6058021088157307102
+    second: bows_arrows-sheet_64
+  - first:
+      213: -4560159844549067680
+    second: bows_arrows-sheet_65
+  - first:
+      213: -8248673069096771215
+    second: bows_arrows-sheet_66
+  - first:
+      213: 8317477762751391209
+    second: bows_arrows-sheet_67
+  - first:
+      213: 7378648953748181390
+    second: bows_arrows-sheet_68
+  - first:
+      213: 8015412455690976340
+    second: bows_arrows-sheet_69
+  - first:
+      213: -5927407683624090531
+    second: bows_arrows-sheet_70
+  - first:
+      213: 3600697412918662019
+    second: bows_arrows-sheet_71
+  - first:
+      213: 8055869037361575951
+    second: bows_arrows-sheet_72
+  - first:
+      213: -3091860577335638799
+    second: bows_arrows-sheet_73
+  - first:
+      213: -8919628016657376438
+    second: bows_arrows-sheet_74
+  - first:
+      213: -8432685116222214170
+    second: bows_arrows-sheet_75
+  - first:
+      213: -4031403465128449319
+    second: bows_arrows-sheet_76
+  - first:
+      213: 1569010627875459777
+    second: bows_arrows-sheet_77
+  - first:
+      213: -3451535036412520447
+    second: bows_arrows-sheet_78
+  - first:
+      213: -4130545488811681864
+    second: bows_arrows-sheet_79
+  - first:
+      213: 8984765611670806335
+    second: bows_arrows-sheet_80
+  - first:
+      213: -859309308267792409
+    second: bows_arrows-sheet_81
+  - first:
+      213: -5371350681924663189
+    second: bows_arrows-sheet_82
+  - first:
+      213: -164878676426231662
+    second: bows_arrows-sheet_83
+  - first:
+      213: 33609018669579776
+    second: bows_arrows-sheet_84
+  - first:
+      213: 5105199036202355135
+    second: bows_arrows-sheet_85
+  - first:
+      213: 7109789085012745935
+    second: bows_arrows-sheet_86
+  - first:
+      213: -4261692878380944659
+    second: bows_arrows-sheet_87
+  - first:
+      213: 4786707191548378243
+    second: bows_arrows-sheet_88
+  - first:
+      213: 7784288305727856969
+    second: bows_arrows-sheet_89
+  - first:
+      213: 5073565698014297252
+    second: bows_arrows-sheet_90
+  - first:
+      213: 7197656955464602238
+    second: bows_arrows-sheet_91
+  - first:
+      213: 9154405107934688619
+    second: bows_arrows-sheet_92
+  - first:
+      213: 5709327824365565201
+    second: bows_arrows-sheet_93
+  - first:
+      213: 2173859584107698433
+    second: bows_arrows-sheet_94
+  - first:
+      213: 1245245557200443332
+    second: bows_arrows-sheet_95
+  - first:
+      213: 5752968159622665518
+    second: bows_arrows-sheet_96
+  - first:
+      213: 1827127866466201280
+    second: bows_arrows-sheet_97
+  - first:
+      213: -5012461062426485554
+    second: bows_arrows-sheet_98
+  - first:
+      213: -75970348700545102
+    second: bows_arrows-sheet_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bows_arrows-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbecb357dde080fe0800000000000000
+      internalID: -1222710954513674565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 114
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd7055d8f70c7160800000000000000
+      internalID: 7024498284103237065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 7
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b85c9038dd1cecb0800000000000000
+      internalID: -4833455485709690698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 5
+        width: 110
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae7686facced0080800000000000000
+      internalID: -9219452505693978968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 6
+        width: 111
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e840262946c4150800000000000000
+      internalID: 5858167795174641168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 6
+        width: 110
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024de1ef016491e10800000000000000
+      internalID: 2168841734352458784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 6
+        width: 111
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fecaefb709e4ba20800000000000000
+      internalID: 3077340664894770935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 9
+        width: 107
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3406752ac0f1850800000000000000
+      internalID: 6349807891005850541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 9
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9698f1a7cfb1393a0800000000000000
+      internalID: -6659948652756235927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 15
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9621f93d69ef29450800000000000000
+      internalID: 6094213169534669417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cc7e316b6283ab0800000000000000
+      internalID: -5028226420499297259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750b354450597e970800000000000000
+      internalID: 8784153448063152215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dbd9c788a634250800000000000000
+      internalID: 5927698668988513657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eec94a187127510800000000000000
+      internalID: 1545323467721469526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c9cd3e2610ba1f0800000000000000
+      internalID: -1032730165310088038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cd5d62e6b8c6eb0800000000000000
+      internalID: -4725248603804279782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 1
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9396c94045fb2a770800000000000000
+      internalID: 8620663004316068153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cb08754a64a4860800000000000000
+      internalID: 7514896599877729435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690f572092917a8d0800000000000000
+      internalID: -2835269776480800618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 1
+        width: 122
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d92c9c35330360c0800000000000000
+      internalID: -4583816468548015659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 1
+        width: 120
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56121f6b5fc6d2100800000000000000
+      internalID: 84843770581950821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 1
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d335eda7ae5fc22b0800000000000000
+      internalID: -5607837048550567107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 1
+        width: 119
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2687b2b1aa27be490800000000000000
+      internalID: -7715947461643372446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 1
+        width: 120
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380aff89c7cbd2bb0800000000000000
+      internalID: -4959100371336191869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 1
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7bda9dbc964a780800000000000000
+      internalID: -8672690658157414412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 1
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136b51f7fa6a4e3d0800000000000000
+      internalID: -3178232164335110607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1
+        width: 119
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f004646f745c870800000000000000
+      internalID: 8702440978029481821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 1
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a49b914e97c62830800000000000000
+      internalID: 4046140797758444708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 1
+        width: 119
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aed34e33ad1a9640800000000000000
+      internalID: 5087411316029906596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 1
+        width: 121
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d34049c57108d60800000000000000
+      internalID: 7890332233540844829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 6
+        width: 80
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7b99cbadc585cc0800000000000000
+      internalID: -3722122997484898342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 8
+        width: 110
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f604ac2622530aa0800000000000000
+      internalID: -6196018338420488459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 8
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de934472b1fbbc760800000000000000
+      internalID: 7479281729522645485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 13
+        width: 107
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640cfa6b096247eb0800000000000000
+      internalID: -4723107706222690234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 4362
+        y: 9
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d8c8fbeae9966f0800000000000000
+      internalID: -690846594449502835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 4491
+        y: 11
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a27703b4457caaa0800000000000000
+      internalID: -6148410453345733977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 4623
+        y: 14
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6da320b70d9d8a70800000000000000
+      internalID: 8830887100688870766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 4753
+        y: 18
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1ab808fe6a6caa0800000000000000
+      internalID: -6141037494289063452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 4881
+        y: 18
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d1c6bc95bf224d0800000000000000
+      internalID: -3160687625377145444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 5009
+        y: 18
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbedec79795bf2a0800000000000000
+      internalID: -6702665242088969280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 5125
+        y: 2
+        width: 118
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6bfe0ab99a99a80800000000000000
+      internalID: -8459543939153676549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 5252
+        y: 2
+        width: 119
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cb6f7abc7e9c850800000000000000
+      internalID: 6397899607538842761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 3
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8ac3f630d5c9e80800000000000000
+      internalID: -8170553354624390924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 5508
+        y: 3
+        width: 119
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c908d071e7b4ba4d0800000000000000
+      internalID: -3122318911726583652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 5636
+        y: 3
+        width: 120
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3f6662ac759d9a0800000000000000
+      internalID: -6207834085614226436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 5764
+        y: 4
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb13dd0c9bfae0b0800000000000000
+      internalID: -5698465730818532412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 5892
+        y: 3
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a44cd72bd4e3540800000000000000
+      internalID: 4989510866182621708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 6020
+        y: 3
+        width: 119
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7456bb7cb327c9880800000000000000
+      internalID: -8602875587104905913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 6150
+        y: 7
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb71ad28feb71410800000000000000
+      internalID: 1447835778349628341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 6277
+        y: 4
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45131bc3f07b24650800000000000000
+      internalID: 6215731711795343700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 6413
+        y: 2
+        width: 101
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae6d158ac0494470800000000000000
+      internalID: 8379299820260388515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 6542
+        y: 2
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd56cd9531b2c9a10800000000000000
+      internalID: 1917454903464977884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 2
+        width: 109
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5732a7400a3016800800000000000000
+      internalID: 603767810849121141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 6798
+        y: 3
+        width: 100
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918ecfded7b23c6f0800000000000000
+      internalID: -665640500057020391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 6924
+        y: 3
+        width: 104
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb48e43c8aea2ba60800000000000000
+      internalID: 7688399553729299644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 7054
+        y: 1
+        width: 100
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264cbd2db0faac850800000000000000
+      internalID: 6398118685950329954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 7180
+        y: 3
+        width: 103
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ded0d0487fe8f50800000000000000
+      internalID: 6885713026822827356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 7310
+        y: 3
+        width: 100
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb4321422942c780800000000000000
+      internalID: -8664282321636865038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 7438
+        y: 5
+        width: 99
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db31e189e788ec30800000000000000
+      internalID: 4388907273848699862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 7570
+        y: 22
+        width: 91
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb2ac30e8d0048f0800000000000000
+      internalID: -558431450193843256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 7693
+        y: 1
+        width: 102
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbd044085d8e0cb0800000000000000
+      internalID: -4895820335737152520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 7821
+        y: 1
+        width: 101
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5571db9bdc0a39fc0800000000000000
+      internalID: -3489268480837085355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 7949
+        y: 1
+        width: 101
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe0c8860f5ca3320800000000000000
+      internalID: 2538558976313528052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 8076
+        y: 1
+        width: 103
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6fb9dd5d5a3b090800000000000000
+      internalID: -8019884173452118309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 8204
+        y: 1
+        width: 103
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fee86cae59deba0800000000000000
+      internalID: -6058021088157307102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 8334
+        y: 3
+        width: 100
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cf6aa38ce07b0c0800000000000000
+      internalID: -4560159844549067680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 8460
+        y: 3
+        width: 103
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171e7280c83d68d80800000000000000
+      internalID: -8248673069096771215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 8589
+        y: 1
+        width: 102
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5e10415fd9d6370800000000000000
+      internalID: 8317477762751391209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 8722
+        y: 7
+        width: 91
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81d772312a366660800000000000000
+      internalID: 7378648953748181390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 8853
+        y: 11
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cb3b539277c3f60800000000000000
+      internalID: 8015412455690976340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 8964
+        y: 4
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d544aa2dd1e9dbda0800000000000000
+      internalID: -5927407683624090531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 9092
+        y: 3
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3835fa0483f38f130800000000000000
+      internalID: 3600697412918662019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 9220
+        y: 3
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08310925323ccf60800000000000000
+      internalID: 8055869037361575951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 9348
+        y: 3
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f400e0bf218715d0800000000000000
+      internalID: -3091860577335638799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 9476
+        y: 3
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bd38ab39d173480800000000000000
+      internalID: -8919628016657376438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 9604
+        y: 4
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efe9d8a09519fa80800000000000000
+      internalID: -8432685116222214170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 9732
+        y: 4
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da6db268e39d08c0800000000000000
+      internalID: -4031403465128449319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 9860
+        y: 4
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c254536ade36c510800000000000000
+      internalID: 1569010627875459777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 9988
+        y: 4
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10811d0eb2fa910d0800000000000000
+      internalID: -3451535036412520447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 10148
+        y: 35
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b799c233ca5da6c0800000000000000
+      internalID: -4130545488811681864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 10269
+        y: 30
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f98c178bc40bc70800000000000000
+      internalID: 8984765611670806335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 10372
+        y: 3
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7f288acbe1314f0800000000000000
+      internalID: -859309308267792409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 3
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6804df63012575b0800000000000000
+      internalID: -5371350681924663189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 10628
+        y: 3
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290f394a7bb36bdf0800000000000000
+      internalID: -164878676426231662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 10756
+        y: 3
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ebc037937677000800000000000000
+      internalID: 33609018669579776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 10884
+        y: 3
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb90284997f49d640800000000000000
+      internalID: 5105199036202355135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 11012
+        y: 3
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce5228e08b0ba260800000000000000
+      internalID: 7109789085012745935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 11140
+        y: 3
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2ba4218ec6bd4c0800000000000000
+      internalID: -4261692878380944659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 11268
+        y: 3
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c7c0464dccd6240800000000000000
+      internalID: 4786707191548378243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 11396
+        y: 3
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941e22c98f8570c60800000000000000
+      internalID: 7784288305727856969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 11524
+        y: 4
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acbfb61f1de86640800000000000000
+      internalID: 5073565698014297252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 11652
+        y: 4
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72569dbdd633e360800000000000000
+      internalID: 7197656955464602238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 11780
+        y: 5
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65f77c81fafa0f70800000000000000
+      internalID: 9154405107934688619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 11908
+        y: 5
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115309d286b9b3f40800000000000000
+      internalID: 5709327824365565201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 12043
+        y: 7
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109515e26c91b2e10800000000000000
+      internalID: 2173859584107698433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 12167
+        y: 7
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7d0179c30084110800000000000000
+      internalID: 1245245557200443332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 12324
+        y: 9
+        width: 56
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2511768f06a6df40800000000000000
+      internalID: 5752968159622665518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 12430
+        y: 13
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce6fef2d134b5910800000000000000
+      internalID: 1827127866466201280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 12548
+        y: 13
+        width: 120
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc979b8839207ab0800000000000000
+      internalID: -5012461062426485554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bows_arrows-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 12689
+        y: 17
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfcd30de5912fef0800000000000000
+      internalID: -75970348700545102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bows_arrows-sheet_0: -1222710954513674565
+      bows_arrows-sheet_1: 7024498284103237065
+      bows_arrows-sheet_10: -5028226420499297259
+      bows_arrows-sheet_11: 8784153448063152215
+      bows_arrows-sheet_12: 5927698668988513657
+      bows_arrows-sheet_13: 1545323467721469526
+      bows_arrows-sheet_14: -1032730165310088038
+      bows_arrows-sheet_15: -4725248603804279782
+      bows_arrows-sheet_16: 8620663004316068153
+      bows_arrows-sheet_17: 7514896599877729435
+      bows_arrows-sheet_18: -2835269776480800618
+      bows_arrows-sheet_19: -4583816468548015659
+      bows_arrows-sheet_2: -4833455485709690698
+      bows_arrows-sheet_20: 84843770581950821
+      bows_arrows-sheet_21: -5607837048550567107
+      bows_arrows-sheet_22: -7715947461643372446
+      bows_arrows-sheet_23: -4959100371336191869
+      bows_arrows-sheet_24: -8672690658157414412
+      bows_arrows-sheet_25: -3178232164335110607
+      bows_arrows-sheet_26: 8702440978029481821
+      bows_arrows-sheet_27: 4046140797758444708
+      bows_arrows-sheet_28: 5087411316029906596
+      bows_arrows-sheet_29: 7890332233540844829
+      bows_arrows-sheet_3: -9219452505693978968
+      bows_arrows-sheet_30: -3722122997484898342
+      bows_arrows-sheet_31: -6196018338420488459
+      bows_arrows-sheet_32: 7479281729522645485
+      bows_arrows-sheet_33: -4723107706222690234
+      bows_arrows-sheet_34: -690846594449502835
+      bows_arrows-sheet_35: -6148410453345733977
+      bows_arrows-sheet_36: 8830887100688870766
+      bows_arrows-sheet_37: -6141037494289063452
+      bows_arrows-sheet_38: -3160687625377145444
+      bows_arrows-sheet_39: -6702665242088969280
+      bows_arrows-sheet_4: 5858167795174641168
+      bows_arrows-sheet_40: -8459543939153676549
+      bows_arrows-sheet_41: 6397899607538842761
+      bows_arrows-sheet_42: -8170553354624390924
+      bows_arrows-sheet_43: -3122318911726583652
+      bows_arrows-sheet_44: -6207834085614226436
+      bows_arrows-sheet_45: -5698465730818532412
+      bows_arrows-sheet_46: 4989510866182621708
+      bows_arrows-sheet_47: -8602875587104905913
+      bows_arrows-sheet_48: 1447835778349628341
+      bows_arrows-sheet_49: 6215731711795343700
+      bows_arrows-sheet_5: 2168841734352458784
+      bows_arrows-sheet_50: 8379299820260388515
+      bows_arrows-sheet_51: 1917454903464977884
+      bows_arrows-sheet_52: 603767810849121141
+      bows_arrows-sheet_53: -665640500057020391
+      bows_arrows-sheet_54: 7688399553729299644
+      bows_arrows-sheet_55: 6398118685950329954
+      bows_arrows-sheet_56: 6885713026822827356
+      bows_arrows-sheet_57: -8664282321636865038
+      bows_arrows-sheet_58: 4388907273848699862
+      bows_arrows-sheet_59: -558431450193843256
+      bows_arrows-sheet_6: 3077340664894770935
+      bows_arrows-sheet_60: -4895820335737152520
+      bows_arrows-sheet_61: -3489268480837085355
+      bows_arrows-sheet_62: 2538558976313528052
+      bows_arrows-sheet_63: -8019884173452118309
+      bows_arrows-sheet_64: -6058021088157307102
+      bows_arrows-sheet_65: -4560159844549067680
+      bows_arrows-sheet_66: -8248673069096771215
+      bows_arrows-sheet_67: 8317477762751391209
+      bows_arrows-sheet_68: 7378648953748181390
+      bows_arrows-sheet_69: 8015412455690976340
+      bows_arrows-sheet_7: 6349807891005850541
+      bows_arrows-sheet_70: -5927407683624090531
+      bows_arrows-sheet_71: 3600697412918662019
+      bows_arrows-sheet_72: 8055869037361575951
+      bows_arrows-sheet_73: -3091860577335638799
+      bows_arrows-sheet_74: -8919628016657376438
+      bows_arrows-sheet_75: -8432685116222214170
+      bows_arrows-sheet_76: -4031403465128449319
+      bows_arrows-sheet_77: 1569010627875459777
+      bows_arrows-sheet_78: -3451535036412520447
+      bows_arrows-sheet_79: -4130545488811681864
+      bows_arrows-sheet_8: -6659948652756235927
+      bows_arrows-sheet_80: 8984765611670806335
+      bows_arrows-sheet_81: -859309308267792409
+      bows_arrows-sheet_82: -5371350681924663189
+      bows_arrows-sheet_83: -164878676426231662
+      bows_arrows-sheet_84: 33609018669579776
+      bows_arrows-sheet_85: 5105199036202355135
+      bows_arrows-sheet_86: 7109789085012745935
+      bows_arrows-sheet_87: -4261692878380944659
+      bows_arrows-sheet_88: 4786707191548378243
+      bows_arrows-sheet_89: 7784288305727856969
+      bows_arrows-sheet_9: 6094213169534669417
+      bows_arrows-sheet_90: 5073565698014297252
+      bows_arrows-sheet_91: 7197656955464602238
+      bows_arrows-sheet_92: 9154405107934688619
+      bows_arrows-sheet_93: 5709327824365565201
+      bows_arrows-sheet_94: 2173859584107698433
+      bows_arrows-sheet_95: 1245245557200443332
+      bows_arrows-sheet_96: 5752968159622665518
+      bows_arrows-sheet_97: 1827127866466201280
+      bows_arrows-sheet_98: -5012461062426485554
+      bows_arrows-sheet_99: -75970348700545102
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

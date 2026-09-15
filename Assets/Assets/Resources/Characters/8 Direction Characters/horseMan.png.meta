@@ -1,0 +1,2642 @@
+fileFormatVersion: 2
+guid: a4b9d6cd640c8d94a8f3810aec30cd12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4727671885565805750
+    second: horseMan_0
+  - first:
+      213: 7584586755649596535
+    second: horseMan_1
+  - first:
+      213: -1740987103368857511
+    second: horseMan_2
+  - first:
+      213: -7587666615514385348
+    second: horseMan_3
+  - first:
+      213: 2351970336691946915
+    second: horseMan_4
+  - first:
+      213: 3261273154574694781
+    second: horseMan_5
+  - first:
+      213: 2953358207407131971
+    second: horseMan_6
+  - first:
+      213: -5706657679591253632
+    second: horseMan_7
+  - first:
+      213: -3447880534137504191
+    second: horseMan_8
+  - first:
+      213: -4936446118159260744
+    second: horseMan_9
+  - first:
+      213: 7095204115672828630
+    second: horseMan_10
+  - first:
+      213: -6587796415010363181
+    second: horseMan_11
+  - first:
+      213: 4342719359948789806
+    second: horseMan_12
+  - first:
+      213: 4598079855307861023
+    second: horseMan_13
+  - first:
+      213: 5133669868040530183
+    second: horseMan_14
+  - first:
+      213: -6099213355931584227
+    second: horseMan_15
+  - first:
+      213: -6431475207180241632
+    second: horseMan_16
+  - first:
+      213: -58442282899985531
+    second: horseMan_17
+  - first:
+      213: -4015907746852984656
+    second: horseMan_18
+  - first:
+      213: -6711302383468303973
+    second: horseMan_19
+  - first:
+      213: -8822423464641367273
+    second: horseMan_20
+  - first:
+      213: -9107040343430256982
+    second: horseMan_21
+  - first:
+      213: 1237994907281658181
+    second: horseMan_22
+  - first:
+      213: -7296319559388151057
+    second: horseMan_23
+  - first:
+      213: 6596017344437110089
+    second: horseMan_24
+  - first:
+      213: 8930562516679876710
+    second: horseMan_25
+  - first:
+      213: 8903285234003056966
+    second: horseMan_26
+  - first:
+      213: -5180537270959440223
+    second: horseMan_27
+  - first:
+      213: -545631380879021624
+    second: horseMan_28
+  - first:
+      213: 7859569006661693939
+    second: horseMan_29
+  - first:
+      213: -2727631831613940464
+    second: horseMan_30
+  - first:
+      213: 546427635656959965
+    second: horseMan_31
+  - first:
+      213: 1683416272729254358
+    second: horseMan_32
+  - first:
+      213: 6957470348885073523
+    second: horseMan_33
+  - first:
+      213: -1593538410788859318
+    second: horseMan_34
+  - first:
+      213: -8379983001858650
+    second: horseMan_35
+  - first:
+      213: 4585272521397247910
+    second: horseMan_36
+  - first:
+      213: -4599797172243389221
+    second: horseMan_37
+  - first:
+      213: -1929369571787212175
+    second: horseMan_38
+  - first:
+      213: 7169436082630959923
+    second: horseMan_39
+  - first:
+      213: -6079153122915056547
+    second: horseMan_40
+  - first:
+      213: -1291470545480428193
+    second: horseMan_41
+  - first:
+      213: -659872882210979815
+    second: horseMan_42
+  - first:
+      213: -2177359332659926284
+    second: horseMan_43
+  - first:
+      213: -5958728086639494022
+    second: horseMan_44
+  - first:
+      213: -543451868557964299
+    second: horseMan_45
+  - first:
+      213: -5907266791732076541
+    second: horseMan_46
+  - first:
+      213: -3549313685345873591
+    second: horseMan_47
+  - first:
+      213: -5095632498281999599
+    second: horseMan_48
+  - first:
+      213: -2420101225333751434
+    second: horseMan_49
+  - first:
+      213: 1706708489941169109
+    second: horseMan_50
+  - first:
+      213: 2574932357415584786
+    second: horseMan_51
+  - first:
+      213: -3506378586924920374
+    second: horseMan_52
+  - first:
+      213: 139919295836203516
+    second: horseMan_53
+  - first:
+      213: -7526088550047323106
+    second: horseMan_54
+  - first:
+      213: -975883747817125258
+    second: horseMan_55
+  - first:
+      213: 5525969839080351541
+    second: horseMan_56
+  - first:
+      213: -5483414247940363941
+    second: horseMan_57
+  - first:
+      213: 589349494835437795
+    second: horseMan_58
+  - first:
+      213: -8773217240125289331
+    second: horseMan_59
+  - first:
+      213: 4591378099417635128
+    second: horseMan_60
+  - first:
+      213: -1877569150878925479
+    second: horseMan_61
+  - first:
+      213: 1284988638881302477
+    second: horseMan_62
+  - first:
+      213: 516391839498277129
+    second: horseMan_63
+  - first:
+      213: 5442675831326764518
+    second: horseMan_64
+  - first:
+      213: -4130419665493890258
+    second: horseMan_65
+  - first:
+      213: -6958529411272133338
+    second: horseMan_66
+  - first:
+      213: -1393059923471397975
+    second: horseMan_67
+  - first:
+      213: 2513143338594001936
+    second: horseMan_68
+  - first:
+      213: 8864595328942052914
+    second: horseMan_69
+  - first:
+      213: -5235692155746799829
+    second: horseMan_70
+  - first:
+      213: -6373245518852408161
+    second: horseMan_71
+  - first:
+      213: 4071697767759063367
+    second: horseMan_72
+  - first:
+      213: -5055326446050382315
+    second: horseMan_73
+  - first:
+      213: -2364072285011941681
+    second: horseMan_74
+  - first:
+      213: 8793860830920306235
+    second: horseMan_75
+  - first:
+      213: -2160708042074399698
+    second: horseMan_76
+  - first:
+      213: -2353834074446605371
+    second: horseMan_77
+  - first:
+      213: 5840655199640408313
+    second: horseMan_78
+  - first:
+      213: 2005735077472872053
+    second: horseMan_79
+  - first:
+      213: -3394642828250711369
+    second: horseMan_80
+  - first:
+      213: 3918364503703533496
+    second: horseMan_81
+  - first:
+      213: 3462429640571880379
+    second: horseMan_82
+  - first:
+      213: 5089979983064949601
+    second: horseMan_83
+  - first:
+      213: -3625785600031463301
+    second: horseMan_84
+  - first:
+      213: 2242599969662651712
+    second: horseMan_85
+  - first:
+      213: -2000385498476994427
+    second: horseMan_86
+  - first:
+      213: -1886784034457296174
+    second: horseMan_87
+  - first:
+      213: 2711809935206055379
+    second: horseMan_88
+  - first:
+      213: -88101610156333505
+    second: horseMan_89
+  - first:
+      213: -8597233137498925161
+    second: horseMan_90
+  - first:
+      213: 6610120012378298145
+    second: horseMan_91
+  - first:
+      213: -5306390590991329477
+    second: horseMan_92
+  - first:
+      213: -382627810910054888
+    second: horseMan_93
+  - first:
+      213: 8338383189521699121
+    second: horseMan_94
+  - first:
+      213: -7910422443843390934
+    second: horseMan_95
+  - first:
+      213: 7933048100842251281
+    second: horseMan_96
+  - first:
+      213: -5956775120762698179
+    second: horseMan_97
+  - first:
+      213: 4397931682586732704
+    second: horseMan_98
+  - first:
+      213: 4416134529275081175
+    second: horseMan_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: horseMan_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 895
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bbf36e77fe36eb0800000000000000
+      internalID: -4727671885565805750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 895
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c60aa287dd14960800000000000000
+      internalID: 7584586755649596535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 897
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958b9212475c6d7e0800000000000000
+      internalID: -1740987103368857511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 893
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34bc241a6133b690800000000000000
+      internalID: -7587666615514385348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 891
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a587c85f80e3a020800000000000000
+      internalID: 2351970336691946915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_5
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 895
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7931f5b7ae524d20800000000000000
+      internalID: 3261273154574694781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_6
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 899
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d8cfe54af6cf820800000000000000
+      internalID: 2953358207407131971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 897
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08955395311edc0b0800000000000000
+      internalID: -5706657679591253632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 812
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14effbefbeaa620d0800000000000000
+      internalID: -3447880534137504191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 813
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3e242f8683e7bb0800000000000000
+      internalID: -4936446118159260744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 816
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da819b1d8a377260800000000000000
+      internalID: 7095204115672828630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 815
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d827be60127394a0800000000000000
+      internalID: -6587796415010363181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 812
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2895f8cf30744c30800000000000000
+      internalID: 4342719359948789806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 816
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c21884449afcf30800000000000000
+      internalID: 4598079855307861023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 820
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709aeaeab857e3740800000000000000
+      internalID: 5133669868040530183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_15
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 816
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19316e84cd3b5ba0800000000000000
+      internalID: -6099213355931584227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 734
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0253a4edf5fceb6a0800000000000000
+      internalID: -6431475207180241632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 735
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b22e7ad0f503ff0800000000000000
+      internalID: -58442282899985531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 736
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8a6127e21a448c0800000000000000
+      internalID: -4015907746852984656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 733
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99a32d4a0aacd2a0800000000000000
+      internalID: -6711302383468303973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 731
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713faf32a94709580800000000000000
+      internalID: -8822423464641367273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_21
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 735
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa620be0f0b4d9180800000000000000
+      internalID: -9107040343430256982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_22
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 740
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541144a1fcd3e2110800000000000000
+      internalID: 1237994907281658181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_23
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 737
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe24feea4044eba90800000000000000
+      internalID: -7296319559388151057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 654
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9454d7bd3d2c98b50800000000000000
+      internalID: 6596017344437110089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 654
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6606f13fa4bbfeb70800000000000000
+      internalID: 8930562516679876710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_26
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 655
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6499bbaafb2de8b70800000000000000
+      internalID: 8903285234003056966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 653
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae7acabcc80b18b0800000000000000
+      internalID: -5180537270959440223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_28
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 651
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9666466278d68f0800000000000000
+      internalID: -545631380879021624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_29
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 653
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f17db9ae5cc21d60800000000000000
+      internalID: 7859569006661693939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_30
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 660
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d5a9efc41852ad0800000000000000
+      internalID: -2727631831613940464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_31
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 657
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd72ace1a0d459700800000000000000
+      internalID: 546427635656959965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 572
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9a3215e22bc5710800000000000000
+      internalID: 1683416272729254358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 573
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e9b988b66ed8060800000000000000
+      internalID: 6957470348885073523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_34
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 576
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a425df0224d92e9e0800000000000000
+      internalID: -1593538410788859318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 575
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad43f9237a32eff0800000000000000
+      internalID: -8379983001858650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_36
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 572
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af1e3c701922af30800000000000000
+      internalID: 4585272521397247910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_37
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 576
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd42695b7dc3a20c0800000000000000
+      internalID: -4599797172243389221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_38
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 580
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17afc21c8908935e0800000000000000
+      internalID: -1929369571787212175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_39
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 576
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3332611c124fe7360800000000000000
+      internalID: 7169436082630959923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 495
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d540175817282aba0800000000000000
+      internalID: -6079153122915056547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_41
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 495
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5552c2a166c31ee0800000000000000
+      internalID: -1291470545480428193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_42
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 496
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910c6ea1c19a7d6f0800000000000000
+      internalID: -659872882210979815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_43
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 490
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa6c6c193778c1e0800000000000000
+      internalID: -2177359332659926284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_44
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 491
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cb5ba30685e4da0800000000000000
+      internalID: -5958728086639494022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_45
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 495
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb8416a7654578f0800000000000000
+      internalID: -543451868557964299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_46
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 499
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3002955a62c250ea0800000000000000
+      internalID: -5907266791732076541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_47
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 497
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941d68c120e4ebec0800000000000000
+      internalID: -3549313685345873591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_48
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 415
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11317f99d3da849b0800000000000000
+      internalID: -5095632498281999599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 415
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6718e7ff1c21a6ed0800000000000000
+      internalID: -2420101225333751434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_50
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 415
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3361e34527fa710800000000000000
+      internalID: 1706708489941169109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_51
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 411
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2144a64265ffbb320800000000000000
+      internalID: 2574932357415584786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_52
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 411
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1dd46b047d65fc0800000000000000
+      internalID: -3506378586924920374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_53
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 415
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf92a85bbd711f100800000000000000
+      internalID: 139919295836203516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_54
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 420
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c6b42b656fd8790800000000000000
+      internalID: -7526088550047323106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_55
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 419
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a884dd6e6f472f0800000000000000
+      internalID: -975883747817125258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_56
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 333
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53728e17a4030bc40800000000000000
+      internalID: 5525969839080351541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 331
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59e23b3bcff6e3b0800000000000000
+      internalID: -5483414247940363941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_58
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 336
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0e8383e3acd2800800000000000000
+      internalID: 589349494835437795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_59
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 333
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ccff017654f3680800000000000000
+      internalID: -8773217240125289331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_60
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 331
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839db452e0ad7bf30800000000000000
+      internalID: 4591378099417635128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_61
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 335
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d31a81ec881f5e0800000000000000
+      internalID: -1877569150878925479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_62
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 340
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7cee0eb5235d110800000000000000
+      internalID: 1284988638881302477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_63
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 338
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901943e54a79a2700800000000000000
+      internalID: 516391839498277129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 251
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ede5d105d4488b40800000000000000
+      internalID: 5442675831326764518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_65
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 250
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2be2f8b23dcda6c0800000000000000
+      internalID: -4130419665493890258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_66
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 256
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625340a4e565e6f90800000000000000
+      internalID: -6958529411272133338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_67
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 253
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab87ae516bdaace0800000000000000
+      internalID: -1393059923471397975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_68
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 250
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014e88e1d8a70e220800000000000000
+      internalID: 2513143338594001936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_69
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 255
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2369d2b2c7e550b70800000000000000
+      internalID: 8864595328942052914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_70
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 260
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fa96769b51757b0800000000000000
+      internalID: -5235692155746799829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_71
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 257
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cb37ea7fead87a0800000000000000
+      internalID: -6373245518852408161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 177
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749a7080c83918830800000000000000
+      internalID: 4071697767759063367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_75
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 172
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ee93775d11a0a70800000000000000
+      internalID: 8793860830920306235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_77
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 171
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c356646160855fd0800000000000000
+      internalID: -2353834074446605371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_79
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 174
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576af461d6dc5db10800000000000000
+      internalID: 2005735077472872053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_80
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 176
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baf9c2555ec3e0d0800000000000000
+      internalID: -3394642828250711369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_81
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 175
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7bfb771c3d06630800000000000000
+      internalID: 3918364503703533496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_82
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 173
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb30212d9650d0030800000000000000
+      internalID: 3462429640571880379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_83
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 171
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1636f64a3dd33a640800000000000000
+      internalID: 5089979983064949601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_84
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 94
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78e56ef43f9eadc0800000000000000
+      internalID: -3625785600031463301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_85
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 95
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d4b056ac05f1f10800000000000000
+      internalID: 2242599969662651712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_86
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 94
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580af65dcf33d34e0800000000000000
+      internalID: -2000385498476994427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_87
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 94
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d26b42daebc0d5e0800000000000000
+      internalID: -1886784034457296174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_88
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 91
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddf45ea4c842a520800000000000000
+      internalID: 2711809935206055379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_89
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 92
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36ed766d0007cef0800000000000000
+      internalID: -88101610156333505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_90
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 94
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797d824f20e70b880800000000000000
+      internalID: -8597233137498925161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_91
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 92
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127528c112ddbbb50800000000000000
+      internalID: 6610120012378298145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_92
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 11
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b379c783fd9eb56b0800000000000000
+      internalID: -5306390590991329477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_93
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 11
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81655818802a0baf0800000000000000
+      internalID: -382627810910054888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_94
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 15
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131978c0553e7b370800000000000000
+      internalID: 8338383189521699121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_95
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 15
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22ff63d2b8883290800000000000000
+      internalID: -7910422443843390934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_96
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 14
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1142ac47739d71e60800000000000000
+      internalID: 7933048100842251281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_97
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 15
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d360e088698455da0800000000000000
+      internalID: -5956775120762698179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_98
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 13
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8a4076097980d30800000000000000
+      internalID: 4397931682586732704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseMan_99
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 10
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d137c9e4f2494d30800000000000000
+      internalID: 4416134529275081175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 003c3a2d68f98c04baa3be1aecdd7ac3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      horseMan_0: -4727671885565805750
+      horseMan_1: 7584586755649596535
+      horseMan_10: 7095204115672828630
+      horseMan_11: -6587796415010363181
+      horseMan_12: 4342719359948789806
+      horseMan_13: 4598079855307861023
+      horseMan_14: 5133669868040530183
+      horseMan_15: -6099213355931584227
+      horseMan_16: -6431475207180241632
+      horseMan_17: -58442282899985531
+      horseMan_18: -4015907746852984656
+      horseMan_19: -6711302383468303973
+      horseMan_2: -1740987103368857511
+      horseMan_20: -8822423464641367273
+      horseMan_21: -9107040343430256982
+      horseMan_22: 1237994907281658181
+      horseMan_23: -7296319559388151057
+      horseMan_24: 6596017344437110089
+      horseMan_25: 8930562516679876710
+      horseMan_26: 8903285234003056966
+      horseMan_27: -5180537270959440223
+      horseMan_28: -545631380879021624
+      horseMan_29: 7859569006661693939
+      horseMan_3: -7587666615514385348
+      horseMan_30: -2727631831613940464
+      horseMan_31: 546427635656959965
+      horseMan_32: 1683416272729254358
+      horseMan_33: 6957470348885073523
+      horseMan_34: -1593538410788859318
+      horseMan_35: -8379983001858650
+      horseMan_36: 4585272521397247910
+      horseMan_37: -4599797172243389221
+      horseMan_38: -1929369571787212175
+      horseMan_39: 7169436082630959923
+      horseMan_4: 2351970336691946915
+      horseMan_40: -6079153122915056547
+      horseMan_41: -1291470545480428193
+      horseMan_42: -659872882210979815
+      horseMan_43: -2177359332659926284
+      horseMan_44: -5958728086639494022
+      horseMan_45: -543451868557964299
+      horseMan_46: -5907266791732076541
+      horseMan_47: -3549313685345873591
+      horseMan_48: -5095632498281999599
+      horseMan_49: -2420101225333751434
+      horseMan_5: 3261273154574694781
+      horseMan_50: 1706708489941169109
+      horseMan_51: 2574932357415584786
+      horseMan_52: -3506378586924920374
+      horseMan_53: 139919295836203516
+      horseMan_54: -7526088550047323106
+      horseMan_55: -975883747817125258
+      horseMan_56: 5525969839080351541
+      horseMan_57: -5483414247940363941
+      horseMan_58: 589349494835437795
+      horseMan_59: -8773217240125289331
+      horseMan_6: 2953358207407131971
+      horseMan_60: 4591378099417635128
+      horseMan_61: -1877569150878925479
+      horseMan_62: 1284988638881302477
+      horseMan_63: 516391839498277129
+      horseMan_64: 5442675831326764518
+      horseMan_65: -4130419665493890258
+      horseMan_66: -6958529411272133338
+      horseMan_67: -1393059923471397975
+      horseMan_68: 2513143338594001936
+      horseMan_69: 8864595328942052914
+      horseMan_7: -5706657679591253632
+      horseMan_70: -5235692155746799829
+      horseMan_71: -6373245518852408161
+      horseMan_72: 4071697767759063367
+      horseMan_73: -5055326446050382315
+      horseMan_74: -2364072285011941681
+      horseMan_75: 8793860830920306235
+      horseMan_76: -2160708042074399698
+      horseMan_77: -2353834074446605371
+      horseMan_78: 5840655199640408313
+      horseMan_79: 2005735077472872053
+      horseMan_8: -3447880534137504191
+      horseMan_80: -3394642828250711369
+      horseMan_81: 3918364503703533496
+      horseMan_82: 3462429640571880379
+      horseMan_83: 5089979983064949601
+      horseMan_84: -3625785600031463301
+      horseMan_85: 2242599969662651712
+      horseMan_86: -2000385498476994427
+      horseMan_87: -1886784034457296174
+      horseMan_88: 2711809935206055379
+      horseMan_89: -88101610156333505
+      horseMan_9: -4936446118159260744
+      horseMan_90: -8597233137498925161
+      horseMan_91: 6610120012378298145
+      horseMan_92: -5306390590991329477
+      horseMan_93: -382627810910054888
+      horseMan_94: 8338383189521699121
+      horseMan_95: -7910422443843390934
+      horseMan_96: 7933048100842251281
+      horseMan_97: -5956775120762698179
+      horseMan_98: 4397931682586732704
+      horseMan_99: 4416134529275081175
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

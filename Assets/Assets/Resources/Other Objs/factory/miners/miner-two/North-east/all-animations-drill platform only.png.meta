@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: f3e1901941bdc3242859fba72c05a772
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8925118814249141949
+    second: all-animations-drill platform only_0
+  - first:
+      213: -8837175270806394751
+    second: all-animations-drill platform only_1
+  - first:
+      213: 1599534683264879524
+    second: all-animations-drill platform only_2
+  - first:
+      213: 7460414650421505871
+    second: all-animations-drill platform only_3
+  - first:
+      213: 2164270919338070002
+    second: all-animations-drill platform only_4
+  - first:
+      213: -3713338470434053744
+    second: all-animations-drill platform only_5
+  - first:
+      213: -4531168875140652802
+    second: all-animations-drill platform only_6
+  - first:
+      213: -8317354675705848712
+    second: all-animations-drill platform only_7
+  - first:
+      213: 3835154361342451071
+    second: all-animations-drill platform only_8
+  - first:
+      213: -5342605726556419547
+    second: all-animations-drill platform only_9
+  - first:
+      213: -4800956569766827839
+    second: all-animations-drill platform only_10
+  - first:
+      213: -5132581206485755688
+    second: all-animations-drill platform only_11
+  - first:
+      213: -776207895706336176
+    second: all-animations-drill platform only_12
+  - first:
+      213: 4390410775843521268
+    second: all-animations-drill platform only_13
+  - first:
+      213: 6681364226549430122
+    second: all-animations-drill platform only_14
+  - first:
+      213: 5472201583855406381
+    second: all-animations-drill platform only_15
+  - first:
+      213: -6565923365129515706
+    second: all-animations-drill platform only_16
+  - first:
+      213: 4845638549531436547
+    second: all-animations-drill platform only_17
+  - first:
+      213: 2897819554354382564
+    second: all-animations-drill platform only_18
+  - first:
+      213: -1390994409465016400
+    second: all-animations-drill platform only_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: all-animations-drill platform only_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6c97536446cdb70800000000000000
+      internalID: 8925118814249141949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188e7bd99eb0c5580800000000000000
+      internalID: -8837175270806394751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab8be9d150b23610800000000000000
+      internalID: 1599534683264879524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_3
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f6e7bf897b88760800000000000000
+      internalID: 7460414650421505871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_4
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff8ad03fe8090e10800000000000000
+      internalID: 2164270919338070002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_5
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0916cf2d552977cc0800000000000000
+      internalID: -3713338470434053744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_6
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef06feb4aed0e11c0800000000000000
+      internalID: -4531168875140652802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_7
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c5e9b5df1d29c80800000000000000
+      internalID: -8317354675705848712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_8
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d5b967294393530800000000000000
+      internalID: 3835154361342451071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_9
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a03a5e5604bd5b0800000000000000
+      internalID: -5342605726556419547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_10
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c868f4bf639f5db0800000000000000
+      internalID: -4800956569766827839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_11
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d81296169865c8b0800000000000000
+      internalID: -5132581206485755688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_12
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0540298080b5a35f0800000000000000
+      internalID: -776207895706336176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_13
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f24338d65fddec30800000000000000
+      internalID: 4390410775843521268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_14
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a673b7a5d59f8bc50800000000000000
+      internalID: 6681364226549430122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_15
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d0809f85a21fb40800000000000000
+      internalID: 5472201583855406381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_16
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d8407bc7721e4a0800000000000000
+      internalID: -6565923365129515706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_17
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306a2c6669a2f3340800000000000000
+      internalID: 4845638549531436547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_18
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e64978088f173820800000000000000
+      internalID: 2897819554354382564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill platform only_19
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 23
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf884354f132bce0800000000000000
+      internalID: -1390994409465016400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      all-animations-drill platform only_0: 8925118814249141949
+      all-animations-drill platform only_1: -8837175270806394751
+      all-animations-drill platform only_10: -4800956569766827839
+      all-animations-drill platform only_11: -5132581206485755688
+      all-animations-drill platform only_12: -776207895706336176
+      all-animations-drill platform only_13: 4390410775843521268
+      all-animations-drill platform only_14: 6681364226549430122
+      all-animations-drill platform only_15: 5472201583855406381
+      all-animations-drill platform only_16: -6565923365129515706
+      all-animations-drill platform only_17: 4845638549531436547
+      all-animations-drill platform only_18: 2897819554354382564
+      all-animations-drill platform only_19: -1390994409465016400
+      all-animations-drill platform only_2: 1599534683264879524
+      all-animations-drill platform only_3: 7460414650421505871
+      all-animations-drill platform only_4: 2164270919338070002
+      all-animations-drill platform only_5: -3713338470434053744
+      all-animations-drill platform only_6: -4531168875140652802
+      all-animations-drill platform only_7: -8317354675705848712
+      all-animations-drill platform only_8: 3835154361342451071
+      all-animations-drill platform only_9: -5342605726556419547
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

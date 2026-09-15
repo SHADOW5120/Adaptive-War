@@ -1,0 +1,6058 @@
+fileFormatVersion: 2
+guid: a14a4d3fde109f747b1945af4b26990e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2371979997235481385
+    second: fastFreddy_alpha_0
+  - first:
+      213: -5947782129339696617
+    second: fastFreddy_alpha_1
+  - first:
+      213: 450005521058778526
+    second: fastFreddy_alpha_2
+  - first:
+      213: -8906278789235008658
+    second: fastFreddy_alpha_3
+  - first:
+      213: 9128655328857333681
+    second: fastFreddy_alpha_4
+  - first:
+      213: -6830291782298489739
+    second: fastFreddy_alpha_5
+  - first:
+      213: -1968951231541396456
+    second: fastFreddy_alpha_6
+  - first:
+      213: 6435625931836918018
+    second: fastFreddy_alpha_7
+  - first:
+      213: -326178707622050287
+    second: fastFreddy_alpha_8
+  - first:
+      213: 8475132975986571283
+    second: fastFreddy_alpha_9
+  - first:
+      213: 7305579155494510111
+    second: fastFreddy_alpha_10
+  - first:
+      213: 8178543359185832608
+    second: fastFreddy_alpha_11
+  - first:
+      213: 1144347044140413882
+    second: fastFreddy_alpha_12
+  - first:
+      213: 737510532786435920
+    second: fastFreddy_alpha_13
+  - first:
+      213: 2396153034828488774
+    second: fastFreddy_alpha_14
+  - first:
+      213: 6274587590083180780
+    second: fastFreddy_alpha_15
+  - first:
+      213: 5944585430086508248
+    second: fastFreddy_alpha_16
+  - first:
+      213: 9009218150881173411
+    second: fastFreddy_alpha_17
+  - first:
+      213: -6687520353290019791
+    second: fastFreddy_alpha_18
+  - first:
+      213: 1658979441036942815
+    second: fastFreddy_alpha_19
+  - first:
+      213: -1148578716289996928
+    second: fastFreddy_alpha_20
+  - first:
+      213: 6409401214073523250
+    second: fastFreddy_alpha_21
+  - first:
+      213: 8760678586734448942
+    second: fastFreddy_alpha_22
+  - first:
+      213: -3513334737255946943
+    second: fastFreddy_alpha_23
+  - first:
+      213: -2418260590473802804
+    second: fastFreddy_alpha_24
+  - first:
+      213: 266977425147239046
+    second: fastFreddy_alpha_25
+  - first:
+      213: -5153204283899147519
+    second: fastFreddy_alpha_26
+  - first:
+      213: 8206477378190480263
+    second: fastFreddy_alpha_27
+  - first:
+      213: 3249080503079784315
+    second: fastFreddy_alpha_28
+  - first:
+      213: -1833010051614202567
+    second: fastFreddy_alpha_29
+  - first:
+      213: -575159602885538704
+    second: fastFreddy_alpha_30
+  - first:
+      213: 4395148420874412244
+    second: fastFreddy_alpha_31
+  - first:
+      213: 3470802050668440029
+    second: fastFreddy_alpha_32
+  - first:
+      213: -8485588108775055399
+    second: fastFreddy_alpha_33
+  - first:
+      213: 7080628573852999876
+    second: fastFreddy_alpha_34
+  - first:
+      213: 7495802240337616613
+    second: fastFreddy_alpha_35
+  - first:
+      213: -8502909456934006763
+    second: fastFreddy_alpha_36
+  - first:
+      213: 5031415693764067720
+    second: fastFreddy_alpha_37
+  - first:
+      213: 3221260003866313835
+    second: fastFreddy_alpha_38
+  - first:
+      213: -2376416289347897345
+    second: fastFreddy_alpha_39
+  - first:
+      213: 8024958540677744572
+    second: fastFreddy_alpha_40
+  - first:
+      213: 2729025609712198096
+    second: fastFreddy_alpha_41
+  - first:
+      213: -9146486595928383718
+    second: fastFreddy_alpha_42
+  - first:
+      213: 6667394137234365315
+    second: fastFreddy_alpha_43
+  - first:
+      213: 7847584985390021899
+    second: fastFreddy_alpha_44
+  - first:
+      213: 3266507769202175470
+    second: fastFreddy_alpha_45
+  - first:
+      213: 3270139993392411580
+    second: fastFreddy_alpha_46
+  - first:
+      213: -6632031043500890768
+    second: fastFreddy_alpha_47
+  - first:
+      213: -8715995489611879789
+    second: fastFreddy_alpha_48
+  - first:
+      213: -6073423086837045441
+    second: fastFreddy_alpha_49
+  - first:
+      213: 1656377615814410532
+    second: fastFreddy_alpha_50
+  - first:
+      213: -8515457222660738549
+    second: fastFreddy_alpha_51
+  - first:
+      213: 295612787988963324
+    second: fastFreddy_alpha_52
+  - first:
+      213: 6401278335604050206
+    second: fastFreddy_alpha_53
+  - first:
+      213: -4196957236542483460
+    second: fastFreddy_alpha_54
+  - first:
+      213: -7126362961538488936
+    second: fastFreddy_alpha_55
+  - first:
+      213: -2129273448622812512
+    second: fastFreddy_alpha_56
+  - first:
+      213: -3354307055893039249
+    second: fastFreddy_alpha_57
+  - first:
+      213: -5442254765180020990
+    second: fastFreddy_alpha_58
+  - first:
+      213: -5879422002283708707
+    second: fastFreddy_alpha_59
+  - first:
+      213: 1906512975154648547
+    second: fastFreddy_alpha_60
+  - first:
+      213: -4095867393638319779
+    second: fastFreddy_alpha_61
+  - first:
+      213: -3268319063115802436
+    second: fastFreddy_alpha_62
+  - first:
+      213: -3429965033812198258
+    second: fastFreddy_alpha_63
+  - first:
+      213: -9140918154151447927
+    second: fastFreddy_alpha_64
+  - first:
+      213: -7456306452615407265
+    second: fastFreddy_alpha_65
+  - first:
+      213: 3982298259253817798
+    second: fastFreddy_alpha_66
+  - first:
+      213: -8327406735828359442
+    second: fastFreddy_alpha_67
+  - first:
+      213: 8615390383890815247
+    second: fastFreddy_alpha_68
+  - first:
+      213: 8600173071406925283
+    second: fastFreddy_alpha_69
+  - first:
+      213: 2206704434987453286
+    second: fastFreddy_alpha_70
+  - first:
+      213: -1046754762801952327
+    second: fastFreddy_alpha_71
+  - first:
+      213: 4923327286271175174
+    second: fastFreddy_alpha_72
+  - first:
+      213: -2044262320109110099
+    second: fastFreddy_alpha_73
+  - first:
+      213: -8162576039410400611
+    second: fastFreddy_alpha_74
+  - first:
+      213: -6834450345497270441
+    second: fastFreddy_alpha_75
+  - first:
+      213: 8441412083401191948
+    second: fastFreddy_alpha_76
+  - first:
+      213: 1368959240146747189
+    second: fastFreddy_alpha_77
+  - first:
+      213: -5022181942886542919
+    second: fastFreddy_alpha_78
+  - first:
+      213: 5406547254896615570
+    second: fastFreddy_alpha_79
+  - first:
+      213: -5282249897667961489
+    second: fastFreddy_alpha_80
+  - first:
+      213: -6899894588954805748
+    second: fastFreddy_alpha_81
+  - first:
+      213: -9118006514422769565
+    second: fastFreddy_alpha_82
+  - first:
+      213: 1006590190756224480
+    second: fastFreddy_alpha_83
+  - first:
+      213: 8703398966710965882
+    second: fastFreddy_alpha_84
+  - first:
+      213: 2903798792218588139
+    second: fastFreddy_alpha_85
+  - first:
+      213: -3213505306068231097
+    second: fastFreddy_alpha_86
+  - first:
+      213: 6385792909984396368
+    second: fastFreddy_alpha_87
+  - first:
+      213: 3899025069047804148
+    second: fastFreddy_alpha_88
+  - first:
+      213: -5832849660778988940
+    second: fastFreddy_alpha_89
+  - first:
+      213: 4959728931352939372
+    second: fastFreddy_alpha_90
+  - first:
+      213: -2748117221667889773
+    second: fastFreddy_alpha_91
+  - first:
+      213: 5700211874557888342
+    second: fastFreddy_alpha_92
+  - first:
+      213: 1843087710811193405
+    second: fastFreddy_alpha_93
+  - first:
+      213: 8713253027119350144
+    second: fastFreddy_alpha_94
+  - first:
+      213: 81143328079577481
+    second: fastFreddy_alpha_95
+  - first:
+      213: -5515018515501356896
+    second: fastFreddy_alpha_96
+  - first:
+      213: 3949691449100474985
+    second: fastFreddy_alpha_97
+  - first:
+      213: 8410886600586063158
+    second: fastFreddy_alpha_98
+  - first:
+      213: -9164887157519951925
+    second: fastFreddy_alpha_99
+  - first:
+      213: 7080753650725887941
+    second: fastFreddy_alpha_100
+  - first:
+      213: -5610120939519418869
+    second: fastFreddy_alpha_101
+  - first:
+      213: 1921342965932295868
+    second: fastFreddy_alpha_102
+  - first:
+      213: -7893219816166734207
+    second: fastFreddy_alpha_103
+  - first:
+      213: 8246452869971491036
+    second: fastFreddy_alpha_104
+  - first:
+      213: 2701559150784866580
+    second: fastFreddy_alpha_105
+  - first:
+      213: -8833809174397393191
+    second: fastFreddy_alpha_106
+  - first:
+      213: 323347825694248454
+    second: fastFreddy_alpha_107
+  - first:
+      213: -6242673204218594241
+    second: fastFreddy_alpha_108
+  - first:
+      213: 6177521485803115474
+    second: fastFreddy_alpha_109
+  - first:
+      213: 6692517593112626798
+    second: fastFreddy_alpha_110
+  - first:
+      213: -86458389802276787
+    second: fastFreddy_alpha_111
+  - first:
+      213: 1871355283027884230
+    second: fastFreddy_alpha_112
+  - first:
+      213: -1218886540213591558
+    second: fastFreddy_alpha_113
+  - first:
+      213: 1184670650195595382
+    second: fastFreddy_alpha_114
+  - first:
+      213: -974118624024102455
+    second: fastFreddy_alpha_115
+  - first:
+      213: -9174643834657536387
+    second: fastFreddy_alpha_116
+  - first:
+      213: 4130197807769429608
+    second: fastFreddy_alpha_117
+  - first:
+      213: -952668708015937142
+    second: fastFreddy_alpha_118
+  - first:
+      213: -4265384013154309005
+    second: fastFreddy_alpha_119
+  - first:
+      213: -8100441269967716700
+    second: fastFreddy_alpha_120
+  - first:
+      213: -2548503014567260760
+    second: fastFreddy_alpha_121
+  - first:
+      213: -6325318348040205467
+    second: fastFreddy_alpha_122
+  - first:
+      213: -6199585807347556410
+    second: fastFreddy_alpha_123
+  - first:
+      213: 6457942872422563894
+    second: fastFreddy_alpha_124
+  - first:
+      213: -5852142240373425689
+    second: fastFreddy_alpha_125
+  - first:
+      213: -8327164257847224549
+    second: fastFreddy_alpha_126
+  - first:
+      213: -3911826742022501597
+    second: fastFreddy_alpha_127
+  - first:
+      213: 4652495694248017153
+    second: fastFreddy_alpha_128
+  - first:
+      213: -1132896352712024439
+    second: fastFreddy_alpha_129
+  - first:
+      213: -1817915912677226340
+    second: fastFreddy_alpha_130
+  - first:
+      213: -1653329582945416906
+    second: fastFreddy_alpha_131
+  - first:
+      213: 8150252129920089051
+    second: fastFreddy_alpha_132
+  - first:
+      213: 4967125336808780663
+    second: fastFreddy_alpha_133
+  - first:
+      213: -3832344648143639655
+    second: fastFreddy_alpha_134
+  - first:
+      213: 7146462268153272123
+    second: fastFreddy_alpha_135
+  - first:
+      213: -2121067292989623822
+    second: fastFreddy_alpha_136
+  - first:
+      213: -8495440958092760729
+    second: fastFreddy_alpha_137
+  - first:
+      213: -2733165620587114841
+    second: fastFreddy_alpha_138
+  - first:
+      213: 1888072359021935051
+    second: fastFreddy_alpha_139
+  - first:
+      213: -4506501645286668548
+    second: fastFreddy_alpha_140
+  - first:
+      213: -9184596444590060770
+    second: fastFreddy_alpha_141
+  - first:
+      213: -8251863474029406006
+    second: fastFreddy_alpha_142
+  - first:
+      213: -7699199238095642937
+    second: fastFreddy_alpha_143
+  - first:
+      213: -6924651011362077479
+    second: fastFreddy_alpha_144
+  - first:
+      213: 5861371875056847047
+    second: fastFreddy_alpha_145
+  - first:
+      213: -5329559960231398542
+    second: fastFreddy_alpha_146
+  - first:
+      213: -7839463303451775064
+    second: fastFreddy_alpha_147
+  - first:
+      213: 8669662930515475592
+    second: fastFreddy_alpha_148
+  - first:
+      213: -2404868020242148856
+    second: fastFreddy_alpha_149
+  - first:
+      213: 2984435368883268744
+    second: fastFreddy_alpha_150
+  - first:
+      213: 6069500590460289106
+    second: fastFreddy_alpha_151
+  - first:
+      213: -2386905299181361067
+    second: fastFreddy_alpha_152
+  - first:
+      213: -9220829754376559572
+    second: fastFreddy_alpha_153
+  - first:
+      213: -6724882444851017251
+    second: fastFreddy_alpha_154
+  - first:
+      213: 6037898574285488530
+    second: fastFreddy_alpha_155
+  - first:
+      213: -1912745711113911683
+    second: fastFreddy_alpha_156
+  - first:
+      213: -1974611887879698024
+    second: fastFreddy_alpha_157
+  - first:
+      213: -8494879975472130432
+    second: fastFreddy_alpha_158
+  - first:
+      213: -5809227136827240952
+    second: fastFreddy_alpha_159
+  - first:
+      213: 5273152582017967075
+    second: fastFreddy_alpha_160
+  - first:
+      213: -3229562591948053414
+    second: fastFreddy_alpha_161
+  - first:
+      213: -2246046604724818707
+    second: fastFreddy_alpha_162
+  - first:
+      213: -8745962770018506085
+    second: fastFreddy_alpha_163
+  - first:
+      213: -1954069506384099304
+    second: fastFreddy_alpha_164
+  - first:
+      213: 6211084874262091223
+    second: fastFreddy_alpha_165
+  - first:
+      213: 6314804087663421383
+    second: fastFreddy_alpha_166
+  - first:
+      213: -2946637366639771919
+    second: fastFreddy_alpha_167
+  - first:
+      213: -3331989120752836721
+    second: fastFreddy_alpha_168
+  - first:
+      213: 214869455013192854
+    second: fastFreddy_alpha_169
+  - first:
+      213: 5756164750470252743
+    second: fastFreddy_alpha_170
+  - first:
+      213: 253590058793526749
+    second: fastFreddy_alpha_171
+  - first:
+      213: 1668460549402697367
+    second: fastFreddy_alpha_172
+  - first:
+      213: 8820210917316204384
+    second: fastFreddy_alpha_173
+  - first:
+      213: 6049315779712555322
+    second: fastFreddy_alpha_174
+  - first:
+      213: -8178232849874855300
+    second: fastFreddy_alpha_175
+  - first:
+      213: 9112629211390110347
+    second: fastFreddy_alpha_176
+  - first:
+      213: 3690003663954337481
+    second: fastFreddy_alpha_177
+  - first:
+      213: 2077704911515360555
+    second: fastFreddy_alpha_178
+  - first:
+      213: -3966129891628230835
+    second: fastFreddy_alpha_179
+  - first:
+      213: -4970454284278360959
+    second: fastFreddy_alpha_180
+  - first:
+      213: 3033694989732896570
+    second: fastFreddy_alpha_181
+  - first:
+      213: -7825821744043914086
+    second: fastFreddy_alpha_182
+  - first:
+      213: 267448002809005671
+    second: fastFreddy_alpha_183
+  - first:
+      213: 8124961600045748608
+    second: fastFreddy_alpha_184
+  - first:
+      213: 2896439660693467966
+    second: fastFreddy_alpha_185
+  - first:
+      213: 7523187909433350428
+    second: fastFreddy_alpha_186
+  - first:
+      213: -91389593062061938
+    second: fastFreddy_alpha_187
+  - first:
+      213: -9016202316469345775
+    second: fastFreddy_alpha_188
+  - first:
+      213: -8813150085585451940
+    second: fastFreddy_alpha_189
+  - first:
+      213: 187279609240401529
+    second: fastFreddy_alpha_190
+  - first:
+      213: 2499230165749991303
+    second: fastFreddy_alpha_191
+  - first:
+      213: -4331084629363450764
+    second: fastFreddy_alpha_192
+  - first:
+      213: 8340581880449627942
+    second: fastFreddy_alpha_193
+  - first:
+      213: -2962040062835131486
+    second: fastFreddy_alpha_194
+  - first:
+      213: 3719352069843932802
+    second: fastFreddy_alpha_195
+  - first:
+      213: -7330498641401678155
+    second: fastFreddy_alpha_196
+  - first:
+      213: 6167456946439584299
+    second: fastFreddy_alpha_197
+  - first:
+      213: 866626503340551195
+    second: fastFreddy_alpha_198
+  - first:
+      213: 1100869674617566453
+    second: fastFreddy_alpha_199
+  - first:
+      213: -5162417230109071804
+    second: fastFreddy_alpha_200
+  - first:
+      213: 524512129527217587
+    second: fastFreddy_alpha_201
+  - first:
+      213: 7324354609092501366
+    second: fastFreddy_alpha_202
+  - first:
+      213: -7877899704491306935
+    second: fastFreddy_alpha_203
+  - first:
+      213: 2710951442949196896
+    second: fastFreddy_alpha_204
+  - first:
+      213: -8386330822727695498
+    second: fastFreddy_alpha_205
+  - first:
+      213: -7445424322677790037
+    second: fastFreddy_alpha_206
+  - first:
+      213: 5484357950798879120
+    second: fastFreddy_alpha_207
+  - first:
+      213: -1595806974030091914
+    second: fastFreddy_alpha_208
+  - first:
+      213: 4377590646472296917
+    second: fastFreddy_alpha_209
+  - first:
+      213: 1143810975339236605
+    second: fastFreddy_alpha_210
+  - first:
+      213: -6331684844531359212
+    second: fastFreddy_alpha_211
+  - first:
+      213: 4446188246100038628
+    second: fastFreddy_alpha_212
+  - first:
+      213: 2427897140208251897
+    second: fastFreddy_alpha_213
+  - first:
+      213: -8618800520042219968
+    second: fastFreddy_alpha_214
+  - first:
+      213: -2325647403465051574
+    second: fastFreddy_alpha_215
+  - first:
+      213: 528083569420005275
+    second: fastFreddy_alpha_216
+  - first:
+      213: 884467185159655676
+    second: fastFreddy_alpha_217
+  - first:
+      213: -1940257501731745497
+    second: fastFreddy_alpha_218
+  - first:
+      213: -5044558501717275076
+    second: fastFreddy_alpha_219
+  - first:
+      213: -8155732116751554770
+    second: fastFreddy_alpha_220
+  - first:
+      213: -379267637096145431
+    second: fastFreddy_alpha_221
+  - first:
+      213: -5974094127977480702
+    second: fastFreddy_alpha_222
+  - first:
+      213: -3028405956143037987
+    second: fastFreddy_alpha_223
+  - first:
+      213: 8788862800558609641
+    second: fastFreddy_alpha_224
+  - first:
+      213: -1211830434075150385
+    second: fastFreddy_alpha_225
+  - first:
+      213: 2492898971913886147
+    second: fastFreddy_alpha_226
+  - first:
+      213: 1201440043505461435
+    second: fastFreddy_alpha_227
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fastFreddy_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2223
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b8d8d7d37fae020800000000000000
+      internalID: 2371979997235481385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2231
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a7a438aab357da0800000000000000
+      internalID: -5947782129339696617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2223
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d4cad13adbe3600800000000000000
+      internalID: 450005521058778526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2223
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b1d01f0aa866480800000000000000
+      internalID: -8906278789235008658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2229
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf9489e7af7fae70800000000000000
+      internalID: 9128655328857333681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2223
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c24dbffcde531a0800000000000000
+      internalID: -6830291782298489739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2222
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c38ef6941eca4e0800000000000000
+      internalID: -1968951231541396456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2223
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2098e6600bfef4950800000000000000
+      internalID: 6435625931836918018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2223
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11644ee813e297bf0800000000000000
+      internalID: -326178707622050287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2223
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318f0e9d988bd9570800000000000000
+      internalID: 8475132975986571283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2242
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e9fb90981a26560800000000000000
+      internalID: 7305579155494510111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aac6687ad5008170800000000000000
+      internalID: 8178543359185832608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2127
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3f1c9d29981ef00800000000000000
+      internalID: 1144347044140413882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2128
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05738dc0ce92c3a00800000000000000
+      internalID: 737510532786435920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6402d646d78d04120800000000000000
+      internalID: 2396153034828488774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2127
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce87bf24b20d31750800000000000000
+      internalID: 6274587590083180780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2128
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ded441f3f86f7250800000000000000
+      internalID: 5944585430086508248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2129
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af1643ec2c270d70800000000000000
+      internalID: 9009218150881173411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c14f1bba72133a0800000000000000
+      internalID: -6687520353290019791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_19
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2127
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdddea01301e50710800000000000000
+      internalID: 1658979441036942815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2034
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087e5f23ebd6f00f0800000000000000
+      internalID: -1148578716289996928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2031
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c4fcb1274c2f850800000000000000
+      internalID: 6409401214073523250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2031
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e219da132ce249970800000000000000
+      internalID: 8760678586734448942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2038
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145a1d0cba02e3fc0800000000000000
+      internalID: -3513334737255946943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_24
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2031
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb8b723ecc907ed0800000000000000
+      internalID: -2418260590473802804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_25
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2031
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a13fcbd8e74b300800000000000000
+      internalID: 266977425147239046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_26
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2035
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b8b23b1042c78b0800000000000000
+      internalID: -5153204283899147519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_27
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2031
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783925812b343e170800000000000000
+      internalID: 8206477378190480263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_28
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2031
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fc7b0d08d071d20800000000000000
+      internalID: 3249080503079784315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1951
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935a0dbd117df86e0800000000000000
+      internalID: -1833010051614202567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1935
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c4ad4736f9408f0800000000000000
+      internalID: -575159602885538704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1935
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0a659c334befc30800000000000000
+      internalID: 4395148420874412244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_32
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1939
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd92ac37314ca2030800000000000000
+      internalID: 3470802050668440029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1935
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df1f2ad2922d3a80800000000000000
+      internalID: -8485588108775055399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_34
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1942
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c02df25c22734260800000000000000
+      internalID: 7080628573852999876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_35
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1937
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee96e15c60760860800000000000000
+      internalID: 7495802240337616613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_36
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1935
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510932636e89ff980800000000000000
+      internalID: -8502909456934006763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_37
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1935
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88102287aed23d540800000000000000
+      internalID: 5031415693764067720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_38
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1846
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6400a318e634bc20800000000000000
+      internalID: 3221260003866313835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1847
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff777f2c9f5450fd0800000000000000
+      internalID: -2376416289347897345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_40
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1846
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7855256416e5f60800000000000000
+      internalID: 8024958540677744572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1839
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1e6d145527fd520800000000000000
+      internalID: 2729025609712198096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_42
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1839
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f11d2b6e6211180800000000000000
+      internalID: -9146486595928383718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_43
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1839
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b506774a7578c50800000000000000
+      internalID: 6667394137234365315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_44
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1839
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d7cd647f838ec60800000000000000
+      internalID: 7847584985390021899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_45
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1839
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed69576287f45d20800000000000000
+      internalID: 3266507769202175470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_46
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1744
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3f3ff7ffed16d20800000000000000
+      internalID: 3270139993392411580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_47
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1743
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07524c867ea46f3a0800000000000000
+      internalID: -6632031043500890768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_48
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1748
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ae6c118409a0780800000000000000
+      internalID: -8715995489611879789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_49
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1743
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37eb6281edd6bba0800000000000000
+      internalID: -6073423086837045441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_50
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1743
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421c68c6aa2acf610800000000000000
+      internalID: 1656377615814410532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_51
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1743
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02b547d5c403d980800000000000000
+      internalID: -8515457222660738549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_52
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1751
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff1523b34a3a1400800000000000000
+      internalID: 295612787988963324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_53
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1751
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1945161bb8e5d850800000000000000
+      internalID: 6401278335604050206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_54
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1743
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3516a31a961c5c0800000000000000
+      internalID: -4196957236542483460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1648
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8956ff0c4a21a1d90800000000000000
+      internalID: -7126362961538488936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_56
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1662
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a29a21741d4372e0800000000000000
+      internalID: -2129273448622812512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_57
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1647
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67b8e9218b1371d0800000000000000
+      internalID: -3354307055893039249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_58
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1647
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2079448102a3974b0800000000000000
+      internalID: -5442254765180020990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_59
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1647
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde7345e6d8186ea0800000000000000
+      internalID: -5879422002283708707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_60
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1653
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e514c3237b457a10800000000000000
+      internalID: 1906512975154648547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_61
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1647
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59351b6e4e8827c0800000000000000
+      internalID: -4095867393638319779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_62
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1675
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8585ed02994a2d0800000000000000
+      internalID: -3268319063115802436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_63
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1655
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cfc9779f05660d0800000000000000
+      internalID: -3429965033812198258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_64
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1647
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98232e49e5fe42180800000000000000
+      internalID: -9140918154151447927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_65
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1652
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59d76b59c0e58890800000000000000
+      internalID: -7456306452615407265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_66
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1647
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1fa7cea27f34730800000000000000
+      internalID: 3982298259253817798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_67
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1551
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee661cab1bb1f6c80800000000000000
+      internalID: -8327406735828359442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_68
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1551
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09d02968e3009770800000000000000
+      internalID: 8615390383890815247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_69
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1551
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e50710c7d3f95770800000000000000
+      internalID: 8600173071406925283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_70
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1552
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bc4b3fdf9cf9e10800000000000000
+      internalID: 2206704434987453286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_71
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1551
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9cd34d61e2971f0800000000000000
+      internalID: -1046754762801952327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_72
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1553
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a6e2bf41c235440800000000000000
+      internalID: 4923327286271175174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_73
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1553
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac3e26304251a3e0800000000000000
+      internalID: -2044262320109110099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_74
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1551
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9204ded654b8be80800000000000000
+      internalID: -8162576039410400611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_75
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1462
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757e6990f972721a0800000000000000
+      internalID: -6834450345497270441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_76
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1458
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0271d9b09be52570800000000000000
+      internalID: 8441412083401191948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_77
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1455
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f7fe40d258ff210800000000000000
+      internalID: 1368959240146747189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_78
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1455
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1ddd0b120ad4ab0800000000000000
+      internalID: -5022181942886542919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1481
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290e97d451ae70b40800000000000000
+      internalID: 5406547254896615570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_80
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1458
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d58a264bda1b6b0800000000000000
+      internalID: -5282249897667961489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_81
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1455
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a75b5bd66ae30a0800000000000000
+      internalID: -6899894588954805748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_82
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1462
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36812286265567180800000000000000
+      internalID: -9118006514422769565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_83
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1463
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edda62027028fd00800000000000000
+      internalID: 1006590190756224480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_84
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1367
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a761f456f3fa8c870800000000000000
+      internalID: 8703398966710965882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_85
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1367
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3b565dd9d5c4820800000000000000
+      internalID: 2903798792218588139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_86
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1360
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c58f333f55763d0800000000000000
+      internalID: -3213505306068231097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_87
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1359
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054f3d871d4ee9850800000000000000
+      internalID: 6385792909984396368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_88
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1359
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0ffe274ae1c1630800000000000000
+      internalID: 3899025069047804148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_89
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1359
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ab205232e8d0fa0800000000000000
+      internalID: -5832849660778988940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_90
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1359
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b058f6f2f74d440800000000000000
+      internalID: 4959728931352939372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_91
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1359
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d1a5172f9bcd9d0800000000000000
+      internalID: -2748117221667889773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_92
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1263
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6578c77bf783b1f40800000000000000
+      internalID: 5700211874557888342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_93
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1271
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d300ac40286f39910800000000000000
+      internalID: 1843087710811193405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_94
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1263
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081cb8f9671bbe870800000000000000
+      internalID: 8713253027119350144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_95
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1263
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981831e4d67402100800000000000000
+      internalID: 81143328079577481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_96
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1269
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8e6d541e7b673b0800000000000000
+      internalID: -5515018515501356896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_97
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1263
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a1804527f10d630800000000000000
+      internalID: 3949691449100474985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_98
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1262
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d660aecc879b470800000000000000
+      internalID: 8410886600586063158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_99
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1263
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7db7910b7cfc080800000000000000
+      internalID: -9164887157519951925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_100
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1263
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf119d0ee3e34260800000000000000
+      internalID: 7080753650725887941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_101
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1263
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ed6fcaab8d422b0800000000000000
+      internalID: -5610120939519418869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_102
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1282
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb607107f3bf9aa10800000000000000
+      internalID: 1921342965932295868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_103
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1167
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186ce43b566a57290800000000000000
+      internalID: -7893219816166734207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_104
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1175
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8b6a39139417270800000000000000
+      internalID: 8246452869971491036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_105
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1167
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419ec32fbbddd7520800000000000000
+      internalID: 2701559150784866580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_106
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1167
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6e4720c51086580800000000000000
+      internalID: -8833809174397393191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_107
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1173
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e86616223cc7400800000000000000
+      internalID: 323347825694248454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_108
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1167
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c73bdbbc19d59a0800000000000000
+      internalID: -6242673204218594241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_109
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1166
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d353a9bf07fab550800000000000000
+      internalID: 6177521485803115474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_110
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1167
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66c78eda4990ec50800000000000000
+      internalID: 6692517593112626798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_111
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1167
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48abf37d86dccef0800000000000000
+      internalID: -86458389802276787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_112
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1167
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c87d6d07b368f910800000000000000
+      internalID: 1871355283027884230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_113
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1186
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1601d4625a51fe0800000000000000
+      internalID: -1218886540213591558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_114
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1071
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6705db00eabc07010800000000000000
+      internalID: 1184670650195595382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_115
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1079
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c973f5c54c3b72f0800000000000000
+      internalID: -974118624024102455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_116
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1071
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76828eaa0e1da080800000000000000
+      internalID: -9174643834657536387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_117
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1071
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866a1300609615930800000000000000
+      internalID: 4130197807769429608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_118
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1077
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8964168bd077c2f0800000000000000
+      internalID: -952668708015937142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_119
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1071
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cae49c6df4ec4c0800000000000000
+      internalID: -4265384013154309005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_120
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1070
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aef8ab3593759f80800000000000000
+      internalID: -8100441269967716700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_121
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1071
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adc4b3c206e1acd0800000000000000
+      internalID: -2548503014567260760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_122
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1071
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b8dc5b974f738a0800000000000000
+      internalID: -6325318348040205467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_123
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1071
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfde761e85a6f9a0800000000000000
+      internalID: -6199585807347556410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_124
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1090
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630438aa3d83f9950800000000000000
+      internalID: 6457942872422563894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_125
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 976
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9bb7b63a309cea0800000000000000
+      internalID: -5852142240373425689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_126
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 975
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17dfa80a38ff6c80800000000000000
+      internalID: -8327164257847224549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_127
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 975
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b00eacd4666b9c0800000000000000
+      internalID: -3911826742022501597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_128
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 975
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dffa61f2cf09040800000000000000
+      internalID: 4652495694248017153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_129
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 973
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e934105c42740f0800000000000000
+      internalID: -1132896352712024439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_130
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 975
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c980851fb1775c6e0800000000000000
+      internalID: -1817915912677226340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_131
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 975
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639c4e701813e09e0800000000000000
+      internalID: -1653329582945416906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_132
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 975
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbf1c951238b1170800000000000000
+      internalID: 8150252129920089051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_133
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 879
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77374574d26cee440800000000000000
+      internalID: 4967125336808780663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_134
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 880
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b678ed8d6c0dac0800000000000000
+      internalID: -3832344648143639655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_135
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 887
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37120eb1955d2360800000000000000
+      internalID: 7146462268153272123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_136
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 879
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f177a0f8847092e0800000000000000
+      internalID: -2121067292989623822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_137
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 879
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769a39a95712a1a80800000000000000
+      internalID: -8495440958092760729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_138
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 888
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae48985958d11ad0800000000000000
+      internalID: -2733165620587114841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_139
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 878
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc97cbd9ec7c33a10800000000000000
+      internalID: 1888072359021935051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_140
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 879
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf689fc41a0b571c0800000000000000
+      internalID: -4506501645286668548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_141
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 879
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bc4ea1232c98080800000000000000
+      internalID: -9184596444590060770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_142
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 879
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8d47ff3ed7b7d80800000000000000
+      internalID: -8251863474029406006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_143
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 791
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ced956c513f62590800000000000000
+      internalID: -7699199238095642937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_144
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 783
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4c632f792b6ef90800000000000000
+      internalID: -6924651011362077479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_145
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 783
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c88a3d5aa6c75150800000000000000
+      internalID: 5861371875056847047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_146
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 791
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273334114799906b0800000000000000
+      internalID: -5329559960231398542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_147
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 783
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afeb0829a1a43390800000000000000
+      internalID: -7839463303451775064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_148
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 783
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c3fbf5084d05870800000000000000
+      internalID: 8669662930515475592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_149
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 785
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80215c1f64130aed0800000000000000
+      internalID: -2404868020242148856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_150
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 783
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c2661e728da6920800000000000000
+      internalID: 2984435368883268744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_151
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 783
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250c86221a23b3450800000000000000
+      internalID: 6069500590460289106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_152
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 783
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5582cc9d64200eed0800000000000000
+      internalID: -2386905299181361067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_153
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 687
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2468044138090080800000000000000
+      internalID: -9220829754376559572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_154
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 688
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9056edb0b6ca2a0800000000000000
+      internalID: -6724882444851017251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_155
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 695
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291cf1e53cceac350800000000000000
+      internalID: 6037898574285488530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_156
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 695
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72476fe8ef8475e0800000000000000
+      internalID: -1912745711113911683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_157
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899caad23f4c894e0800000000000000
+      internalID: -1974611887879698024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_158
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 703
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086976c8baf1c1a80800000000000000
+      internalID: -8494879975472130432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_159
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 695
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e4ad992ba716fa0800000000000000
+      internalID: -5809227136827240952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_160
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 695
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e36d91c5500e2940800000000000000
+      internalID: 5273152582017967075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_161
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 600
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54eb0ffee94e23d0800000000000000
+      internalID: -3229562591948053414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_162
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 599
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deca768538074d0e0800000000000000
+      internalID: -2246046604724818707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_163
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 607
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a6142e23910a680800000000000000
+      internalID: -8745962770018506085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_164
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 619
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8188d851320c1e4e0800000000000000
+      internalID: -1954069506384099304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_165
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 607
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5913019c4323650800000000000000
+      internalID: 6211084874262091223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_166
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 607
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7ec574cd0b2a750800000000000000
+      internalID: 6314804087663421383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_167
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 607
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe3b8f4de07b17d0800000000000000
+      internalID: -2946637366639771919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_168
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 607
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f9f0e5c8562c1d0800000000000000
+      internalID: -3331989120752836721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_169
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 607
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694a42381ae5bf200800000000000000
+      internalID: 214869455013192854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_170
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 607
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c88764d75102ef40800000000000000
+      internalID: 5756164750470252743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_171
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 607
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd565fc90dee48300800000000000000
+      internalID: 253590058793526749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_172
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 511
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e96e0a700972710800000000000000
+      internalID: 1668460549402697367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_173
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 510
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06797aa091fa76a70800000000000000
+      internalID: 8820210917316204384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_174
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 503
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a399ee7a6ac73f350800000000000000
+      internalID: 6049315779712555322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_175
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 504
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a57cc9d84118e80800000000000000
+      internalID: -8178232849874855300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_176
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 524
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a61caacff867e70800000000000000
+      internalID: 9112629211390110347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_177
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 503
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce53e928c6853330800000000000000
+      internalID: 3690003663954337481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_178
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 503
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d15fedb9d75dc10800000000000000
+      internalID: 2077704911515360555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_179
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 503
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47d07480e975f8c0800000000000000
+      internalID: -3966129891628230835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_180
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 509
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184154db926650bb0800000000000000
+      internalID: -4970454284278360959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_181
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 407
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f59eb1589d91a20800000000000000
+      internalID: 3033694989732896570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_182
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 407
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c0cb63698156390800000000000000
+      internalID: -7825821744043914086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 405
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7668153aa8a26b300800000000000000
+      internalID: 267448002809005671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_184
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 399
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0819a600789a1c070800000000000000
+      internalID: 8124961600045748608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_185
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 415
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33bcf08688323820800000000000000
+      internalID: 2896439660693467966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_186
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 399
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19d9484b8bb76860800000000000000
+      internalID: 7523187909433350428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_187
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 401
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e884e5936a15bbef0800000000000000
+      internalID: -91389593062061938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_188
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 401
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1126ac753c300e280800000000000000
+      internalID: -9016202316469345775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_189
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 407
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54c974f0b661b580800000000000000
+      internalID: -8813150085585451940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_190
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 303
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976b276ffc9599200800000000000000
+      internalID: 187279609240401529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_191
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 305
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7870871289c0fa220800000000000000
+      internalID: 2499230165749991303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_192
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 303
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c13a60a75e4e3c0800000000000000
+      internalID: -4331084629363450764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_193
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 303
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627724ca703bfb370800000000000000
+      internalID: 8340581880449627942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_194
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 303
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab7c34a148b4e6d0800000000000000
+      internalID: -2962040062835131486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_195
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 311
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28659a5600bcd9330800000000000000
+      internalID: 3719352069843932802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_196
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 303
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6f4c40356d44a90800000000000000
+      internalID: -7330498641401678155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_197
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 303
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2afb0c8a65379550800000000000000
+      internalID: 6167456946439584299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_198
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 303
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c6d849630e60c00800000000000000
+      internalID: 866626503340551195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_199
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 303
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4749be223174f00800000000000000
+      internalID: 1100869674617566453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_200
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4462ef081e86b58b0800000000000000
+      internalID: -5162417230109071804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_201
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 207
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd7ad8b001774700800000000000000
+      internalID: 524512129527217587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_202
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 207
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f14fbf5b555a560800000000000000
+      internalID: 7324354609092501366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_203
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 207
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94014a925f31ca290800000000000000
+      internalID: -7877899704491306935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_204
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 223
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cc15069fb3f9520800000000000000
+      internalID: 2710951442949196896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_205
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 207
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6730866ac84cd9b80800000000000000
+      internalID: -8386330822727695498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_206
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 223
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaacbca60a8ca890800000000000000
+      internalID: -7445424322677790037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_207
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 207
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099d476bf7a5c1c40800000000000000
+      internalID: 5484357950798879120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_208
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 207
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67968d6130e8ad9e0800000000000000
+      internalID: -1595806974030091914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_209
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 207
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9cd0fdf7350cc30800000000000000
+      internalID: 4377590646472296917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_210
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 207
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcc94b9502afdf00800000000000000
+      internalID: 1143810975339236605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_211
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412ebfb3e265128a0800000000000000
+      internalID: -6331684844531359212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_212
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 111
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e35f4527a804bd30800000000000000
+      internalID: 4446188246100038628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_213
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3bc41e59f91b120800000000000000
+      internalID: 2427897140208251897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_214
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 111
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0467ee4679ed36880800000000000000
+      internalID: -8618800520042219968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_215
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 111
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42f7a32204a9bfd0800000000000000
+      internalID: -2325647403465051574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_216
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 111
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9feffe5531245700800000000000000
+      internalID: 528083569420005275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_217
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 111
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf05ee20832464c00800000000000000
+      internalID: 884467185159655676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_218
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 111
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7211e740512d215e0800000000000000
+      internalID: -1940257501731745497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_219
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 111
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e077815c02ef9b0800000000000000
+      internalID: -5044558501717275076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_220
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2767c9c9d401de80800000000000000
+      internalID: -8155732116751554770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_221
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 7
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed1510f7129cbaf0800000000000000
+      internalID: -379267637096145431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_222
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20eb72fea01c71da0800000000000000
+      internalID: -5974094127977480702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_223
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 15
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1ca6cf3d0f8f5d0800000000000000
+      internalID: -3028405956143037987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_224
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 15
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4d0f6d62058f970800000000000000
+      internalID: 8788862800558609641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_225
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 15
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc771f804a6be2fe0800000000000000
+      internalID: -1211830434075150385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_226
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 15
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c91dd1386e889220800000000000000
+      internalID: 2492898971913886147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastFreddy_alpha_227
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 8
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a214aa5f5ca010800000000000000
+      internalID: 1201440043505461435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fastFreddy_alpha_0: 2371979997235481385
+      fastFreddy_alpha_1: -5947782129339696617
+      fastFreddy_alpha_10: 7305579155494510111
+      fastFreddy_alpha_100: 7080753650725887941
+      fastFreddy_alpha_101: -5610120939519418869
+      fastFreddy_alpha_102: 1921342965932295868
+      fastFreddy_alpha_103: -7893219816166734207
+      fastFreddy_alpha_104: 8246452869971491036
+      fastFreddy_alpha_105: 2701559150784866580
+      fastFreddy_alpha_106: -8833809174397393191
+      fastFreddy_alpha_107: 323347825694248454
+      fastFreddy_alpha_108: -6242673204218594241
+      fastFreddy_alpha_109: 6177521485803115474
+      fastFreddy_alpha_11: 8178543359185832608
+      fastFreddy_alpha_110: 6692517593112626798
+      fastFreddy_alpha_111: -86458389802276787
+      fastFreddy_alpha_112: 1871355283027884230
+      fastFreddy_alpha_113: -1218886540213591558
+      fastFreddy_alpha_114: 1184670650195595382
+      fastFreddy_alpha_115: -974118624024102455
+      fastFreddy_alpha_116: -9174643834657536387
+      fastFreddy_alpha_117: 4130197807769429608
+      fastFreddy_alpha_118: -952668708015937142
+      fastFreddy_alpha_119: -4265384013154309005
+      fastFreddy_alpha_12: 1144347044140413882
+      fastFreddy_alpha_120: -8100441269967716700
+      fastFreddy_alpha_121: -2548503014567260760
+      fastFreddy_alpha_122: -6325318348040205467
+      fastFreddy_alpha_123: -6199585807347556410
+      fastFreddy_alpha_124: 6457942872422563894
+      fastFreddy_alpha_125: -5852142240373425689
+      fastFreddy_alpha_126: -8327164257847224549
+      fastFreddy_alpha_127: -3911826742022501597
+      fastFreddy_alpha_128: 4652495694248017153
+      fastFreddy_alpha_129: -1132896352712024439
+      fastFreddy_alpha_13: 737510532786435920
+      fastFreddy_alpha_130: -1817915912677226340
+      fastFreddy_alpha_131: -1653329582945416906
+      fastFreddy_alpha_132: 8150252129920089051
+      fastFreddy_alpha_133: 4967125336808780663
+      fastFreddy_alpha_134: -3832344648143639655
+      fastFreddy_alpha_135: 7146462268153272123
+      fastFreddy_alpha_136: -2121067292989623822
+      fastFreddy_alpha_137: -8495440958092760729
+      fastFreddy_alpha_138: -2733165620587114841
+      fastFreddy_alpha_139: 1888072359021935051
+      fastFreddy_alpha_14: 2396153034828488774
+      fastFreddy_alpha_140: -4506501645286668548
+      fastFreddy_alpha_141: -9184596444590060770
+      fastFreddy_alpha_142: -8251863474029406006
+      fastFreddy_alpha_143: -7699199238095642937
+      fastFreddy_alpha_144: -6924651011362077479
+      fastFreddy_alpha_145: 5861371875056847047
+      fastFreddy_alpha_146: -5329559960231398542
+      fastFreddy_alpha_147: -7839463303451775064
+      fastFreddy_alpha_148: 8669662930515475592
+      fastFreddy_alpha_149: -2404868020242148856
+      fastFreddy_alpha_15: 6274587590083180780
+      fastFreddy_alpha_150: 2984435368883268744
+      fastFreddy_alpha_151: 6069500590460289106
+      fastFreddy_alpha_152: -2386905299181361067
+      fastFreddy_alpha_153: -9220829754376559572
+      fastFreddy_alpha_154: -6724882444851017251
+      fastFreddy_alpha_155: 6037898574285488530
+      fastFreddy_alpha_156: -1912745711113911683
+      fastFreddy_alpha_157: -1974611887879698024
+      fastFreddy_alpha_158: -8494879975472130432
+      fastFreddy_alpha_159: -5809227136827240952
+      fastFreddy_alpha_16: 5944585430086508248
+      fastFreddy_alpha_160: 5273152582017967075
+      fastFreddy_alpha_161: -3229562591948053414
+      fastFreddy_alpha_162: -2246046604724818707
+      fastFreddy_alpha_163: -8745962770018506085
+      fastFreddy_alpha_164: -1954069506384099304
+      fastFreddy_alpha_165: 6211084874262091223
+      fastFreddy_alpha_166: 6314804087663421383
+      fastFreddy_alpha_167: -2946637366639771919
+      fastFreddy_alpha_168: -3331989120752836721
+      fastFreddy_alpha_169: 214869455013192854
+      fastFreddy_alpha_17: 9009218150881173411
+      fastFreddy_alpha_170: 5756164750470252743
+      fastFreddy_alpha_171: 253590058793526749
+      fastFreddy_alpha_172: 1668460549402697367
+      fastFreddy_alpha_173: 8820210917316204384
+      fastFreddy_alpha_174: 6049315779712555322
+      fastFreddy_alpha_175: -8178232849874855300
+      fastFreddy_alpha_176: 9112629211390110347
+      fastFreddy_alpha_177: 3690003663954337481
+      fastFreddy_alpha_178: 2077704911515360555
+      fastFreddy_alpha_179: -3966129891628230835
+      fastFreddy_alpha_18: -6687520353290019791
+      fastFreddy_alpha_180: -4970454284278360959
+      fastFreddy_alpha_181: 3033694989732896570
+      fastFreddy_alpha_182: -7825821744043914086
+      fastFreddy_alpha_183: 267448002809005671
+      fastFreddy_alpha_184: 8124961600045748608
+      fastFreddy_alpha_185: 2896439660693467966
+      fastFreddy_alpha_186: 7523187909433350428
+      fastFreddy_alpha_187: -91389593062061938
+      fastFreddy_alpha_188: -9016202316469345775
+      fastFreddy_alpha_189: -8813150085585451940
+      fastFreddy_alpha_19: 1658979441036942815
+      fastFreddy_alpha_190: 187279609240401529
+      fastFreddy_alpha_191: 2499230165749991303
+      fastFreddy_alpha_192: -4331084629363450764
+      fastFreddy_alpha_193: 8340581880449627942
+      fastFreddy_alpha_194: -2962040062835131486
+      fastFreddy_alpha_195: 3719352069843932802
+      fastFreddy_alpha_196: -7330498641401678155
+      fastFreddy_alpha_197: 6167456946439584299
+      fastFreddy_alpha_198: 866626503340551195
+      fastFreddy_alpha_199: 1100869674617566453
+      fastFreddy_alpha_2: 450005521058778526
+      fastFreddy_alpha_20: -1148578716289996928
+      fastFreddy_alpha_200: -5162417230109071804
+      fastFreddy_alpha_201: 524512129527217587
+      fastFreddy_alpha_202: 7324354609092501366
+      fastFreddy_alpha_203: -7877899704491306935
+      fastFreddy_alpha_204: 2710951442949196896
+      fastFreddy_alpha_205: -8386330822727695498
+      fastFreddy_alpha_206: -7445424322677790037
+      fastFreddy_alpha_207: 5484357950798879120
+      fastFreddy_alpha_208: -1595806974030091914
+      fastFreddy_alpha_209: 4377590646472296917
+      fastFreddy_alpha_21: 6409401214073523250
+      fastFreddy_alpha_210: 1143810975339236605
+      fastFreddy_alpha_211: -6331684844531359212
+      fastFreddy_alpha_212: 4446188246100038628
+      fastFreddy_alpha_213: 2427897140208251897
+      fastFreddy_alpha_214: -8618800520042219968
+      fastFreddy_alpha_215: -2325647403465051574
+      fastFreddy_alpha_216: 528083569420005275
+      fastFreddy_alpha_217: 884467185159655676
+      fastFreddy_alpha_218: -1940257501731745497
+      fastFreddy_alpha_219: -5044558501717275076
+      fastFreddy_alpha_22: 8760678586734448942
+      fastFreddy_alpha_220: -8155732116751554770
+      fastFreddy_alpha_221: -379267637096145431
+      fastFreddy_alpha_222: -5974094127977480702
+      fastFreddy_alpha_223: -3028405956143037987
+      fastFreddy_alpha_224: 8788862800558609641
+      fastFreddy_alpha_225: -1211830434075150385
+      fastFreddy_alpha_226: 2492898971913886147
+      fastFreddy_alpha_227: 1201440043505461435
+      fastFreddy_alpha_23: -3513334737255946943
+      fastFreddy_alpha_24: -2418260590473802804
+      fastFreddy_alpha_25: 266977425147239046
+      fastFreddy_alpha_26: -5153204283899147519
+      fastFreddy_alpha_27: 8206477378190480263
+      fastFreddy_alpha_28: 3249080503079784315
+      fastFreddy_alpha_29: -1833010051614202567
+      fastFreddy_alpha_3: -8906278789235008658
+      fastFreddy_alpha_30: -575159602885538704
+      fastFreddy_alpha_31: 4395148420874412244
+      fastFreddy_alpha_32: 3470802050668440029
+      fastFreddy_alpha_33: -8485588108775055399
+      fastFreddy_alpha_34: 7080628573852999876
+      fastFreddy_alpha_35: 7495802240337616613
+      fastFreddy_alpha_36: -8502909456934006763
+      fastFreddy_alpha_37: 5031415693764067720
+      fastFreddy_alpha_38: 3221260003866313835
+      fastFreddy_alpha_39: -2376416289347897345
+      fastFreddy_alpha_4: 9128655328857333681
+      fastFreddy_alpha_40: 8024958540677744572
+      fastFreddy_alpha_41: 2729025609712198096
+      fastFreddy_alpha_42: -9146486595928383718
+      fastFreddy_alpha_43: 6667394137234365315
+      fastFreddy_alpha_44: 7847584985390021899
+      fastFreddy_alpha_45: 3266507769202175470
+      fastFreddy_alpha_46: 3270139993392411580
+      fastFreddy_alpha_47: -6632031043500890768
+      fastFreddy_alpha_48: -8715995489611879789
+      fastFreddy_alpha_49: -6073423086837045441
+      fastFreddy_alpha_5: -6830291782298489739
+      fastFreddy_alpha_50: 1656377615814410532
+      fastFreddy_alpha_51: -8515457222660738549
+      fastFreddy_alpha_52: 295612787988963324
+      fastFreddy_alpha_53: 6401278335604050206
+      fastFreddy_alpha_54: -4196957236542483460
+      fastFreddy_alpha_55: -7126362961538488936
+      fastFreddy_alpha_56: -2129273448622812512
+      fastFreddy_alpha_57: -3354307055893039249
+      fastFreddy_alpha_58: -5442254765180020990
+      fastFreddy_alpha_59: -5879422002283708707
+      fastFreddy_alpha_6: -1968951231541396456
+      fastFreddy_alpha_60: 1906512975154648547
+      fastFreddy_alpha_61: -4095867393638319779
+      fastFreddy_alpha_62: -3268319063115802436
+      fastFreddy_alpha_63: -3429965033812198258
+      fastFreddy_alpha_64: -9140918154151447927
+      fastFreddy_alpha_65: -7456306452615407265
+      fastFreddy_alpha_66: 3982298259253817798
+      fastFreddy_alpha_67: -8327406735828359442
+      fastFreddy_alpha_68: 8615390383890815247
+      fastFreddy_alpha_69: 8600173071406925283
+      fastFreddy_alpha_7: 6435625931836918018
+      fastFreddy_alpha_70: 2206704434987453286
+      fastFreddy_alpha_71: -1046754762801952327
+      fastFreddy_alpha_72: 4923327286271175174
+      fastFreddy_alpha_73: -2044262320109110099
+      fastFreddy_alpha_74: -8162576039410400611
+      fastFreddy_alpha_75: -6834450345497270441
+      fastFreddy_alpha_76: 8441412083401191948
+      fastFreddy_alpha_77: 1368959240146747189
+      fastFreddy_alpha_78: -5022181942886542919
+      fastFreddy_alpha_79: 5406547254896615570
+      fastFreddy_alpha_8: -326178707622050287
+      fastFreddy_alpha_80: -5282249897667961489
+      fastFreddy_alpha_81: -6899894588954805748
+      fastFreddy_alpha_82: -9118006514422769565
+      fastFreddy_alpha_83: 1006590190756224480
+      fastFreddy_alpha_84: 8703398966710965882
+      fastFreddy_alpha_85: 2903798792218588139
+      fastFreddy_alpha_86: -3213505306068231097
+      fastFreddy_alpha_87: 6385792909984396368
+      fastFreddy_alpha_88: 3899025069047804148
+      fastFreddy_alpha_89: -5832849660778988940
+      fastFreddy_alpha_9: 8475132975986571283
+      fastFreddy_alpha_90: 4959728931352939372
+      fastFreddy_alpha_91: -2748117221667889773
+      fastFreddy_alpha_92: 5700211874557888342
+      fastFreddy_alpha_93: 1843087710811193405
+      fastFreddy_alpha_94: 8713253027119350144
+      fastFreddy_alpha_95: 81143328079577481
+      fastFreddy_alpha_96: -5515018515501356896
+      fastFreddy_alpha_97: 3949691449100474985
+      fastFreddy_alpha_98: 8410886600586063158
+      fastFreddy_alpha_99: -9164887157519951925
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

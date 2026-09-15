@@ -1,0 +1,5290 @@
+fileFormatVersion: 2
+guid: 73884a7f17da7b04bb1ba6215d9352db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9069022027423877032
+    second: swordsMan_0
+  - first:
+      213: 5856480988263577945
+    second: swordsMan_1
+  - first:
+      213: -4091647024034401042
+    second: swordsMan_2
+  - first:
+      213: -7684966166970701874
+    second: swordsMan_3
+  - first:
+      213: -4716608672202821753
+    second: swordsMan_4
+  - first:
+      213: 5739643571159230479
+    second: swordsMan_5
+  - first:
+      213: -4276629337749858591
+    second: swordsMan_6
+  - first:
+      213: 2200925379754410413
+    second: swordsMan_7
+  - first:
+      213: -3520905933385918196
+    second: swordsMan_8
+  - first:
+      213: -4587369136368533412
+    second: swordsMan_9
+  - first:
+      213: 5001874732471896034
+    second: swordsMan_10
+  - first:
+      213: 6105737563685026827
+    second: swordsMan_11
+  - first:
+      213: 5888429440799551527
+    second: swordsMan_12
+  - first:
+      213: 3606016210860995244
+    second: swordsMan_13
+  - first:
+      213: -2050729985241965835
+    second: swordsMan_14
+  - first:
+      213: -5775121040772657971
+    second: swordsMan_15
+  - first:
+      213: 7423933670830848298
+    second: swordsMan_16
+  - first:
+      213: -6206703229733838242
+    second: swordsMan_17
+  - first:
+      213: -381417106862334287
+    second: swordsMan_18
+  - first:
+      213: -2976434309299738066
+    second: swordsMan_19
+  - first:
+      213: 1659747598846851999
+    second: swordsMan_20
+  - first:
+      213: -7996241927623759184
+    second: swordsMan_21
+  - first:
+      213: -1719296491463149102
+    second: swordsMan_22
+  - first:
+      213: -4730997104326905935
+    second: swordsMan_23
+  - first:
+      213: -7612673120497155462
+    second: swordsMan_24
+  - first:
+      213: -1091889953458185857
+    second: swordsMan_25
+  - first:
+      213: 4155520964345439016
+    second: swordsMan_26
+  - first:
+      213: -5844405233177234322
+    second: swordsMan_27
+  - first:
+      213: -4991918239148510162
+    second: swordsMan_28
+  - first:
+      213: -9094772558237724093
+    second: swordsMan_29
+  - first:
+      213: 5487980829135487374
+    second: swordsMan_30
+  - first:
+      213: 8953903136090370152
+    second: swordsMan_31
+  - first:
+      213: 4610053149867099337
+    second: swordsMan_32
+  - first:
+      213: 3215551510590232111
+    second: swordsMan_33
+  - first:
+      213: 1883077346087088247
+    second: swordsMan_34
+  - first:
+      213: 4066902703357644455
+    second: swordsMan_35
+  - first:
+      213: 3759280750163483354
+    second: swordsMan_36
+  - first:
+      213: 4158268507267538313
+    second: swordsMan_37
+  - first:
+      213: 3692179494365135726
+    second: swordsMan_38
+  - first:
+      213: 2412516503792988536
+    second: swordsMan_39
+  - first:
+      213: 8720344827236851088
+    second: swordsMan_40
+  - first:
+      213: 83749542199857342
+    second: swordsMan_41
+  - first:
+      213: -4793620049160556819
+    second: swordsMan_42
+  - first:
+      213: -6238744102030716216
+    second: swordsMan_43
+  - first:
+      213: 2468042258613671265
+    second: swordsMan_44
+  - first:
+      213: 131267255096520771
+    second: swordsMan_45
+  - first:
+      213: -825359493058532578
+    second: swordsMan_46
+  - first:
+      213: -7528024449406948643
+    second: swordsMan_47
+  - first:
+      213: 3241906419332828730
+    second: swordsMan_48
+  - first:
+      213: 6905847121425864463
+    second: swordsMan_49
+  - first:
+      213: -3164754843729622920
+    second: swordsMan_50
+  - first:
+      213: -1250824008575821096
+    second: swordsMan_51
+  - first:
+      213: 2156409209017633600
+    second: swordsMan_52
+  - first:
+      213: 5867140063227571148
+    second: swordsMan_53
+  - first:
+      213: -5663790985334218539
+    second: swordsMan_54
+  - first:
+      213: 6582124227433037121
+    second: swordsMan_55
+  - first:
+      213: -7968480746642298002
+    second: swordsMan_56
+  - first:
+      213: 3101831574895960359
+    second: swordsMan_57
+  - first:
+      213: 7783984494127597914
+    second: swordsMan_58
+  - first:
+      213: -7298423906058760255
+    second: swordsMan_59
+  - first:
+      213: -2445295366572205108
+    second: swordsMan_60
+  - first:
+      213: -3752130344500125161
+    second: swordsMan_61
+  - first:
+      213: 2158935633933532314
+    second: swordsMan_62
+  - first:
+      213: 1529473230033039961
+    second: swordsMan_63
+  - first:
+      213: -1410090897388400751
+    second: swordsMan_64
+  - first:
+      213: -848568443550801296
+    second: swordsMan_65
+  - first:
+      213: -3245511626435462798
+    second: swordsMan_66
+  - first:
+      213: 4651721665636276271
+    second: swordsMan_67
+  - first:
+      213: 2449981277040397962
+    second: swordsMan_68
+  - first:
+      213: 7896531678702588895
+    second: swordsMan_69
+  - first:
+      213: -4509578989353078208
+    second: swordsMan_70
+  - first:
+      213: -5931492903181347180
+    second: swordsMan_71
+  - first:
+      213: -2595486366649377109
+    second: swordsMan_72
+  - first:
+      213: -6357902103724341874
+    second: swordsMan_73
+  - first:
+      213: 8053885463272579067
+    second: swordsMan_74
+  - first:
+      213: -2950810115926379795
+    second: swordsMan_75
+  - first:
+      213: 3381641365274768280
+    second: swordsMan_76
+  - first:
+      213: -2036351470510152115
+    second: swordsMan_77
+  - first:
+      213: -7720027805473208938
+    second: swordsMan_78
+  - first:
+      213: 6510402219000290612
+    second: swordsMan_79
+  - first:
+      213: -1573502443954858295
+    second: swordsMan_80
+  - first:
+      213: -4110311914044320308
+    second: swordsMan_81
+  - first:
+      213: -4111489971027922577
+    second: swordsMan_82
+  - first:
+      213: -8443669076294845879
+    second: swordsMan_83
+  - first:
+      213: 1153618423741819209
+    second: swordsMan_84
+  - first:
+      213: 3264801802806033963
+    second: swordsMan_85
+  - first:
+      213: 6072404476309323248
+    second: swordsMan_86
+  - first:
+      213: 170000937589150788
+    second: swordsMan_87
+  - first:
+      213: 171129243326814992
+    second: swordsMan_88
+  - first:
+      213: -4034480507870495642
+    second: swordsMan_89
+  - first:
+      213: 1800522962537897986
+    second: swordsMan_90
+  - first:
+      213: 984550913117742821
+    second: swordsMan_91
+  - first:
+      213: 8744522659463730526
+    second: swordsMan_92
+  - first:
+      213: 4284213662706927385
+    second: swordsMan_93
+  - first:
+      213: -3924650887725342146
+    second: swordsMan_94
+  - first:
+      213: -543828094291452444
+    second: swordsMan_95
+  - first:
+      213: 4173407227148797818
+    second: swordsMan_96
+  - first:
+      213: -7019580191025235231
+    second: swordsMan_97
+  - first:
+      213: 7721788086091966293
+    second: swordsMan_98
+  - first:
+      213: 5885912555637469362
+    second: swordsMan_99
+  - first:
+      213: -1190458166770247914
+    second: swordsMan_100
+  - first:
+      213: -7962760542802216045
+    second: swordsMan_101
+  - first:
+      213: 2716864680913695638
+    second: swordsMan_102
+  - first:
+      213: -1998684585007522409
+    second: swordsMan_103
+  - first:
+      213: -560209320934397500
+    second: swordsMan_104
+  - first:
+      213: 4827889087201929895
+    second: swordsMan_105
+  - first:
+      213: -2149658665360671607
+    second: swordsMan_106
+  - first:
+      213: -7943824697907980483
+    second: swordsMan_107
+  - first:
+      213: -8030322785646737606
+    second: swordsMan_108
+  - first:
+      213: -439011653313661111
+    second: swordsMan_109
+  - first:
+      213: -1317705282220175725
+    second: swordsMan_110
+  - first:
+      213: -8278961677098240442
+    second: swordsMan_111
+  - first:
+      213: -2750866682250607325
+    second: swordsMan_112
+  - first:
+      213: 7232044451721955981
+    second: swordsMan_113
+  - first:
+      213: -7605613325200720274
+    second: swordsMan_114
+  - first:
+      213: -743539580233312736
+    second: swordsMan_115
+  - first:
+      213: -247498298127584022
+    second: swordsMan_116
+  - first:
+      213: 2996930153010190949
+    second: swordsMan_117
+  - first:
+      213: -5456419871247912304
+    second: swordsMan_118
+  - first:
+      213: -2955315372990062518
+    second: swordsMan_119
+  - first:
+      213: -736517079213408314
+    second: swordsMan_120
+  - first:
+      213: 3568650740184976221
+    second: swordsMan_121
+  - first:
+      213: 2078316788108366685
+    second: swordsMan_122
+  - first:
+      213: 3220955951614193751
+    second: swordsMan_123
+  - first:
+      213: 6469532024080838142
+    second: swordsMan_124
+  - first:
+      213: 6162842611704399334
+    second: swordsMan_125
+  - first:
+      213: -6931629199505980498
+    second: swordsMan_126
+  - first:
+      213: -4319757305907165783
+    second: swordsMan_127
+  - first:
+      213: 4770778267502367267
+    second: swordsMan_128
+  - first:
+      213: 6062556700656781586
+    second: swordsMan_129
+  - first:
+      213: 4561969564404842427
+    second: swordsMan_130
+  - first:
+      213: -7403590733838784355
+    second: swordsMan_131
+  - first:
+      213: -6189200884495668593
+    second: swordsMan_132
+  - first:
+      213: -5971885141690538765
+    second: swordsMan_133
+  - first:
+      213: -8064511811259559666
+    second: swordsMan_134
+  - first:
+      213: -7022645259216976266
+    second: swordsMan_135
+  - first:
+      213: 5927099294067032349
+    second: swordsMan_136
+  - first:
+      213: -4213806359997932258
+    second: swordsMan_137
+  - first:
+      213: 4292213605873766880
+    second: swordsMan_138
+  - first:
+      213: 7300959444291713541
+    second: swordsMan_139
+  - first:
+      213: -6617924545106012942
+    second: swordsMan_140
+  - first:
+      213: 7075324731030154831
+    second: swordsMan_141
+  - first:
+      213: -3561570062229810416
+    second: swordsMan_142
+  - first:
+      213: 5126032798959786947
+    second: swordsMan_143
+  - first:
+      213: -354787951491768779
+    second: swordsMan_144
+  - first:
+      213: -386243921514921174
+    second: swordsMan_145
+  - first:
+      213: 3123413772519224839
+    second: swordsMan_146
+  - first:
+      213: -8678216607404935843
+    second: swordsMan_147
+  - first:
+      213: -8331586277511662638
+    second: swordsMan_148
+  - first:
+      213: 7294726374409101013
+    second: swordsMan_149
+  - first:
+      213: 7945251753651036181
+    second: swordsMan_150
+  - first:
+      213: -516158022757997095
+    second: swordsMan_151
+  - first:
+      213: -2034874764208167529
+    second: swordsMan_152
+  - first:
+      213: -1882412345188457557
+    second: swordsMan_153
+  - first:
+      213: 5640088188859375715
+    second: swordsMan_154
+  - first:
+      213: 4458867103964919086
+    second: swordsMan_155
+  - first:
+      213: -7388394040084919424
+    second: swordsMan_156
+  - first:
+      213: -1137530142054302293
+    second: swordsMan_157
+  - first:
+      213: 6693740421424204580
+    second: swordsMan_158
+  - first:
+      213: -6066255422979284225
+    second: swordsMan_159
+  - first:
+      213: 5627353104261178372
+    second: swordsMan_160
+  - first:
+      213: 3124055767822236892
+    second: swordsMan_161
+  - first:
+      213: -6794436795088893055
+    second: swordsMan_162
+  - first:
+      213: 2868556972587174059
+    second: swordsMan_163
+  - first:
+      213: 1115268513229625467
+    second: swordsMan_164
+  - first:
+      213: -2999134147392430062
+    second: swordsMan_165
+  - first:
+      213: -5014719663897092777
+    second: swordsMan_166
+  - first:
+      213: 3787869882406674968
+    second: swordsMan_167
+  - first:
+      213: 7346591901883420454
+    second: swordsMan_168
+  - first:
+      213: 5228424422870428967
+    second: swordsMan_169
+  - first:
+      213: -5148569024877668699
+    second: swordsMan_170
+  - first:
+      213: -4579445275386677335
+    second: swordsMan_171
+  - first:
+      213: 5950800673919099488
+    second: swordsMan_172
+  - first:
+      213: 2494807339927268296
+    second: swordsMan_173
+  - first:
+      213: 8212771945883936946
+    second: swordsMan_174
+  - first:
+      213: -2790020482322804433
+    second: swordsMan_175
+  - first:
+      213: -6707517168960425829
+    second: swordsMan_176
+  - first:
+      213: -6551154718523337066
+    second: swordsMan_177
+  - first:
+      213: 3122594317279486362
+    second: swordsMan_178
+  - first:
+      213: -6464691986303165657
+    second: swordsMan_179
+  - first:
+      213: 8640781637001654671
+    second: swordsMan_180
+  - first:
+      213: -1793193993975417340
+    second: swordsMan_181
+  - first:
+      213: 4621154902942157741
+    second: swordsMan_182
+  - first:
+      213: 7750410710300865752
+    second: swordsMan_183
+  - first:
+      213: -4948431912641563154
+    second: swordsMan_184
+  - first:
+      213: -8144996958460675907
+    second: swordsMan_185
+  - first:
+      213: -5238984469638281443
+    second: swordsMan_186
+  - first:
+      213: 979740098957698614
+    second: swordsMan_187
+  - first:
+      213: 5946566897200301896
+    second: swordsMan_188
+  - first:
+      213: -4065359237758153111
+    second: swordsMan_189
+  - first:
+      213: -3510746396865569309
+    second: swordsMan_190
+  - first:
+      213: 5765035806798391584
+    second: swordsMan_191
+  - first:
+      213: 7981105153637295712
+    second: swordsMan_192
+  - first:
+      213: 6017310170680847604
+    second: swordsMan_193
+  - first:
+      213: 2618921875852809624
+    second: swordsMan_194
+  - first:
+      213: -4380589742274694042
+    second: swordsMan_195
+  - first:
+      213: -6216927563851735429
+    second: swordsMan_196
+  - first:
+      213: -2882735211683776511
+    second: swordsMan_197
+  - first:
+      213: 4841803923416678148
+    second: swordsMan_198
+  - first:
+      213: -3324280283572073160
+    second: swordsMan_199
+  - first:
+      213: -5833594134539759881
+    second: swordsMan_200
+  - first:
+      213: -4233085214074658078
+    second: swordsMan_201
+  - first:
+      213: 7600822958184520189
+    second: swordsMan_202
+  - first:
+      213: 8301334518418142408
+    second: swordsMan_203
+  - first:
+      213: 9166998280348719817
+    second: swordsMan_204
+  - first:
+      213: -1910782380782481359
+    second: swordsMan_205
+  - first:
+      213: 9191650829753579049
+    second: swordsMan_206
+  - first:
+      213: -5576249423270929856
+    second: swordsMan_207
+  - first:
+      213: -6140336835224461876
+    second: swordsMan_208
+  - first:
+      213: -999934977041299793
+    second: swordsMan_209
+  - first:
+      213: -2256647413479603735
+    second: swordsMan_210
+  - first:
+      213: 7402857378911894223
+    second: swordsMan_211
+  - first:
+      213: -8283383853135308772
+    second: swordsMan_212
+  - first:
+      213: -4137352685538036374
+    second: swordsMan_213
+  - first:
+      213: 7265656851069918725
+    second: swordsMan_214
+  - first:
+      213: -6397542342334165437
+    second: swordsMan_215
+  - first:
+      213: 7592946532048349346
+    second: swordsMan_216
+  - first:
+      213: 6905181706270729386
+    second: swordsMan_217
+  - first:
+      213: -841530612441650982
+    second: swordsMan_218
+  - first:
+      213: 6015849930794251484
+    second: swordsMan_219
+  - first:
+      213: 8829492187896971132
+    second: swordsMan_220
+  - first:
+      213: 5156526409347360762
+    second: swordsMan_221
+  - first:
+      213: -3564335327361900554
+    second: swordsMan_222
+  - first:
+      213: 2254320640672813622
+    second: swordsMan_223
+  - first:
+      213: -3644816980903129679
+    second: swordsMan_224
+  - first:
+      213: -345356929297189949
+    second: swordsMan_225
+  - first:
+      213: -6195835954766217878
+    second: swordsMan_226
+  - first:
+      213: -6777258596855970378
+    second: swordsMan_227
+  - first:
+      213: 2033281277710156548
+    second: swordsMan_228
+  - first:
+      213: -2934694256049027843
+    second: swordsMan_229
+  - first:
+      213: -1106761888599059905
+    second: swordsMan_230
+  - first:
+      213: 7332934288327559998
+    second: swordsMan_231
+  - first:
+      213: 6548006214064614272
+    second: swordsMan_232
+  - first:
+      213: 791135992309154482
+    second: swordsMan_233
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swordsMan_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1482
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a70bc4fb73abdd70800000000000000
+      internalID: 9069022027423877032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1481
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959774b0e66664150800000000000000
+      internalID: 5856480988263577945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1478
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4352ac5bc8737c0800000000000000
+      internalID: -4091647024034401042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1478
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7e0d2ecf3895590800000000000000
+      internalID: -7684966166970701874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1478
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fe2dcf66d3b8eb0800000000000000
+      internalID: -4716608672202821753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1479
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08ec440b6f47af40800000000000000
+      internalID: 5739643571159230479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1482
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6d76f964c56a4c0800000000000000
+      internalID: -4276629337749858591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1482
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1476dc8f14b8e10800000000000000
+      internalID: 2200925379754410413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1416
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0997f845ba332fc0800000000000000
+      internalID: -3520905933385918196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1416
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50c92d43146650c0800000000000000
+      internalID: -4587369136368533412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1415
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e74dff619a3a6540800000000000000
+      internalID: 5001874732471896034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1413
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c743fe6ffebb450800000000000000
+      internalID: 6105737563685026827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1412
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7203fcfc067e7b150800000000000000
+      internalID: 5888429440799551527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1415
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca27ba663a42b0230800000000000000
+      internalID: 3606016210860995244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1418
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa196391f75a83e0800000000000000
+      internalID: -2050729985241965835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_15
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1417
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc8cd5e206aadfa0800000000000000
+      internalID: -5775121040772657971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1352
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a293fe5075c170760800000000000000
+      internalID: 7423933670830848298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1353
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52e17d0c4c5dd9a0800000000000000
+      internalID: -6206703229733838242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1352
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be9632892fe4baf0800000000000000
+      internalID: -381417106862334287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1349
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a67e8f3c491b6d0800000000000000
+      internalID: -2976434309299738066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1348
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bf21eb5ab980710800000000000000
+      internalID: 1659747598846851999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1351
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baa6ed2554a70190800000000000000
+      internalID: -7996241927623759184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_22
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1354
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d973c243f4d328e0800000000000000
+      internalID: -1719296491463149102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_23
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1352
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf6133133f185eb0800000000000000
+      internalID: -4730997104326905935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1289
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a724a9d612a5a5690800000000000000
+      internalID: -7612673120497155462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1289
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f799e465fd3d8d0f0800000000000000
+      internalID: -1091889953458185857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1287
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823af78dc406ba930800000000000000
+      internalID: 4155520964345439016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1286
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e647909c76084eea0800000000000000
+      internalID: -5844405233177234322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1286
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2472cf4fc429bab0800000000000000
+      internalID: -4991918239148510162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1288
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34215416b80e8c180800000000000000
+      internalID: -9094772558237724093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_30
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1290
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8146cecc79392c40800000000000000
+      internalID: 5487980829135487374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_31
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1289
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8603ce36677a24c70800000000000000
+      internalID: 8953903136090370152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1223
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4cf792ae23aff30800000000000000
+      internalID: 4610053149867099337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1226
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2693b9ef0fef9c20800000000000000
+      internalID: 3215551510590232111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1223
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7703b1a8ed8022a10800000000000000
+      internalID: 1883077346087088247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_35
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1222
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae45b9167a807830800000000000000
+      internalID: 4066902703357644455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1223
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada557cbce5ab2430800000000000000
+      internalID: 3759280750163483354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_37
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1224
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d10680d2325b930800000000000000
+      internalID: 4158268507267538313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_38
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1226
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e638d9820b14d3330800000000000000
+      internalID: 3692179494365135726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_39
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1227
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87139576afafa7120800000000000000
+      internalID: 2412516503792988536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1163
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d1e520b63e40970800000000000000
+      internalID: 8720344827236851088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_41
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1162
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb09ce0d3c9892100800000000000000
+      internalID: 83749542199857342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1159
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee289586f3a97db0800000000000000
+      internalID: -4793620049160556819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_43
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1157
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c255e12b478b69a0800000000000000
+      internalID: -6238744102030716216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1157
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1651253ab5f304220800000000000000
+      internalID: 2468042258613671265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_45
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1159
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3403bae7fda52d100800000000000000
+      internalID: 131267255096520771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_46
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1163
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bef3cf9ebbb84f0800000000000000
+      internalID: -825359493058532578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_47
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1163
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaa4a006a5178790800000000000000
+      internalID: -7528024449406948643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1096
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e446746b09dfc20800000000000000
+      internalID: 3241906419332828730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_49
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1096
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f071eb14e5f76df50800000000000000
+      internalID: 6905847121425864463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_50
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1095
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8788c4abc388414d0800000000000000
+      internalID: -3164754843729622920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1092
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dade4cf03e24aee0800000000000000
+      internalID: -1250824008575821096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1092
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b80ed10ca1ded10800000000000000
+      internalID: 2156409209017633600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_53
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1094
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb64245dc44c6150800000000000000
+      internalID: 5867140063227571148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_54
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1099
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0281d5b1c2661b0800000000000000
+      internalID: -5663790985334218539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_55
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1098
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d73ab7c17685b50800000000000000
+      internalID: 6582124227433037121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1033
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ba8d0daf44a6190800000000000000
+      internalID: -7968480746642298002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_57
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1033
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721a3c6126beb0b20800000000000000
+      internalID: 3101831574895960359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1031
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59cf95f7a4460c60800000000000000
+      internalID: 7783984494127597914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_59
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1029
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf062b402ac6ba90800000000000000
+      internalID: -7298423906058760255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_60
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1030
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb1e80e1d0901ed0800000000000000
+      internalID: -2445295366572205108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1031
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7122b11d451cdebc0800000000000000
+      internalID: -3752130344500125161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_62
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1035
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c7a81458416fd10800000000000000
+      internalID: 2158935633933532314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_63
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1035
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952b6999cc7c93510800000000000000
+      internalID: 1529473230033039961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 970
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f0720ccc95e6ce0800000000000000
+      internalID: -1410090897388400751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_65
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 967
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0726c8a1f774934f0800000000000000
+      internalID: -848568443550801296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_66
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 967
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279f9e70f50a5f2d0800000000000000
+      internalID: -3245511626435462798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_67
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 966
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f281d32853c3e8040800000000000000
+      internalID: 4651721665636276271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_68
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 967
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ec95cadf4100220800000000000000
+      internalID: 2449981277040397962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_69
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 968
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3dfa269bd169d60800000000000000
+      internalID: 7896531678702588895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_70
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 970
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0427b0d4dc1ca61c0800000000000000
+      internalID: -4509578989353078208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_71
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 972
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496102681aa1fada0800000000000000
+      internalID: -5931492903181347180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 906
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae9e78a6eafafbd0800000000000000
+      internalID: -2595486366649377109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 905
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e854dc6e8b134c7a0800000000000000
+      internalID: -6357902103724341874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 904
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff5b04582625cf60800000000000000
+      internalID: 8053885463272579067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_75
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 902
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2349865dd9c07d0800000000000000
+      internalID: -2950810115926379795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_76
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 902
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89338fea7e00eee20800000000000000
+      internalID: 3381641365274768280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_77
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 903
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46e56a602d6db3e0800000000000000
+      internalID: -2036351470510152115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_78
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 906
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69581a60d93fcd490800000000000000
+      internalID: -7720027805473208938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_79
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 907
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d5d681358995a50800000000000000
+      internalID: 6510402219000290612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_80
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 842
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c69cde2ddbc92ae0800000000000000
+      internalID: -1573502443954858295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 843
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5155f671d35f6c0800000000000000
+      internalID: -4110311914044320308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 840
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61bc4ba7ad01f6c0800000000000000
+      internalID: -4111489971027922577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_83
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 837
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94abe7a26bf02da80800000000000000
+      internalID: -8443669076294845879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_84
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 834
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9492a7128d9720010800000000000000
+      internalID: 1153618423741819209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_85
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 838
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2efe4621f7ee4d20800000000000000
+      internalID: 3264801802806033963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_86
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 843
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdb8eeb2b3854450800000000000000
+      internalID: 6072404476309323248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_87
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 842
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4441c78b3f6fb5200800000000000000
+      internalID: 170000937589150788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_88
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 778
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b1d2fd329ff5200800000000000000
+      internalID: 171129243326814992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_89
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 777
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c342b8a55a208c0800000000000000
+      internalID: -4034480507870495642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 776
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2006108481ebcf810800000000000000
+      internalID: 1800522962537897986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_91
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 774
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e66bafc6d3d9ad00800000000000000
+      internalID: 984550913117742821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_92
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 773
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5590bf3709ca5970800000000000000
+      internalID: 8744522659463730526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_93
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 774
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9178583a0a5947b30800000000000000
+      internalID: 4284213662706927385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_94
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 775
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32a5b1bfc6d889c0800000000000000
+      internalID: -3924650887725342146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_95
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 778
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed51e4ca3fe378f0800000000000000
+      internalID: -543828094291452444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 711
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77804de2cbeae930800000000000000
+      internalID: 4173407227148797818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 711
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea7291f101759e90800000000000000
+      internalID: -7019580191025235231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 711
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557ea5e3a5d492b60800000000000000
+      internalID: 7721788086091966293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_100
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 710
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61752b9ca94aa7fe0800000000000000
+      internalID: -1190458166770247914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_101
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 710
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bf6ce89779e7190800000000000000
+      internalID: -7962760542802216045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_102
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 712
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6937aa0680e34b520800000000000000
+      internalID: 2716864680913695638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_103
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 713
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dd39c95fe3344e0800000000000000
+      internalID: -1998684585007522409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_104
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 712
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9a7d9379cb938f0800000000000000
+      internalID: -560209320934397500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_107
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 650
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d375833868dd1c190800000000000000
+      internalID: -7943824697907980483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_108
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 642
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a370dc119ff8e8090800000000000000
+      internalID: -8030322785646737606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_109
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 640
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9477bff2a3158e9f0800000000000000
+      internalID: -439011653313661111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_110
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 641
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e4c9ef60296bde0800000000000000
+      internalID: -1317705282220175725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_111
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 644
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646bc7fe7383b1d80800000000000000
+      internalID: -8278961677098240442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_112
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 648
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325cef3c355f2d9d0800000000000000
+      internalID: -2750866682250607325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_113
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 649
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ac8b0ac126d5460800000000000000
+      internalID: 7232044451721955981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_114
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 650
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6efe6c1afe637690800000000000000
+      internalID: -7605613325200720274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_115
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 586
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02610c3f0ba6ea5f0800000000000000
+      internalID: -743539580233312736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_117
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 584
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a54d2881c379920800000000000000
+      internalID: 2996930153010190949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_118
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 575
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092b2e45907e644b0800000000000000
+      internalID: -5456419871247912304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_119
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 575
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a402da1835c9cf6d0800000000000000
+      internalID: -2955315372990062518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_120
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 577
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cff9726e9d57c5f0800000000000000
+      internalID: -736517079213408314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_121
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 583
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b0920d0f4668130800000000000000
+      internalID: 3568650740184976221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_122
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 585
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d531eed7b1aa7dc10800000000000000
+      internalID: 2078316788108366685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_123
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 585
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750f4256f5223bc20800000000000000
+      internalID: 3220955951614193751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_125
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 520
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5084504b0d68550800000000000000
+      internalID: 6162842611704399334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_126
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 517
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea388b8e7f7edcf90800000000000000
+      internalID: -6931629199505980498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_127
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 513
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a541890e932d04c0800000000000000
+      internalID: -4319757305907165783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_128
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 514
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322d1a0ce85353240800000000000000
+      internalID: 4770778267502367267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_129
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 517
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219cf4dc237822450800000000000000
+      internalID: 6062556700656781586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_130
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 521
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf7e72062f5f4f30800000000000000
+      internalID: 4561969564404842427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_131
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 523
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d986a271479214990800000000000000
+      internalID: -7403590733838784355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_132
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 521
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a2a1c569a8b1aa0800000000000000
+      internalID: -6189200884495668593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_133
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 455
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f42a12aa1a9f1da0800000000000000
+      internalID: -5971885141690538765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_134
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 455
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e019eea3c39151090800000000000000
+      internalID: -8064511811259559666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_135
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 450
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6768ac4285d8a8e90800000000000000
+      internalID: -7022645259216976266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_136
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 450
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d118553a769414250800000000000000
+      internalID: 5927099294067032349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_138
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 452
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1543e8881019b30800000000000000
+      internalID: 4292213605873766880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_139
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 456
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a7a84bee7325560800000000000000
+      internalID: 7300959444291713541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_140
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 459
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f41e9280b86824a0800000000000000
+      internalID: -6617924545106012942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_141
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 455
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ea69f2b5a903260800000000000000
+      internalID: 7075324731030154831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_147
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 390
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55bbb789f7c09780800000000000000
+      internalID: -8678216607404935843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 389
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3f5695c62406c80800000000000000
+      internalID: -8331586277511662638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_149
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 384
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ded3580df21c3560800000000000000
+      internalID: 7294726374409101013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_150
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 384
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5106b6bcf54334e60800000000000000
+      internalID: 7945251753651036181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_151
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 386
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5aa85530d36d8f0800000000000000
+      internalID: -516158022757997095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_152
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 390
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79527f4ee2ca2c3e0800000000000000
+      internalID: -2034874764208167529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_153
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 395
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba36b3c02f350e5e0800000000000000
+      internalID: -1882412345188457557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_154
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 393
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360e6d6435e954e40800000000000000
+      internalID: 5640088188859375715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_166
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 329
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d5f39e803286ab0800000000000000
+      internalID: -5014719663897092777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_167
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 327
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812204cc697319430800000000000000
+      internalID: 3787869882406674968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_168
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 321
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fc58d296654f560800000000000000
+      internalID: 7346591901883420454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_169
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 318
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d2b2caf481f8840800000000000000
+      internalID: 5228424422870428967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_170
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 323
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6569a00cb9c88b0800000000000000
+      internalID: -5148569024877668699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_171
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 326
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a77c34f8ca8270c0800000000000000
+      internalID: -4579445275386677335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_172
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 330
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0626a1a2fad759250800000000000000
+      internalID: 5950800673919099488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_173
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 332
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbe66fbe065f9220800000000000000
+      internalID: 2494807339927268296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_182
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 264
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab0ce976e3a12040800000000000000
+      internalID: 4621154902942157741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_183
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 263
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4bdd24a7dfe8b60800000000000000
+      internalID: 7750410710300865752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_184
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 261
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5fac3b463a35bb0800000000000000
+      internalID: -4948431912641563154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_185
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 257
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8705a9b6827fe80800000000000000
+      internalID: -8144996958460675907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_186
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 259
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d170c67d1636b47b0800000000000000
+      internalID: -5238984469638281443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_187
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 262
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636649add6cb89d00800000000000000
+      internalID: 979740098957698614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_189
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 266
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e821dff41f497c0800000000000000
+      internalID: -4065359237758153111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_191
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 268
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02920a59585810050800000000000000
+      internalID: 5765035806798391584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_195
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 200
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6643ff8b6d40533c0800000000000000
+      internalID: -4380589742274694042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_196
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 199
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e5842c15909b9a0800000000000000
+      internalID: -6216927563851735429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_197
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 198
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108f31e29977ef7d0800000000000000
+      internalID: -2882735211683776511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_198
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 196
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ff75fe30b813340800000000000000
+      internalID: 4841803923416678148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_199
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 195
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d0ad3e1b8cdd1d0800000000000000
+      internalID: -3324280283572073160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_200
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 198
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe84f6da09ea0fa0800000000000000
+      internalID: -5833594134539759881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_202
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 202
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9d837a53c8b7960800000000000000
+      internalID: 7600822958184520189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_203
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 203
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4700c13c3443370800000000000000
+      internalID: 8301334518418142408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_204
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca5dccfd58b73f70800000000000000
+      internalID: 9166998280348719817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_205
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 134
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13092666c898b75e0800000000000000
+      internalID: -1910782380782481359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_206
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 135
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926f2eeeabd4f8f70800000000000000
+      internalID: 9191650829753579049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_207
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 130
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a95fa91be2d92b0800000000000000
+      internalID: -5576249423270929856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_208
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 131
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd13376e2429caa0800000000000000
+      internalID: -6140336835224461876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_209
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 134
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa607feaf648f12f0800000000000000
+      internalID: -999934977041299793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_210
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 137
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e18e383227cea0e0800000000000000
+      internalID: -2256647413479603735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_211
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 137
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca3ce8609b3cb660800000000000000
+      internalID: 7402857378911894223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_212
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18d9a7d5428b0d80800000000000000
+      internalID: -8283383853135308772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_213
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a653ff337ab2596c0800000000000000
+      internalID: -4137352685538036374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_214
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 65
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ed7e3396cc4d460800000000000000
+      internalID: 7265656851069918725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_216
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 68
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8a64944a09f5960800000000000000
+      internalID: 7592946532048349346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_218
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 67
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad86cc9dd584254f0800000000000000
+      internalID: -841530612441650982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_219
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 69
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4bc0383a79c7350800000000000000
+      internalID: 6015849930794251484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_220
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 72
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f7fae3d58a88a70800000000000000
+      internalID: 8829492187896971132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_221
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 70
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7e118e279af8740800000000000000
+      internalID: 5156526409347360762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_222
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffd73887efe88ec0800000000000000
+      internalID: -3564335327361900554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_223
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6325225cda4f84f10800000000000000
+      internalID: 2254320640672813622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_224
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd05f554420b6dc0800000000000000
+      internalID: -3644816980903129679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_225
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 5
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3758cd3bb053bf0800000000000000
+      internalID: -345356929297189949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_226
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6df09da608f30aa0800000000000000
+      internalID: -6195835954766217878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_228
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 6
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403cd5e9c8aa73c10800000000000000
+      internalID: 2033281277710156548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_230
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 7
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32dc1b1dedf3a0f0800000000000000
+      internalID: -1106761888599059905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swordsMan_231
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bcb0932e0d3c560800000000000000
+      internalID: 7332934288327559998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 00f1451908dea5443aeb013248126c63
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      swordsMan_0: 9069022027423877032
+      swordsMan_1: 5856480988263577945
+      swordsMan_10: 5001874732471896034
+      swordsMan_100: -1190458166770247914
+      swordsMan_101: -7962760542802216045
+      swordsMan_102: 2716864680913695638
+      swordsMan_103: -1998684585007522409
+      swordsMan_104: -560209320934397500
+      swordsMan_105: 4827889087201929895
+      swordsMan_106: -2149658665360671607
+      swordsMan_107: -7943824697907980483
+      swordsMan_108: -8030322785646737606
+      swordsMan_109: -439011653313661111
+      swordsMan_11: 6105737563685026827
+      swordsMan_110: -1317705282220175725
+      swordsMan_111: -8278961677098240442
+      swordsMan_112: -2750866682250607325
+      swordsMan_113: 7232044451721955981
+      swordsMan_114: -7605613325200720274
+      swordsMan_115: -743539580233312736
+      swordsMan_116: -247498298127584022
+      swordsMan_117: 2996930153010190949
+      swordsMan_118: -5456419871247912304
+      swordsMan_119: -2955315372990062518
+      swordsMan_12: 5888429440799551527
+      swordsMan_120: -736517079213408314
+      swordsMan_121: 3568650740184976221
+      swordsMan_122: 2078316788108366685
+      swordsMan_123: 3220955951614193751
+      swordsMan_124: 6469532024080838142
+      swordsMan_125: 6162842611704399334
+      swordsMan_126: -6931629199505980498
+      swordsMan_127: -4319757305907165783
+      swordsMan_128: 4770778267502367267
+      swordsMan_129: 6062556700656781586
+      swordsMan_13: 3606016210860995244
+      swordsMan_130: 4561969564404842427
+      swordsMan_131: -7403590733838784355
+      swordsMan_132: -6189200884495668593
+      swordsMan_133: -5971885141690538765
+      swordsMan_134: -8064511811259559666
+      swordsMan_135: -7022645259216976266
+      swordsMan_136: 5927099294067032349
+      swordsMan_137: -4213806359997932258
+      swordsMan_138: 4292213605873766880
+      swordsMan_139: 7300959444291713541
+      swordsMan_14: -2050729985241965835
+      swordsMan_140: -6617924545106012942
+      swordsMan_141: 7075324731030154831
+      swordsMan_142: -3561570062229810416
+      swordsMan_143: 5126032798959786947
+      swordsMan_144: -354787951491768779
+      swordsMan_145: -386243921514921174
+      swordsMan_146: 3123413772519224839
+      swordsMan_147: -8678216607404935843
+      swordsMan_148: -8331586277511662638
+      swordsMan_149: 7294726374409101013
+      swordsMan_15: -5775121040772657971
+      swordsMan_150: 7945251753651036181
+      swordsMan_151: -516158022757997095
+      swordsMan_152: -2034874764208167529
+      swordsMan_153: -1882412345188457557
+      swordsMan_154: 5640088188859375715
+      swordsMan_155: 4458867103964919086
+      swordsMan_156: -7388394040084919424
+      swordsMan_157: -1137530142054302293
+      swordsMan_158: 6693740421424204580
+      swordsMan_159: -6066255422979284225
+      swordsMan_16: 7423933670830848298
+      swordsMan_160: 5627353104261178372
+      swordsMan_161: 3124055767822236892
+      swordsMan_162: -6794436795088893055
+      swordsMan_163: 2868556972587174059
+      swordsMan_164: 1115268513229625467
+      swordsMan_165: -2999134147392430062
+      swordsMan_166: -5014719663897092777
+      swordsMan_167: 3787869882406674968
+      swordsMan_168: 7346591901883420454
+      swordsMan_169: 5228424422870428967
+      swordsMan_17: -6206703229733838242
+      swordsMan_170: -5148569024877668699
+      swordsMan_171: -4579445275386677335
+      swordsMan_172: 5950800673919099488
+      swordsMan_173: 2494807339927268296
+      swordsMan_174: 8212771945883936946
+      swordsMan_175: -2790020482322804433
+      swordsMan_176: -6707517168960425829
+      swordsMan_177: -6551154718523337066
+      swordsMan_178: 3122594317279486362
+      swordsMan_179: -6464691986303165657
+      swordsMan_18: -381417106862334287
+      swordsMan_180: 8640781637001654671
+      swordsMan_181: -1793193993975417340
+      swordsMan_182: 4621154902942157741
+      swordsMan_183: 7750410710300865752
+      swordsMan_184: -4948431912641563154
+      swordsMan_185: -8144996958460675907
+      swordsMan_186: -5238984469638281443
+      swordsMan_187: 979740098957698614
+      swordsMan_188: 5946566897200301896
+      swordsMan_189: -4065359237758153111
+      swordsMan_19: -2976434309299738066
+      swordsMan_190: -3510746396865569309
+      swordsMan_191: 5765035806798391584
+      swordsMan_192: 7981105153637295712
+      swordsMan_193: 6017310170680847604
+      swordsMan_194: 2618921875852809624
+      swordsMan_195: -4380589742274694042
+      swordsMan_196: -6216927563851735429
+      swordsMan_197: -2882735211683776511
+      swordsMan_198: 4841803923416678148
+      swordsMan_199: -3324280283572073160
+      swordsMan_2: -4091647024034401042
+      swordsMan_20: 1659747598846851999
+      swordsMan_200: -5833594134539759881
+      swordsMan_201: -4233085214074658078
+      swordsMan_202: 7600822958184520189
+      swordsMan_203: 8301334518418142408
+      swordsMan_204: 9166998280348719817
+      swordsMan_205: -1910782380782481359
+      swordsMan_206: 9191650829753579049
+      swordsMan_207: -5576249423270929856
+      swordsMan_208: -6140336835224461876
+      swordsMan_209: -999934977041299793
+      swordsMan_21: -7996241927623759184
+      swordsMan_210: -2256647413479603735
+      swordsMan_211: 7402857378911894223
+      swordsMan_212: -8283383853135308772
+      swordsMan_213: -4137352685538036374
+      swordsMan_214: 7265656851069918725
+      swordsMan_215: -6397542342334165437
+      swordsMan_216: 7592946532048349346
+      swordsMan_217: 6905181706270729386
+      swordsMan_218: -841530612441650982
+      swordsMan_219: 6015849930794251484
+      swordsMan_22: -1719296491463149102
+      swordsMan_220: 8829492187896971132
+      swordsMan_221: 5156526409347360762
+      swordsMan_222: -3564335327361900554
+      swordsMan_223: 2254320640672813622
+      swordsMan_224: -3644816980903129679
+      swordsMan_225: -345356929297189949
+      swordsMan_226: -6195835954766217878
+      swordsMan_227: -6777258596855970378
+      swordsMan_228: 2033281277710156548
+      swordsMan_229: -2934694256049027843
+      swordsMan_23: -4730997104326905935
+      swordsMan_230: -1106761888599059905
+      swordsMan_231: 7332934288327559998
+      swordsMan_232: 6548006214064614272
+      swordsMan_233: 791135992309154482
+      swordsMan_24: -7612673120497155462
+      swordsMan_25: -1091889953458185857
+      swordsMan_26: 4155520964345439016
+      swordsMan_27: -5844405233177234322
+      swordsMan_28: -4991918239148510162
+      swordsMan_29: -9094772558237724093
+      swordsMan_3: -7684966166970701874
+      swordsMan_30: 5487980829135487374
+      swordsMan_31: 8953903136090370152
+      swordsMan_32: 4610053149867099337
+      swordsMan_33: 3215551510590232111
+      swordsMan_34: 1883077346087088247
+      swordsMan_35: 4066902703357644455
+      swordsMan_36: 3759280750163483354
+      swordsMan_37: 4158268507267538313
+      swordsMan_38: 3692179494365135726
+      swordsMan_39: 2412516503792988536
+      swordsMan_4: -4716608672202821753
+      swordsMan_40: 8720344827236851088
+      swordsMan_41: 83749542199857342
+      swordsMan_42: -4793620049160556819
+      swordsMan_43: -6238744102030716216
+      swordsMan_44: 2468042258613671265
+      swordsMan_45: 131267255096520771
+      swordsMan_46: -825359493058532578
+      swordsMan_47: -7528024449406948643
+      swordsMan_48: 3241906419332828730
+      swordsMan_49: 6905847121425864463
+      swordsMan_5: 5739643571159230479
+      swordsMan_50: -3164754843729622920
+      swordsMan_51: -1250824008575821096
+      swordsMan_52: 2156409209017633600
+      swordsMan_53: 5867140063227571148
+      swordsMan_54: -5663790985334218539
+      swordsMan_55: 6582124227433037121
+      swordsMan_56: -7968480746642298002
+      swordsMan_57: 3101831574895960359
+      swordsMan_58: 7783984494127597914
+      swordsMan_59: -7298423906058760255
+      swordsMan_6: -4276629337749858591
+      swordsMan_60: -2445295366572205108
+      swordsMan_61: -3752130344500125161
+      swordsMan_62: 2158935633933532314
+      swordsMan_63: 1529473230033039961
+      swordsMan_64: -1410090897388400751
+      swordsMan_65: -848568443550801296
+      swordsMan_66: -3245511626435462798
+      swordsMan_67: 4651721665636276271
+      swordsMan_68: 2449981277040397962
+      swordsMan_69: 7896531678702588895
+      swordsMan_7: 2200925379754410413
+      swordsMan_70: -4509578989353078208
+      swordsMan_71: -5931492903181347180
+      swordsMan_72: -2595486366649377109
+      swordsMan_73: -6357902103724341874
+      swordsMan_74: 8053885463272579067
+      swordsMan_75: -2950810115926379795
+      swordsMan_76: 3381641365274768280
+      swordsMan_77: -2036351470510152115
+      swordsMan_78: -7720027805473208938
+      swordsMan_79: 6510402219000290612
+      swordsMan_8: -3520905933385918196
+      swordsMan_80: -1573502443954858295
+      swordsMan_81: -4110311914044320308
+      swordsMan_82: -4111489971027922577
+      swordsMan_83: -8443669076294845879
+      swordsMan_84: 1153618423741819209
+      swordsMan_85: 3264801802806033963
+      swordsMan_86: 6072404476309323248
+      swordsMan_87: 170000937589150788
+      swordsMan_88: 171129243326814992
+      swordsMan_89: -4034480507870495642
+      swordsMan_9: -4587369136368533412
+      swordsMan_90: 1800522962537897986
+      swordsMan_91: 984550913117742821
+      swordsMan_92: 8744522659463730526
+      swordsMan_93: 4284213662706927385
+      swordsMan_94: -3924650887725342146
+      swordsMan_95: -543828094291452444
+      swordsMan_96: 4173407227148797818
+      swordsMan_97: -7019580191025235231
+      swordsMan_98: 7721788086091966293
+      swordsMan_99: 5885912555637469362
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

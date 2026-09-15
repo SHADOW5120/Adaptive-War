@@ -1,0 +1,5330 @@
+fileFormatVersion: 2
+guid: 47bb59a2e6744e04fba7e90d0bce3c60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 652583235143896857
+    second: frozenFranky_0
+  - first:
+      213: -929612417192977705
+    second: frozenFranky_1
+  - first:
+      213: 266890410952092598
+    second: frozenFranky_2
+  - first:
+      213: -4990748080731952429
+    second: frozenFranky_3
+  - first:
+      213: 1220653992005288328
+    second: frozenFranky_4
+  - first:
+      213: -2285327246587827973
+    second: frozenFranky_5
+  - first:
+      213: 4447613396567601789
+    second: frozenFranky_6
+  - first:
+      213: -4629608246542672666
+    second: frozenFranky_7
+  - first:
+      213: -6921309860435352905
+    second: frozenFranky_8
+  - first:
+      213: -2558479239939254490
+    second: frozenFranky_9
+  - first:
+      213: -6822640141422908965
+    second: frozenFranky_10
+  - first:
+      213: -4662165081555621333
+    second: frozenFranky_11
+  - first:
+      213: -5360561184044529118
+    second: frozenFranky_12
+  - first:
+      213: -4444540263294833738
+    second: frozenFranky_13
+  - first:
+      213: -6385330007773408480
+    second: frozenFranky_14
+  - first:
+      213: -8817360626758268261
+    second: frozenFranky_15
+  - first:
+      213: -3381805175503046575
+    second: frozenFranky_16
+  - first:
+      213: 8659400327973226081
+    second: frozenFranky_17
+  - first:
+      213: 597031917746623179
+    second: frozenFranky_18
+  - first:
+      213: -8492860593933497023
+    second: frozenFranky_19
+  - first:
+      213: 1991856497484319440
+    second: frozenFranky_20
+  - first:
+      213: -2154682294271578684
+    second: frozenFranky_21
+  - first:
+      213: -5045809605772326520
+    second: frozenFranky_22
+  - first:
+      213: -1424412698228832960
+    second: frozenFranky_23
+  - first:
+      213: -7922800124837964858
+    second: frozenFranky_24
+  - first:
+      213: 2378336646050029193
+    second: frozenFranky_25
+  - first:
+      213: 6833274691958638253
+    second: frozenFranky_26
+  - first:
+      213: -6527730636541030495
+    second: frozenFranky_27
+  - first:
+      213: -6088971504263188219
+    second: frozenFranky_28
+  - first:
+      213: -97045609980137469
+    second: frozenFranky_29
+  - first:
+      213: -5111291487551378541
+    second: frozenFranky_30
+  - first:
+      213: 2203368307146108585
+    second: frozenFranky_31
+  - first:
+      213: -3439034290778813903
+    second: frozenFranky_32
+  - first:
+      213: -6033402913459702253
+    second: frozenFranky_33
+  - first:
+      213: 8967910680976237359
+    second: frozenFranky_34
+  - first:
+      213: 1622330029647407598
+    second: frozenFranky_35
+  - first:
+      213: 1315374999342107803
+    second: frozenFranky_36
+  - first:
+      213: -7192311596739255813
+    second: frozenFranky_37
+  - first:
+      213: -5672140080681755813
+    second: frozenFranky_38
+  - first:
+      213: -1093719714720795671
+    second: frozenFranky_39
+  - first:
+      213: -1091000943533011530
+    second: frozenFranky_40
+  - first:
+      213: -1468939478254276231
+    second: frozenFranky_41
+  - first:
+      213: 881900997460049077
+    second: frozenFranky_42
+  - first:
+      213: 9221727809244817876
+    second: frozenFranky_43
+  - first:
+      213: -5162187209304916040
+    second: frozenFranky_44
+  - first:
+      213: 7802046685184568038
+    second: frozenFranky_45
+  - first:
+      213: 9035702673089908206
+    second: frozenFranky_46
+  - first:
+      213: 8380813644477206889
+    second: frozenFranky_47
+  - first:
+      213: 7105634692360496545
+    second: frozenFranky_48
+  - first:
+      213: 8511127943085296651
+    second: frozenFranky_49
+  - first:
+      213: -6748870677404780474
+    second: frozenFranky_50
+  - first:
+      213: -5433071703708908372
+    second: frozenFranky_51
+  - first:
+      213: 7959288443715577685
+    second: frozenFranky_52
+  - first:
+      213: -5014417861678587838
+    second: frozenFranky_53
+  - first:
+      213: -2012198780363920346
+    second: frozenFranky_54
+  - first:
+      213: -7451572749221262216
+    second: frozenFranky_55
+  - first:
+      213: 304972200099765172
+    second: frozenFranky_56
+  - first:
+      213: -5274855958046409764
+    second: frozenFranky_57
+  - first:
+      213: 3206410663059355750
+    second: frozenFranky_58
+  - first:
+      213: 6170461848206887965
+    second: frozenFranky_59
+  - first:
+      213: -3453224621196719062
+    second: frozenFranky_60
+  - first:
+      213: -7011017512482643967
+    second: frozenFranky_61
+  - first:
+      213: -5249542221273501789
+    second: frozenFranky_62
+  - first:
+      213: -2251202665976803735
+    second: frozenFranky_63
+  - first:
+      213: -3058459402395846329
+    second: frozenFranky_64
+  - first:
+      213: -8101937672365389850
+    second: frozenFranky_65
+  - first:
+      213: -7502354769836891515
+    second: frozenFranky_66
+  - first:
+      213: 5253546280854580620
+    second: frozenFranky_67
+  - first:
+      213: -14922749172393170
+    second: frozenFranky_68
+  - first:
+      213: 1378506113487235846
+    second: frozenFranky_69
+  - first:
+      213: 5062001778833403833
+    second: frozenFranky_70
+  - first:
+      213: 3800857920972507475
+    second: frozenFranky_71
+  - first:
+      213: -7725007186031931361
+    second: frozenFranky_72
+  - first:
+      213: 4287474559685276226
+    second: frozenFranky_73
+  - first:
+      213: -8066750690664077622
+    second: frozenFranky_74
+  - first:
+      213: 4222518612668400637
+    second: frozenFranky_75
+  - first:
+      213: 1129975051652164574
+    second: frozenFranky_76
+  - first:
+      213: 1927135700153534163
+    second: frozenFranky_77
+  - first:
+      213: -2597954530552940382
+    second: frozenFranky_78
+  - first:
+      213: 5443405115762146252
+    second: frozenFranky_79
+  - first:
+      213: 3845645702699709051
+    second: frozenFranky_80
+  - first:
+      213: -8370495959765625994
+    second: frozenFranky_81
+  - first:
+      213: 8243833084685597967
+    second: frozenFranky_82
+  - first:
+      213: -4943962527214264876
+    second: frozenFranky_83
+  - first:
+      213: 9063994321121799034
+    second: frozenFranky_84
+  - first:
+      213: -5774634623779220879
+    second: frozenFranky_85
+  - first:
+      213: 2280734076486486111
+    second: frozenFranky_86
+  - first:
+      213: 6208744547857071864
+    second: frozenFranky_87
+  - first:
+      213: -6462229160701889733
+    second: frozenFranky_88
+  - first:
+      213: 4486258296411215157
+    second: frozenFranky_89
+  - first:
+      213: -4066772057794818447
+    second: frozenFranky_90
+  - first:
+      213: -7491089123241670905
+    second: frozenFranky_91
+  - first:
+      213: 3652809391605338025
+    second: frozenFranky_92
+  - first:
+      213: 3726180885530815477
+    second: frozenFranky_93
+  - first:
+      213: -5289927697550239144
+    second: frozenFranky_94
+  - first:
+      213: 5421177920537034331
+    second: frozenFranky_95
+  - first:
+      213: 8846718947988882767
+    second: frozenFranky_96
+  - first:
+      213: -6448471713555386054
+    second: frozenFranky_97
+  - first:
+      213: 6688330361678129275
+    second: frozenFranky_98
+  - first:
+      213: 5245509242767018259
+    second: frozenFranky_99
+  - first:
+      213: 6415917672047196242
+    second: frozenFranky_100
+  - first:
+      213: 373263052096071695
+    second: frozenFranky_101
+  - first:
+      213: -4174667870164270402
+    second: frozenFranky_102
+  - first:
+      213: 1007144453724209890
+    second: frozenFranky_103
+  - first:
+      213: -5847300588351881934
+    second: frozenFranky_104
+  - first:
+      213: 7462797076779633819
+    second: frozenFranky_105
+  - first:
+      213: -3833303578525345966
+    second: frozenFranky_106
+  - first:
+      213: -1141927712694511013
+    second: frozenFranky_107
+  - first:
+      213: -4112398135315005960
+    second: frozenFranky_108
+  - first:
+      213: 2782611526430915539
+    second: frozenFranky_109
+  - first:
+      213: 5137642720094560860
+    second: frozenFranky_110
+  - first:
+      213: 7401583887973099561
+    second: frozenFranky_111
+  - first:
+      213: -2509374825371040374
+    second: frozenFranky_112
+  - first:
+      213: -8050649871647057292
+    second: frozenFranky_113
+  - first:
+      213: -6524714785380940283
+    second: frozenFranky_114
+  - first:
+      213: 8880679754643701202
+    second: frozenFranky_115
+  - first:
+      213: 6928198247470987068
+    second: frozenFranky_116
+  - first:
+      213: -4126275066913870699
+    second: frozenFranky_117
+  - first:
+      213: 4886016011776815694
+    second: frozenFranky_118
+  - first:
+      213: -5514038670971480750
+    second: frozenFranky_119
+  - first:
+      213: 7789119628243000307
+    second: frozenFranky_120
+  - first:
+      213: -8728934651893117240
+    second: frozenFranky_121
+  - first:
+      213: -5406172119018344420
+    second: frozenFranky_122
+  - first:
+      213: -2064132321386570506
+    second: frozenFranky_123
+  - first:
+      213: 2352555510367525808
+    second: frozenFranky_124
+  - first:
+      213: -8545872039159579377
+    second: frozenFranky_125
+  - first:
+      213: 2401089804004844517
+    second: frozenFranky_126
+  - first:
+      213: 3878982342579652622
+    second: frozenFranky_127
+  - first:
+      213: -4917695080836018776
+    second: frozenFranky_128
+  - first:
+      213: -3185467753357723415
+    second: frozenFranky_129
+  - first:
+      213: 1318457647682231336
+    second: frozenFranky_130
+  - first:
+      213: 5079186846744521846
+    second: frozenFranky_131
+  - first:
+      213: -1384809748273295113
+    second: frozenFranky_132
+  - first:
+      213: -6930055575742388112
+    second: frozenFranky_133
+  - first:
+      213: 1811037300602845215
+    second: frozenFranky_134
+  - first:
+      213: -2703534014560070787
+    second: frozenFranky_135
+  - first:
+      213: -3570531987365511595
+    second: frozenFranky_136
+  - first:
+      213: -5929543582823404371
+    second: frozenFranky_137
+  - first:
+      213: -8184118105513323266
+    second: frozenFranky_138
+  - first:
+      213: 733758236844845035
+    second: frozenFranky_139
+  - first:
+      213: 371938797923697802
+    second: frozenFranky_140
+  - first:
+      213: -7508806558600807722
+    second: frozenFranky_141
+  - first:
+      213: 1835024114405669943
+    second: frozenFranky_142
+  - first:
+      213: -7417098903499992005
+    second: frozenFranky_143
+  - first:
+      213: -144883483147321169
+    second: frozenFranky_144
+  - first:
+      213: -873100467167108390
+    second: frozenFranky_145
+  - first:
+      213: -2959049059741541676
+    second: frozenFranky_146
+  - first:
+      213: -7628409608071339807
+    second: frozenFranky_147
+  - first:
+      213: -6107652838496801860
+    second: frozenFranky_148
+  - first:
+      213: -7127188630017200250
+    second: frozenFranky_149
+  - first:
+      213: -8021109853508758712
+    second: frozenFranky_150
+  - first:
+      213: 6718179877401550884
+    second: frozenFranky_151
+  - first:
+      213: 3915537272312003205
+    second: frozenFranky_152
+  - first:
+      213: 4227625888151408725
+    second: frozenFranky_153
+  - first:
+      213: -1476870707791015671
+    second: frozenFranky_154
+  - first:
+      213: 6250315346756075162
+    second: frozenFranky_155
+  - first:
+      213: -2297864938908412866
+    second: frozenFranky_156
+  - first:
+      213: 3873257815228474985
+    second: frozenFranky_157
+  - first:
+      213: -6803244955471058470
+    second: frozenFranky_158
+  - first:
+      213: 5443706830357637065
+    second: frozenFranky_159
+  - first:
+      213: 2372797324842320161
+    second: frozenFranky_160
+  - first:
+      213: 4620450680632651214
+    second: frozenFranky_161
+  - first:
+      213: 4683007381067917385
+    second: frozenFranky_162
+  - first:
+      213: 3928339488317968072
+    second: frozenFranky_163
+  - first:
+      213: -3750426816821746461
+    second: frozenFranky_164
+  - first:
+      213: 3189624464935468655
+    second: frozenFranky_165
+  - first:
+      213: 8331246700497178083
+    second: frozenFranky_166
+  - first:
+      213: 6659656842282492144
+    second: frozenFranky_167
+  - first:
+      213: 9196392062971236362
+    second: frozenFranky_168
+  - first:
+      213: 7697438348001568627
+    second: frozenFranky_169
+  - first:
+      213: -5927806888380693533
+    second: frozenFranky_170
+  - first:
+      213: 1240053709864945567
+    second: frozenFranky_171
+  - first:
+      213: 2147140259947184129
+    second: frozenFranky_172
+  - first:
+      213: -811613454322387382
+    second: frozenFranky_173
+  - first:
+      213: 1002048163903057744
+    second: frozenFranky_174
+  - first:
+      213: -951738207895814116
+    second: frozenFranky_175
+  - first:
+      213: -5431935609469922105
+    second: frozenFranky_176
+  - first:
+      213: 8109881974492839923
+    second: frozenFranky_177
+  - first:
+      213: -7003714079963387100
+    second: frozenFranky_178
+  - first:
+      213: -4916539798369457154
+    second: frozenFranky_179
+  - first:
+      213: -5353744167569474553
+    second: frozenFranky_180
+  - first:
+      213: 2559845980947526236
+    second: frozenFranky_181
+  - first:
+      213: 6544949777137727153
+    second: frozenFranky_182
+  - first:
+      213: -5060957219410103016
+    second: frozenFranky_183
+  - first:
+      213: 5342201401217369871
+    second: frozenFranky_184
+  - first:
+      213: -5685455114294782547
+    second: frozenFranky_185
+  - first:
+      213: -7397164921673574131
+    second: frozenFranky_186
+  - first:
+      213: -112900669056548679
+    second: frozenFranky_187
+  - first:
+      213: 1246346399887207197
+    second: frozenFranky_188
+  - first:
+      213: -4360259660671559297
+    second: frozenFranky_189
+  - first:
+      213: 7822407351286294118
+    second: frozenFranky_190
+  - first:
+      213: -4491199871443674665
+    second: frozenFranky_191
+  - first:
+      213: 8739993418167752899
+    second: frozenFranky_192
+  - first:
+      213: 8969385797632912067
+    second: frozenFranky_193
+  - first:
+      213: 8515500867288188565
+    second: frozenFranky_194
+  - first:
+      213: -6592900719608485577
+    second: frozenFranky_195
+  - first:
+      213: 8365276422813890935
+    second: frozenFranky_196
+  - first:
+      213: -3216732354336470988
+    second: frozenFranky_197
+  - first:
+      213: 317958570314245277
+    second: frozenFranky_198
+  - first:
+      213: 3979336379475664882
+    second: frozenFranky_199
+  - first:
+      213: -7773296675893935462
+    second: frozenFranky_200
+  - first:
+      213: -938036536033186655
+    second: frozenFranky_201
+  - first:
+      213: 7439071104203246381
+    second: frozenFranky_202
+  - first:
+      213: 1262195432982796618
+    second: frozenFranky_203
+  - first:
+      213: -2966988829850690706
+    second: frozenFranky_204
+  - first:
+      213: -10585190181151945
+    second: frozenFranky_205
+  - first:
+      213: -5252674969880337391
+    second: frozenFranky_206
+  - first:
+      213: -1473057477152438172
+    second: frozenFranky_207
+  - first:
+      213: 3479690450004209196
+    second: frozenFranky_208
+  - first:
+      213: -1703099859400966531
+    second: frozenFranky_209
+  - first:
+      213: -6273848985664671337
+    second: frozenFranky_210
+  - first:
+      213: -8490249435293276881
+    second: frozenFranky_211
+  - first:
+      213: 2568114237133843296
+    second: frozenFranky_212
+  - first:
+      213: 4617354639118654384
+    second: frozenFranky_213
+  - first:
+      213: 8589852025966316026
+    second: frozenFranky_214
+  - first:
+      213: -8772174098503039955
+    second: frozenFranky_215
+  - first:
+      213: -640668655046976081
+    second: frozenFranky_216
+  - first:
+      213: 6611741644036889526
+    second: frozenFranky_217
+  - first:
+      213: 1468217763972881038
+    second: frozenFranky_218
+  - first:
+      213: -4226236498440245426
+    second: frozenFranky_219
+  - first:
+      213: 974884417962306258
+    second: frozenFranky_220
+  - first:
+      213: 344415163416070812
+    second: frozenFranky_221
+  - first:
+      213: -8602828762682079504
+    second: frozenFranky_222
+  - first:
+      213: -178619136453855713
+    second: frozenFranky_223
+  - first:
+      213: 949388009822969430
+    second: frozenFranky_224
+  - first:
+      213: -7533372510217957592
+    second: frozenFranky_225
+  - first:
+      213: 8902022812821314562
+    second: frozenFranky_226
+  - first:
+      213: 5969994754571830868
+    second: frozenFranky_227
+  - first:
+      213: 8270667663465445935
+    second: frozenFranky_228
+  - first:
+      213: 3336527180840718758
+    second: frozenFranky_229
+  - first:
+      213: 9080472066989266357
+    second: frozenFranky_230
+  - first:
+      213: 4415695099685517275
+    second: frozenFranky_231
+  - first:
+      213: 1107648630732120567
+    second: frozenFranky_232
+  - first:
+      213: -2335240907291996130
+    second: frozenFranky_233
+  - first:
+      213: 5523209811382615721
+    second: frozenFranky_234
+  - first:
+      213: 3650567104681154373
+    second: frozenFranky_235
+  - first:
+      213: -5362891026293656860
+    second: frozenFranky_236
+  - first:
+      213: -6371322652871584554
+    second: frozenFranky_237
+  - first:
+      213: -4430907353856841213
+    second: frozenFranky_238
+  - first:
+      213: -8200079339982778958
+    second: frozenFranky_239
+  - first:
+      213: -7527962790746109013
+    second: frozenFranky_240
+  - first:
+      213: 98934821217034027
+    second: frozenFranky_241
+  - first:
+      213: 6029062427291329797
+    second: frozenFranky_242
+  - first:
+      213: -5711319164916020626
+    second: frozenFranky_243
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frozenFranky_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2223
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f802daef07e0900800000000000000
+      internalID: 652583235143896857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2219
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da9b6e8e6a5913f0800000000000000
+      internalID: -929612417192977705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2217
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbe1ca2a6f24b300800000000000000
+      internalID: 266890410952092598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2217
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da628c001d4dbab0800000000000000
+      internalID: -4990748080731952429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2217
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8814323a652a0f010800000000000000
+      internalID: 1220653992005288328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_5
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2219
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf86c973af2e840e0800000000000000
+      internalID: -2285327246587827973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_6
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2224
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d723ea8d1d819bd30800000000000000
+      internalID: 4447613396567601789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_7
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2223
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecda9714d350cfb0800000000000000
+      internalID: -4629608246542672666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2123
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2a7544a5192ff90800000000000000
+      internalID: -6921309860435352905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2120
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627953acfa47e7cd0800000000000000
+      internalID: -2558479239939254490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2122
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9aa2470fc1151a0800000000000000
+      internalID: -6822640141422908965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_11
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2121
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aa5ad3f89ac4fb0800000000000000
+      internalID: -4662165081555621333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_12
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2118
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a474c21067b95b0800000000000000
+      internalID: -5360561184044529118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_13
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2123
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbe360cd22d152c0800000000000000
+      internalID: -4444540263294833738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_14
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2128
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02316095030c267a0800000000000000
+      internalID: -6385330007773408480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_15
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2126
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ace81f93172a580800000000000000
+      internalID: -8817360626758268261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2024
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15830964c1a6111d0800000000000000
+      internalID: -3381805175503046575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2023
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166ceb408be5c2870800000000000000
+      internalID: 8659400327973226081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2028
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc29bd0bd55194800800000000000000
+      internalID: 597031917746623179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_19
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2023
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d4ea3794c432a80800000000000000
+      internalID: -8492860593933497023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2022
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da4b106eee74ab10800000000000000
+      internalID: 1991856497484319440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2027
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd6e1e8ed70912e0800000000000000
+      internalID: -2154682294271578684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_22
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2032
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889cfabb5eea9f9b0800000000000000
+      internalID: -5045809605772326520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_23
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2029
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045c384a2387b3ce0800000000000000
+      internalID: -1424412698228832960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1929
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e1b10249c810120800000000000000
+      internalID: 2378336646050029193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1927
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da68cdac02ba4de50800000000000000
+      internalID: 6833274691958638253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_27
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1932
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af898b4297d865a0800000000000000
+      internalID: -6527730636541030495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_28
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1930
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501bae87da0af7ba0800000000000000
+      internalID: -6088971504263188219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1930
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3007f1a288937aef0800000000000000
+      internalID: -97045609980137469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_30
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1932
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ba50d097b0119b0800000000000000
+      internalID: -5111291487551378541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_31
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1936
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae2cc82dcfe39e10800000000000000
+      internalID: 2203368307146108585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_32
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1934
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13acdb788881640d0800000000000000
+      internalID: -3439034290778813903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_34
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1835
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f232505104b647c70800000000000000
+      internalID: 8967910680976237359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_35
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1832
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee92595019ca38610800000000000000
+      internalID: 1622330029647407598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_36
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1835
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c473eb796214210800000000000000
+      internalID: 1315374999342107803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_37
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1833
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf12f6295b6cf2c90800000000000000
+      internalID: -7192311596739255813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_38
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1836
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b55be16a28841b0800000000000000
+      internalID: -5672140080681755813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_39
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1837
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3b938d6b352d0f0800000000000000
+      internalID: -1093719714720795671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_40
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1840
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd49171c6cfbd0f0800000000000000
+      internalID: -1091000943533011530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_41
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1840
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9713b1ac3574d9be0800000000000000
+      internalID: -1468939478254276231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_43
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1742
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9e06d65982aff70800000000000000
+      internalID: 9221727809244817876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_44
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1739
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfb055651a3c58b0800000000000000
+      internalID: -5162187209304916040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1739
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaa0778f10764c60800000000000000
+      internalID: 7802046685184568038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_46
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1735
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed429d35b3456d70800000000000000
+      internalID: 9035702673089908206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_47
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1737
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9619fcf2b91ae4470800000000000000
+      internalID: 8380813644477206889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_48
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1739
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5e6ddfa194c9260800000000000000
+      internalID: 7105634692360496545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_49
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1744
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c008535c99d1670800000000000000
+      internalID: 8511127943085296651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_50
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1745
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648fc3e30e13752a0800000000000000
+      internalID: -6748870677404780474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_51
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1645
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca44435321ad994b0800000000000000
+      internalID: -5433071703708908372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_52
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1645
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557e9806ba2157e60800000000000000
+      internalID: 7959288443715577685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_53
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1644
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2402647b585396ab0800000000000000
+      internalID: -5014417861678587838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_54
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1639
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c2feecedb3314e0800000000000000
+      internalID: -2012198780363920346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_55
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1638
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c8fa09012b69890800000000000000
+      internalID: -7451572749221262216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_56
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1641
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbd055a99a7b3400800000000000000
+      internalID: 304972200099765172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_57
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1648
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb7a4b1472fbc6b0800000000000000
+      internalID: -5274855958046409764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_58
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1648
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6687daf72857f7c20800000000000000
+      internalID: 3206410663059355750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_59
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1550
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cc872cb52e1a550800000000000000
+      internalID: 6170461848206887965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_60
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1547
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ccfe3c08ea310d0800000000000000
+      internalID: -3453224621196719062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_61
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1547
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100ed66e7bcd3be90800000000000000
+      internalID: -7011017512482643967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_62
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1544
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afe39bb921e527b0800000000000000
+      internalID: -5249542221273501789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_63
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1546
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e4a094a1f12c0e0800000000000000
+      internalID: -2251202665976803735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_64
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1547
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749fd30c06b2e85d0800000000000000
+      internalID: -3058459402395846329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_65
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1552
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e74e46ec92209f80800000000000000
+      internalID: -8101937672365389850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_66
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1553
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5822ae4061842e790800000000000000
+      internalID: -7502354769836891515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_67
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1453
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d6969028858e840800000000000000
+      internalID: 5253546280854580620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_68
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1449
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bd184b6dbfacff0800000000000000
+      internalID: -14922749172393170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_69
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1451
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b6c1fa100712310800000000000000
+      internalID: 1378506113487235846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_70
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1449
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfa2c75cc7df3640800000000000000
+      internalID: 5062001778833403833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_71
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1452
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359cb4d242c5fb430800000000000000
+      internalID: 3800857920972507475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_72
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1453
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f101a35a4e24bc490800000000000000
+      internalID: -7725007186031931361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_73
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1456
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242b091656b208b30800000000000000
+      internalID: 4287474559685276226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_74
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1458
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6a45f7cf42d0090800000000000000
+      internalID: -8066750690664077622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1360
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3439d6e46699a30800000000000000
+      internalID: 4222518612668400637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_76
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1358
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbe7c6925a7eaf00800000000000000
+      internalID: 1129975051652164574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_77
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1356
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d600a975bf8eba10800000000000000
+      internalID: 1927135700153534163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_78
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1354
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a876c77e1632fbd0800000000000000
+      internalID: -2597954530552940382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_79
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1353
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbfb85cc1cda8b40800000000000000
+      internalID: 5443405115762146252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_80
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1355
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b727c69346a7e5530800000000000000
+      internalID: 3845645702699709051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_81
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1360
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673d35cf54606db80800000000000000
+      internalID: -8370495959765625994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_82
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1360
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d3c48438af76270800000000000000
+      internalID: 8243833084685597967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_83
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1263
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd1d869644836bb0800000000000000
+      internalID: -4943962527214264876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_84
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1265
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b6f9cdfc6c9cd70800000000000000
+      internalID: 9063994321121799034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_85
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1261
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172d7fda7606cdfa0800000000000000
+      internalID: -5774634623779220879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_86
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1256
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f580b180f8bc6af10800000000000000
+      internalID: 2280734076486486111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_87
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1254
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fef92c5544e92650800000000000000
+      internalID: 6208744547857071864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1257
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33713311dc8156a0800000000000000
+      internalID: -6462229160701889733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_89
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1264
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5355d30c624624e30800000000000000
+      internalID: 4486258296411215157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_90
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1263
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ec7a03c5cef87c0800000000000000
+      internalID: -4066772057794818447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1167
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7074364c12e4a0890800000000000000
+      internalID: -7491089123241670905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_92
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1165
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afc8dac9c261b230800000000000000
+      internalID: 3652809391605338025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1164
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb2ae2f5cd06b330800000000000000
+      internalID: 3726180885530815477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_94
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1162
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a940c49c66696b0800000000000000
+      internalID: -5289927697550239144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_95
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1160
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5efcc99894eb3b40800000000000000
+      internalID: 5421177920537034331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_96
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1162
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f454892e20cd5ca70800000000000000
+      internalID: 8846718947988882767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_97
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1163
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a317069542d6286a0800000000000000
+      internalID: -6448471713555386054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_98
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1167
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78e8441709b1dc50800000000000000
+      internalID: 6688330361678129275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_99
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1065
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31908294ddacbc840800000000000000
+      internalID: 5245509242767018259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_100
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1066
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2583686312be90950800000000000000
+      internalID: 6415917672047196242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_101
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1063
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08e6fba4c81e2500800000000000000
+      internalID: 373263052096071695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_102
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1065
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb24f9fb0b99016c0800000000000000
+      internalID: -4174667870164270402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_103
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1065
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e28cb96b881afd00800000000000000
+      internalID: 1007144453724209890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_104
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1068
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d7a5068173adea0800000000000000
+      internalID: -5847300588351881934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_105
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1070
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c0648d66e219760800000000000000
+      internalID: 7462797076779633819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_106
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1070
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25753cd74be5dcac0800000000000000
+      internalID: -3833303578525345966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_107
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 975
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a5ba5abce0720f0800000000000000
+      internalID: -1141927712694511013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_108
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 965
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdf1913fa3dde6c0800000000000000
+      internalID: -4112398135315005960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_109
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 959
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db72dcb072dd9620800000000000000
+      internalID: 2782611526430915539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 962
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52ab1265d29c4740800000000000000
+      internalID: 5137642720094560860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_111
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 967
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92824e1b455b7b660800000000000000
+      internalID: 7401583887973099561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_112
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 972
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85837d34e8ec2dd0800000000000000
+      internalID: -2509374825371040374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_113
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 974
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ade6d8898564090800000000000000
+      internalID: -8050649871647057292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_114
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 975
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50641acd87e8375a0800000000000000
+      internalID: -6524714785380940283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_116
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 879
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37fdf15997e52060800000000000000
+      internalID: 6928198247470987068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_117
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 877
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c2c0740b68cb6c0800000000000000
+      internalID: -4126275066913870699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_118
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 863
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42f3dcecad9ec340800000000000000
+      internalID: 4886016011776815694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_119
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 863
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2555afa1b033a73b0800000000000000
+      internalID: -5514038670971480750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_120
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 866
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb527a8803881c60800000000000000
+      internalID: 7789119628243000307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_121
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 875
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce00569e289cd680800000000000000
+      internalID: -8728934651893117240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_122
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 878
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c107a43d91b69f4b0800000000000000
+      internalID: -5406172119018344420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_123
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 879
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcd956079aba53e0800000000000000
+      internalID: -2064132321386570506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_125
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 781
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d33f988a6f66980800000000000000
+      internalID: -8545872039159579377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_126
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 775
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e365898472625120800000000000000
+      internalID: 2401089804004844517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_127
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 767
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08097b83e9e4d530800000000000000
+      internalID: 3878982342579652622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_128
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 771
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad45190166d0cbb0800000000000000
+      internalID: -4917695080836018776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_129
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 776
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8b6a5a4f1fac3d0800000000000000
+      internalID: -3185467753357723415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_130
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 781
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c1f7dbe3a1c4210800000000000000
+      internalID: 1318457647682231336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_131
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 784
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c2b04c685ec7640800000000000000
+      internalID: 5079186846744521846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_132
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 781
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f01ca8feda28cce0800000000000000
+      internalID: -1384809748273295113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_134
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 682
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f183a6164d8122910800000000000000
+      internalID: 1811037300602845215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_135
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 680
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7316ff332e1b7ad0800000000000000
+      internalID: -2703534014560070787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_136
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 674
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55eb8e1331ce27ec0800000000000000
+      internalID: -3570531987365511595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_137
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 675
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac2d99078706bda0800000000000000
+      internalID: -5929543582823404371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_139
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 677
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be767229a35de2a00800000000000000
+      internalID: 733758236844845035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_141
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 684
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dab973e73c5bc790800000000000000
+      internalID: -7508806558600807722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_142
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 688
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cfc6da5b0577910800000000000000
+      internalID: 1835024114405669943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_144
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 683
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0ce2d5d354dfdf0800000000000000
+      internalID: -144883483147321169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_153
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 586
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550928aa85b8baa30800000000000000
+      internalID: 4227625888151408725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_154
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 585
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901dfe28ae9118be0800000000000000
+      internalID: -1476870707791015671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_155
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 575
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e719931b49db650800000000000000
+      internalID: 6250315346756075162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_156
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 575
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e341a8e33085c10e0800000000000000
+      internalID: -2297864938908412866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_157
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 582
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966e238267390c530800000000000000
+      internalID: 3873257815228474985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_158
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 586
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9ed2512c40691a0800000000000000
+      internalID: -6803244955471058470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_159
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 593
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7a5dc258eeb8b40800000000000000
+      internalID: 5443706830357637065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_160
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 589
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1214937689edde020800000000000000
+      internalID: 2372797324842320161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_169
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 493
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3776a1d056bc2da60800000000000000
+      internalID: 7697438348001568627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_171
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 491
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97c7ee674e853110800000000000000
+      internalID: 1240053709864945567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_172
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 482
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100871db0bc2ccd10800000000000000
+      internalID: 2147140259947184129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_173
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 479
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46bf280dd19cb4f0800000000000000
+      internalID: -811613454322387382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_174
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 484
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f2649fe7df7ed00800000000000000
+      internalID: 1002048163903057744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_175
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 490
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c100437742fbac2f0800000000000000
+      internalID: -951738207895814116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_177
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 496
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff3df310b61c8070800000000000000
+      internalID: 8109881974492839923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_178
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 499
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b616bc62fcdce90800000000000000
+      internalID: -7003714079963387100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_186
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 397
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d099aa212bdf75990800000000000000
+      internalID: -7397164921673574131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_187
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 395
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b00bfd8075ee6ef0800000000000000
+      internalID: -112900669056548679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_188
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 391
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b2d508279eb4110800000000000000
+      internalID: 1246346399887207197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_189
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 389
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79d435b0fe3d73c0800000000000000
+      internalID: -4360259660671559297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_190
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 389
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666e2d58a06ce8c60800000000000000
+      internalID: 7822407351286294118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_192
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 393
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8142515b1ba4970800000000000000
+      internalID: 8739993418167752899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_194
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 399
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5964e37fbe22d2670800000000000000
+      internalID: 8515500867288188565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_195
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 402
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739a158e9bf4184a0800000000000000
+      internalID: -6592900719608485577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_201
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 300
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac676b8dbc6bf2f0800000000000000
+      internalID: -938036536033186655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_202
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 299
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b48e061c3ec3760800000000000000
+      internalID: 7439071104203246381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_203
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 298
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a495f041f08348110800000000000000
+      internalID: 1262195432982796618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_204
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 293
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b9238016323d6d0800000000000000
+      internalID: -2966988829850690706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_205
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 293
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b5f5b53d46adff0800000000000000
+      internalID: -10585190181151945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_207
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 297
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46888947706ae8be0800000000000000
+      internalID: -1473057477152438172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_208
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 303
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ee1d037085a4030800000000000000
+      internalID: 3479690450004209196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_209
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 305
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e336783bf5d58e0800000000000000
+      internalID: -1703099859400966531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_210
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 203
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791330b769fcee8a0800000000000000
+      internalID: -6273848985664671337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_211
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 202
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2522e23f139c2a80800000000000000
+      internalID: -8490249435293276881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_212
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 201
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b6cfeca46c3a320800000000000000
+      internalID: 2568114237133843296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_213
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 195
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb5baa9493241040800000000000000
+      internalID: 4617354639118654384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_214
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 197
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af944e818e8453770800000000000000
+      internalID: 8589852025966316026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_215
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 201
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2408d6622af24680800000000000000
+      internalID: -8772174098503039955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_217
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 206
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbd977aeff91cb50800000000000000
+      internalID: 6611741644036889526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_218
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 207
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a95820748206410800000000000000
+      internalID: 1468217763972881038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_220
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 105
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dae4b5863c778d00800000000000000
+      internalID: 974884417962306258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_221
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 99
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a4cae24cb97c400800000000000000
+      internalID: 344415163416070812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_222
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 97
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f642d0f1dc9c9880800000000000000
+      internalID: -8602828762682079504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_223
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 103
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16b49d77da658df0800000000000000
+      internalID: -178619136453855713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_224
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 101
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e53876d57ec2d00800000000000000
+      internalID: 949388009822969430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_227
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 105
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4560331599ea9d250800000000000000
+      internalID: 5969994754571830868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_228
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 109
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2afa288b6057c270800000000000000
+      internalID: 8270667663465445935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_229
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 106
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a152751bc9bd4e20800000000000000
+      internalID: 3336527180840718758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_232
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f16cb2af882f5f00800000000000000
+      internalID: 1107648630732120567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_233
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1056e774ce879fd0800000000000000
+      internalID: -2335240907291996130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_234
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 4
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeb96b6f0266ac40800000000000000
+      internalID: 5523209811382615721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_235
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 8
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5471f3fa07b69a230800000000000000
+      internalID: 3650567104681154373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_237
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 5
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4903ecdc38497a0800000000000000
+      internalID: -6371322652871584554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_239
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 9
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd8e424947733e80800000000000000
+      internalID: -8200079339982778958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_240
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 11
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab48370abd478790800000000000000
+      internalID: -7527962790746109013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozenFranky_241
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 8
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fde8a12bc7f5100800000000000000
+      internalID: 98934821217034027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3da7bf1a9320ab7418a3b5834be1763f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      frozenFranky_0: 652583235143896857
+      frozenFranky_1: -929612417192977705
+      frozenFranky_10: -6822640141422908965
+      frozenFranky_100: 6415917672047196242
+      frozenFranky_101: 373263052096071695
+      frozenFranky_102: -4174667870164270402
+      frozenFranky_103: 1007144453724209890
+      frozenFranky_104: -5847300588351881934
+      frozenFranky_105: 7462797076779633819
+      frozenFranky_106: -3833303578525345966
+      frozenFranky_107: -1141927712694511013
+      frozenFranky_108: -4112398135315005960
+      frozenFranky_109: 2782611526430915539
+      frozenFranky_11: -4662165081555621333
+      frozenFranky_110: 5137642720094560860
+      frozenFranky_111: 7401583887973099561
+      frozenFranky_112: -2509374825371040374
+      frozenFranky_113: -8050649871647057292
+      frozenFranky_114: -6524714785380940283
+      frozenFranky_115: 8880679754643701202
+      frozenFranky_116: 6928198247470987068
+      frozenFranky_117: -4126275066913870699
+      frozenFranky_118: 4886016011776815694
+      frozenFranky_119: -5514038670971480750
+      frozenFranky_12: -5360561184044529118
+      frozenFranky_120: 7789119628243000307
+      frozenFranky_121: -8728934651893117240
+      frozenFranky_122: -5406172119018344420
+      frozenFranky_123: -2064132321386570506
+      frozenFranky_124: 2352555510367525808
+      frozenFranky_125: -8545872039159579377
+      frozenFranky_126: 2401089804004844517
+      frozenFranky_127: 3878982342579652622
+      frozenFranky_128: -4917695080836018776
+      frozenFranky_129: -3185467753357723415
+      frozenFranky_13: -4444540263294833738
+      frozenFranky_130: 1318457647682231336
+      frozenFranky_131: 5079186846744521846
+      frozenFranky_132: -1384809748273295113
+      frozenFranky_133: -6930055575742388112
+      frozenFranky_134: 1811037300602845215
+      frozenFranky_135: -2703534014560070787
+      frozenFranky_136: -3570531987365511595
+      frozenFranky_137: -5929543582823404371
+      frozenFranky_138: -8184118105513323266
+      frozenFranky_139: 733758236844845035
+      frozenFranky_14: -6385330007773408480
+      frozenFranky_140: 371938797923697802
+      frozenFranky_141: -7508806558600807722
+      frozenFranky_142: 1835024114405669943
+      frozenFranky_143: -7417098903499992005
+      frozenFranky_144: -144883483147321169
+      frozenFranky_145: -873100467167108390
+      frozenFranky_146: -2959049059741541676
+      frozenFranky_147: -7628409608071339807
+      frozenFranky_148: -6107652838496801860
+      frozenFranky_149: -7127188630017200250
+      frozenFranky_15: -8817360626758268261
+      frozenFranky_150: -8021109853508758712
+      frozenFranky_151: 6718179877401550884
+      frozenFranky_152: 3915537272312003205
+      frozenFranky_153: 4227625888151408725
+      frozenFranky_154: -1476870707791015671
+      frozenFranky_155: 6250315346756075162
+      frozenFranky_156: -2297864938908412866
+      frozenFranky_157: 3873257815228474985
+      frozenFranky_158: -6803244955471058470
+      frozenFranky_159: 5443706830357637065
+      frozenFranky_16: -3381805175503046575
+      frozenFranky_160: 2372797324842320161
+      frozenFranky_161: 4620450680632651214
+      frozenFranky_162: 4683007381067917385
+      frozenFranky_163: 3928339488317968072
+      frozenFranky_164: -3750426816821746461
+      frozenFranky_165: 3189624464935468655
+      frozenFranky_166: 8331246700497178083
+      frozenFranky_167: 6659656842282492144
+      frozenFranky_168: 9196392062971236362
+      frozenFranky_169: 7697438348001568627
+      frozenFranky_17: 8659400327973226081
+      frozenFranky_170: -5927806888380693533
+      frozenFranky_171: 1240053709864945567
+      frozenFranky_172: 2147140259947184129
+      frozenFranky_173: -811613454322387382
+      frozenFranky_174: 1002048163903057744
+      frozenFranky_175: -951738207895814116
+      frozenFranky_176: -5431935609469922105
+      frozenFranky_177: 8109881974492839923
+      frozenFranky_178: -7003714079963387100
+      frozenFranky_179: -4916539798369457154
+      frozenFranky_18: 597031917746623179
+      frozenFranky_180: -5353744167569474553
+      frozenFranky_181: 2559845980947526236
+      frozenFranky_182: 6544949777137727153
+      frozenFranky_183: -5060957219410103016
+      frozenFranky_184: 5342201401217369871
+      frozenFranky_185: -5685455114294782547
+      frozenFranky_186: -7397164921673574131
+      frozenFranky_187: -112900669056548679
+      frozenFranky_188: 1246346399887207197
+      frozenFranky_189: -4360259660671559297
+      frozenFranky_19: -8492860593933497023
+      frozenFranky_190: 7822407351286294118
+      frozenFranky_191: -4491199871443674665
+      frozenFranky_192: 8739993418167752899
+      frozenFranky_193: 8969385797632912067
+      frozenFranky_194: 8515500867288188565
+      frozenFranky_195: -6592900719608485577
+      frozenFranky_196: 8365276422813890935
+      frozenFranky_197: -3216732354336470988
+      frozenFranky_198: 317958570314245277
+      frozenFranky_199: 3979336379475664882
+      frozenFranky_2: 266890410952092598
+      frozenFranky_20: 1991856497484319440
+      frozenFranky_200: -7773296675893935462
+      frozenFranky_201: -938036536033186655
+      frozenFranky_202: 7439071104203246381
+      frozenFranky_203: 1262195432982796618
+      frozenFranky_204: -2966988829850690706
+      frozenFranky_205: -10585190181151945
+      frozenFranky_206: -5252674969880337391
+      frozenFranky_207: -1473057477152438172
+      frozenFranky_208: 3479690450004209196
+      frozenFranky_209: -1703099859400966531
+      frozenFranky_21: -2154682294271578684
+      frozenFranky_210: -6273848985664671337
+      frozenFranky_211: -8490249435293276881
+      frozenFranky_212: 2568114237133843296
+      frozenFranky_213: 4617354639118654384
+      frozenFranky_214: 8589852025966316026
+      frozenFranky_215: -8772174098503039955
+      frozenFranky_216: -640668655046976081
+      frozenFranky_217: 6611741644036889526
+      frozenFranky_218: 1468217763972881038
+      frozenFranky_219: -4226236498440245426
+      frozenFranky_22: -5045809605772326520
+      frozenFranky_220: 974884417962306258
+      frozenFranky_221: 344415163416070812
+      frozenFranky_222: -8602828762682079504
+      frozenFranky_223: -178619136453855713
+      frozenFranky_224: 949388009822969430
+      frozenFranky_225: -7533372510217957592
+      frozenFranky_226: 8902022812821314562
+      frozenFranky_227: 5969994754571830868
+      frozenFranky_228: 8270667663465445935
+      frozenFranky_229: 3336527180840718758
+      frozenFranky_23: -1424412698228832960
+      frozenFranky_230: 9080472066989266357
+      frozenFranky_231: 4415695099685517275
+      frozenFranky_232: 1107648630732120567
+      frozenFranky_233: -2335240907291996130
+      frozenFranky_234: 5523209811382615721
+      frozenFranky_235: 3650567104681154373
+      frozenFranky_236: -5362891026293656860
+      frozenFranky_237: -6371322652871584554
+      frozenFranky_238: -4430907353856841213
+      frozenFranky_239: -8200079339982778958
+      frozenFranky_24: -7922800124837964858
+      frozenFranky_240: -7527962790746109013
+      frozenFranky_241: 98934821217034027
+      frozenFranky_242: 6029062427291329797
+      frozenFranky_243: -5711319164916020626
+      frozenFranky_25: 2378336646050029193
+      frozenFranky_26: 6833274691958638253
+      frozenFranky_27: -6527730636541030495
+      frozenFranky_28: -6088971504263188219
+      frozenFranky_29: -97045609980137469
+      frozenFranky_3: -4990748080731952429
+      frozenFranky_30: -5111291487551378541
+      frozenFranky_31: 2203368307146108585
+      frozenFranky_32: -3439034290778813903
+      frozenFranky_33: -6033402913459702253
+      frozenFranky_34: 8967910680976237359
+      frozenFranky_35: 1622330029647407598
+      frozenFranky_36: 1315374999342107803
+      frozenFranky_37: -7192311596739255813
+      frozenFranky_38: -5672140080681755813
+      frozenFranky_39: -1093719714720795671
+      frozenFranky_4: 1220653992005288328
+      frozenFranky_40: -1091000943533011530
+      frozenFranky_41: -1468939478254276231
+      frozenFranky_42: 881900997460049077
+      frozenFranky_43: 9221727809244817876
+      frozenFranky_44: -5162187209304916040
+      frozenFranky_45: 7802046685184568038
+      frozenFranky_46: 9035702673089908206
+      frozenFranky_47: 8380813644477206889
+      frozenFranky_48: 7105634692360496545
+      frozenFranky_49: 8511127943085296651
+      frozenFranky_5: -2285327246587827973
+      frozenFranky_50: -6748870677404780474
+      frozenFranky_51: -5433071703708908372
+      frozenFranky_52: 7959288443715577685
+      frozenFranky_53: -5014417861678587838
+      frozenFranky_54: -2012198780363920346
+      frozenFranky_55: -7451572749221262216
+      frozenFranky_56: 304972200099765172
+      frozenFranky_57: -5274855958046409764
+      frozenFranky_58: 3206410663059355750
+      frozenFranky_59: 6170461848206887965
+      frozenFranky_6: 4447613396567601789
+      frozenFranky_60: -3453224621196719062
+      frozenFranky_61: -7011017512482643967
+      frozenFranky_62: -5249542221273501789
+      frozenFranky_63: -2251202665976803735
+      frozenFranky_64: -3058459402395846329
+      frozenFranky_65: -8101937672365389850
+      frozenFranky_66: -7502354769836891515
+      frozenFranky_67: 5253546280854580620
+      frozenFranky_68: -14922749172393170
+      frozenFranky_69: 1378506113487235846
+      frozenFranky_7: -4629608246542672666
+      frozenFranky_70: 5062001778833403833
+      frozenFranky_71: 3800857920972507475
+      frozenFranky_72: -7725007186031931361
+      frozenFranky_73: 4287474559685276226
+      frozenFranky_74: -8066750690664077622
+      frozenFranky_75: 4222518612668400637
+      frozenFranky_76: 1129975051652164574
+      frozenFranky_77: 1927135700153534163
+      frozenFranky_78: -2597954530552940382
+      frozenFranky_79: 5443405115762146252
+      frozenFranky_8: -6921309860435352905
+      frozenFranky_80: 3845645702699709051
+      frozenFranky_81: -8370495959765625994
+      frozenFranky_82: 8243833084685597967
+      frozenFranky_83: -4943962527214264876
+      frozenFranky_84: 9063994321121799034
+      frozenFranky_85: -5774634623779220879
+      frozenFranky_86: 2280734076486486111
+      frozenFranky_87: 6208744547857071864
+      frozenFranky_88: -6462229160701889733
+      frozenFranky_89: 4486258296411215157
+      frozenFranky_9: -2558479239939254490
+      frozenFranky_90: -4066772057794818447
+      frozenFranky_91: -7491089123241670905
+      frozenFranky_92: 3652809391605338025
+      frozenFranky_93: 3726180885530815477
+      frozenFranky_94: -5289927697550239144
+      frozenFranky_95: 5421177920537034331
+      frozenFranky_96: 8846718947988882767
+      frozenFranky_97: -6448471713555386054
+      frozenFranky_98: 6688330361678129275
+      frozenFranky_99: 5245509242767018259
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

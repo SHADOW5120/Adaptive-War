@@ -1,0 +1,4680 @@
+fileFormatVersion: 2
+guid: 7a1707ee8819b3a49ba38b7ab5d68b0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4546199711906858595
+    second: peasantAlpha_0
+  - first:
+      213: -8475125438095725196
+    second: peasantAlpha_1
+  - first:
+      213: -1498337989704591644
+    second: peasantAlpha_2
+  - first:
+      213: 8211845876299773148
+    second: peasantAlpha_3
+  - first:
+      213: 4958928456878820409
+    second: peasantAlpha_4
+  - first:
+      213: -5534651635644064675
+    second: peasantAlpha_5
+  - first:
+      213: 7148916577888938455
+    second: peasantAlpha_6
+  - first:
+      213: -2888912932719840650
+    second: peasantAlpha_7
+  - first:
+      213: 7704350055476695624
+    second: peasantAlpha_8
+  - first:
+      213: -1079455705598558492
+    second: peasantAlpha_9
+  - first:
+      213: 2851049695510339250
+    second: peasantAlpha_10
+  - first:
+      213: 8685906322211990416
+    second: peasantAlpha_11
+  - first:
+      213: 7114544463743103644
+    second: peasantAlpha_12
+  - first:
+      213: -4714902921690992376
+    second: peasantAlpha_13
+  - first:
+      213: -7810640313084226023
+    second: peasantAlpha_14
+  - first:
+      213: 2418724174741213031
+    second: peasantAlpha_15
+  - first:
+      213: 7153198375185332307
+    second: peasantAlpha_16
+  - first:
+      213: -4018435711580097856
+    second: peasantAlpha_17
+  - first:
+      213: 3867774232929735338
+    second: peasantAlpha_18
+  - first:
+      213: 1125413202933686890
+    second: peasantAlpha_19
+  - first:
+      213: -2122981982337800749
+    second: peasantAlpha_20
+  - first:
+      213: -6578056393865794116
+    second: peasantAlpha_21
+  - first:
+      213: -3914647096999449838
+    second: peasantAlpha_22
+  - first:
+      213: -4571338016123481676
+    second: peasantAlpha_23
+  - first:
+      213: -5083010520607761723
+    second: peasantAlpha_24
+  - first:
+      213: 2168624216958670132
+    second: peasantAlpha_25
+  - first:
+      213: -1370462692047310977
+    second: peasantAlpha_26
+  - first:
+      213: -7810602265122098473
+    second: peasantAlpha_27
+  - first:
+      213: -1631808286074449196
+    second: peasantAlpha_28
+  - first:
+      213: -1208104876505525505
+    second: peasantAlpha_29
+  - first:
+      213: 9065351510696345545
+    second: peasantAlpha_30
+  - first:
+      213: 6382511978939067089
+    second: peasantAlpha_31
+  - first:
+      213: 8724604993188550451
+    second: peasantAlpha_32
+  - first:
+      213: 8003578223522559040
+    second: peasantAlpha_33
+  - first:
+      213: -5912051779893031439
+    second: peasantAlpha_34
+  - first:
+      213: 7600330293239432125
+    second: peasantAlpha_35
+  - first:
+      213: 5892907237437685241
+    second: peasantAlpha_36
+  - first:
+      213: -4184815459048583808
+    second: peasantAlpha_37
+  - first:
+      213: 4724604015030115593
+    second: peasantAlpha_38
+  - first:
+      213: -661390800191760427
+    second: peasantAlpha_39
+  - first:
+      213: -1101664468095966204
+    second: peasantAlpha_40
+  - first:
+      213: 5333682027382027448
+    second: peasantAlpha_41
+  - first:
+      213: -734521609238307559
+    second: peasantAlpha_42
+  - first:
+      213: 6097851649284495330
+    second: peasantAlpha_43
+  - first:
+      213: -854259671542753352
+    second: peasantAlpha_44
+  - first:
+      213: 1985001939352529786
+    second: peasantAlpha_45
+  - first:
+      213: -7319561554642108772
+    second: peasantAlpha_46
+  - first:
+      213: 8220331383413827091
+    second: peasantAlpha_47
+  - first:
+      213: 3971743851391568232
+    second: peasantAlpha_48
+  - first:
+      213: 4191701449511142209
+    second: peasantAlpha_49
+  - first:
+      213: -2268071910904630406
+    second: peasantAlpha_50
+  - first:
+      213: -5175052267413138
+    second: peasantAlpha_51
+  - first:
+      213: 7146202649476970835
+    second: peasantAlpha_52
+  - first:
+      213: 1674170738632288513
+    second: peasantAlpha_53
+  - first:
+      213: -3547880054620329932
+    second: peasantAlpha_54
+  - first:
+      213: 7655341806140577699
+    second: peasantAlpha_55
+  - first:
+      213: 8760984606297442975
+    second: peasantAlpha_56
+  - first:
+      213: 7093782772345545036
+    second: peasantAlpha_57
+  - first:
+      213: 1239034004230941585
+    second: peasantAlpha_58
+  - first:
+      213: 5978410474375443348
+    second: peasantAlpha_59
+  - first:
+      213: 5127518346397042377
+    second: peasantAlpha_60
+  - first:
+      213: 5070012848441334857
+    second: peasantAlpha_61
+  - first:
+      213: 3802517311851128533
+    second: peasantAlpha_62
+  - first:
+      213: 572634960925180710
+    second: peasantAlpha_63
+  - first:
+      213: 1124111491046720057
+    second: peasantAlpha_64
+  - first:
+      213: 4993538326192680619
+    second: peasantAlpha_65
+  - first:
+      213: -1956759937397861993
+    second: peasantAlpha_66
+  - first:
+      213: 1480460872278567146
+    second: peasantAlpha_67
+  - first:
+      213: -441479010061934413
+    second: peasantAlpha_68
+  - first:
+      213: -583494102955499336
+    second: peasantAlpha_69
+  - first:
+      213: 1389614684913993657
+    second: peasantAlpha_70
+  - first:
+      213: -1312927941394117950
+    second: peasantAlpha_71
+  - first:
+      213: -5350850182161321188
+    second: peasantAlpha_72
+  - first:
+      213: -8091671422247959378
+    second: peasantAlpha_73
+  - first:
+      213: 7711425435063466972
+    second: peasantAlpha_74
+  - first:
+      213: 8369119943449118423
+    second: peasantAlpha_75
+  - first:
+      213: 3423063808011754941
+    second: peasantAlpha_76
+  - first:
+      213: 1638714626737278175
+    second: peasantAlpha_77
+  - first:
+      213: 2144492208316993860
+    second: peasantAlpha_78
+  - first:
+      213: 4856337893531671613
+    second: peasantAlpha_79
+  - first:
+      213: -2460135866851408193
+    second: peasantAlpha_80
+  - first:
+      213: 3226611944016087669
+    second: peasantAlpha_81
+  - first:
+      213: 990638431009226687
+    second: peasantAlpha_82
+  - first:
+      213: 1570172849713265196
+    second: peasantAlpha_83
+  - first:
+      213: 6102856311838586388
+    second: peasantAlpha_84
+  - first:
+      213: 630582725739628287
+    second: peasantAlpha_85
+  - first:
+      213: -8434522474010000152
+    second: peasantAlpha_86
+  - first:
+      213: 5892648810106051305
+    second: peasantAlpha_87
+  - first:
+      213: 6650564260480508137
+    second: peasantAlpha_88
+  - first:
+      213: -7809306909238180524
+    second: peasantAlpha_89
+  - first:
+      213: 1447960160278716681
+    second: peasantAlpha_90
+  - first:
+      213: 991658299230148502
+    second: peasantAlpha_91
+  - first:
+      213: -1968367997725222809
+    second: peasantAlpha_92
+  - first:
+      213: 3387685275897731332
+    second: peasantAlpha_93
+  - first:
+      213: -3718557055153994694
+    second: peasantAlpha_94
+  - first:
+      213: 1317631148210426802
+    second: peasantAlpha_95
+  - first:
+      213: -650229507550040806
+    second: peasantAlpha_96
+  - first:
+      213: 7396369814118667372
+    second: peasantAlpha_97
+  - first:
+      213: 6126730148143804823
+    second: peasantAlpha_98
+  - first:
+      213: -3742249449078429270
+    second: peasantAlpha_99
+  - first:
+      213: 493667927032392433
+    second: peasantAlpha_100
+  - first:
+      213: 1707970762847667955
+    second: peasantAlpha_101
+  - first:
+      213: -7881564512237426543
+    second: peasantAlpha_102
+  - first:
+      213: 5130836020024708559
+    second: peasantAlpha_103
+  - first:
+      213: -2610782058496433377
+    second: peasantAlpha_104
+  - first:
+      213: 1507256766480355299
+    second: peasantAlpha_105
+  - first:
+      213: 4680263507486961416
+    second: peasantAlpha_106
+  - first:
+      213: 1930986145865130157
+    second: peasantAlpha_107
+  - first:
+      213: -1115703416961192748
+    second: peasantAlpha_108
+  - first:
+      213: 6588667615790097139
+    second: peasantAlpha_109
+  - first:
+      213: -5824211609925893033
+    second: peasantAlpha_110
+  - first:
+      213: 3058838214990136536
+    second: peasantAlpha_111
+  - first:
+      213: -8877868418573083040
+    second: peasantAlpha_112
+  - first:
+      213: 3305628963418894681
+    second: peasantAlpha_113
+  - first:
+      213: 1377102878691046198
+    second: peasantAlpha_114
+  - first:
+      213: -7315758342141978734
+    second: peasantAlpha_115
+  - first:
+      213: -5871209590206321651
+    second: peasantAlpha_116
+  - first:
+      213: 5117023754192859209
+    second: peasantAlpha_117
+  - first:
+      213: -7625365307312988932
+    second: peasantAlpha_118
+  - first:
+      213: -9029409797913339835
+    second: peasantAlpha_119
+  - first:
+      213: 1811706192072925830
+    second: peasantAlpha_120
+  - first:
+      213: -7543213532418819281
+    second: peasantAlpha_121
+  - first:
+      213: 3059545271192226943
+    second: peasantAlpha_122
+  - first:
+      213: -7969796019122959620
+    second: peasantAlpha_123
+  - first:
+      213: -4067370980396369955
+    second: peasantAlpha_124
+  - first:
+      213: -820895643025575145
+    second: peasantAlpha_125
+  - first:
+      213: -3015170042238576376
+    second: peasantAlpha_126
+  - first:
+      213: 3479711869101485651
+    second: peasantAlpha_127
+  - first:
+      213: -5480396193498203169
+    second: peasantAlpha_128
+  - first:
+      213: -4221520783498395204
+    second: peasantAlpha_129
+  - first:
+      213: 653922447336987053
+    second: peasantAlpha_130
+  - first:
+      213: 6295578756766146789
+    second: peasantAlpha_131
+  - first:
+      213: -2777442691193415226
+    second: peasantAlpha_132
+  - first:
+      213: -5960789598280174793
+    second: peasantAlpha_133
+  - first:
+      213: 2983609417204372703
+    second: peasantAlpha_134
+  - first:
+      213: -1435462834875401900
+    second: peasantAlpha_135
+  - first:
+      213: -2597650163006273875
+    second: peasantAlpha_136
+  - first:
+      213: 661665080819486019
+    second: peasantAlpha_137
+  - first:
+      213: -3881200562909284759
+    second: peasantAlpha_138
+  - first:
+      213: -532469838727455487
+    second: peasantAlpha_139
+  - first:
+      213: 1313066927053847128
+    second: peasantAlpha_140
+  - first:
+      213: 872286859434314118
+    second: peasantAlpha_141
+  - first:
+      213: -4817647529376470821
+    second: peasantAlpha_142
+  - first:
+      213: 4061538612435203510
+    second: peasantAlpha_143
+  - first:
+      213: -6308413395345531826
+    second: peasantAlpha_144
+  - first:
+      213: -3209121020381003338
+    second: peasantAlpha_145
+  - first:
+      213: 4091144901857426172
+    second: peasantAlpha_146
+  - first:
+      213: 545941029497722787
+    second: peasantAlpha_147
+  - first:
+      213: 7019309530003518081
+    second: peasantAlpha_148
+  - first:
+      213: 3464807901886554604
+    second: peasantAlpha_149
+  - first:
+      213: -6453780751472802096
+    second: peasantAlpha_150
+  - first:
+      213: -773633023038145246
+    second: peasantAlpha_151
+  - first:
+      213: 7290134165813762995
+    second: peasantAlpha_152
+  - first:
+      213: -3672137610770590444
+    second: peasantAlpha_153
+  - first:
+      213: 7857495882967252962
+    second: peasantAlpha_154
+  - first:
+      213: 4095350064702150577
+    second: peasantAlpha_155
+  - first:
+      213: -70433944539147581
+    second: peasantAlpha_156
+  - first:
+      213: 6530889544092742332
+    second: peasantAlpha_157
+  - first:
+      213: -1831996489874151599
+    second: peasantAlpha_158
+  - first:
+      213: -8997169260262073240
+    second: peasantAlpha_159
+  - first:
+      213: -9015406036275799165
+    second: peasantAlpha_160
+  - first:
+      213: -2897569649119737578
+    second: peasantAlpha_161
+  - first:
+      213: -3373968194920198319
+    second: peasantAlpha_162
+  - first:
+      213: -6933671242651921933
+    second: peasantAlpha_163
+  - first:
+      213: -1862192680281795288
+    second: peasantAlpha_164
+  - first:
+      213: -4104931874384386258
+    second: peasantAlpha_165
+  - first:
+      213: -2328401474076111942
+    second: peasantAlpha_166
+  - first:
+      213: 6553117777091145950
+    second: peasantAlpha_167
+  - first:
+      213: -1278182090490593482
+    second: peasantAlpha_168
+  - first:
+      213: 4494401203777043923
+    second: peasantAlpha_169
+  - first:
+      213: 2430822378843697764
+    second: peasantAlpha_170
+  - first:
+      213: 952461779457974327
+    second: peasantAlpha_171
+  - first:
+      213: 6736302022244026095
+    second: peasantAlpha_172
+  - first:
+      213: 743368931495163456
+    second: peasantAlpha_173
+  - first:
+      213: 7234854572739600621
+    second: peasantAlpha_174
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: peasantAlpha_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 729
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99fec5e277a8e0c0800000000000000
+      internalID: -4546199711906858595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 741
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d6d63315e426a80800000000000000
+      internalID: -8475125438095725196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 728
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e65f227985d43be0800000000000000
+      internalID: -1498337989704591644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 738
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4ba17f05656f170800000000000000
+      internalID: 8211845876299773148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 727
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c86d27827a1d440800000000000000
+      internalID: 4958928456878820409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 734
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c96e549a7f033b0800000000000000
+      internalID: -5534651635644064675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 738
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9a8f140cd063360800000000000000
+      internalID: 7148916577888938455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 737
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672b33a6ef488e7d0800000000000000
+      internalID: -2888912932719840650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 739
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84213f95e895bea60800000000000000
+      internalID: 7704350055476695624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 727
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee770541c00501f0800000000000000
+      internalID: -1079455705598558492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 727
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be11e1b796f09720800000000000000
+      internalID: 2851049695510339250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 727
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09be3c7b7c98a8870800000000000000
+      internalID: 8685906322211990416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 728
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92312cce70fbb260800000000000000
+      internalID: 7114544463743103644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_13
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 727
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801382af5cc419eb0800000000000000
+      internalID: -4714902921690992376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 677
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916d44e84080b9390800000000000000
+      internalID: -7810640313084226023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 675
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f891d62d8019120800000000000000
+      internalID: 2418724174741213031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 664
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358b2d0e504454360800000000000000
+      internalID: 7153198375185332307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 672
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2368ac206ab38c0800000000000000
+      internalID: -4018435711580097856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 671
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa29f292c281da530800000000000000
+      internalID: 3867774232929735338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 663
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62a56a68554e9f00800000000000000
+      internalID: 1125413202933686890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 673
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d563369227a982e0800000000000000
+      internalID: -2122981982337800749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_21
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 674
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd6423df8c06b4a0800000000000000
+      internalID: -6578056393865794116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_22
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 673
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b655ab4316ca9c0800000000000000
+      internalID: -3914647096999449838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 663
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b198b85b485f80c0800000000000000
+      internalID: -4571338016123481676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 663
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cad999ccd48579b0800000000000000
+      internalID: -5083010520607761723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 664
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43591274c30881e10800000000000000
+      internalID: 2168624216958670132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 663
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f289e41732bfce0800000000000000
+      internalID: -1370462692047310977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_27
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 663
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d239894f9a2b9390800000000000000
+      internalID: -7810602265122098473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_28
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 663
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d25efe6207aa59e0800000000000000
+      internalID: -1631808286074449196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_29
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 599
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff298700403fb3fe0800000000000000
+      internalID: -1208104876505525505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 612
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf3b1f2b299ecd70800000000000000
+      internalID: 9065351510696345545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 610
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daa65f24dc339850800000000000000
+      internalID: 6382511978939067089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_32
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 599
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3375a903406041970800000000000000
+      internalID: 8724604993188550451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 600
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0443d115dfb621f60800000000000000
+      internalID: 8003578223522559040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 610
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd82c5ca3c24fda0800000000000000
+      internalID: -5912051779893031439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_35
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 599
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db34d28222cc97960800000000000000
+      internalID: 7600330293239432125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_36
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 605
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd3dc519efc7c150800000000000000
+      internalID: 5892907237437685241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_37
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 599
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d88d8138c8ce5c0800000000000000
+      internalID: -4184815459048583808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_38
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 611
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d1144d15a219140800000000000000
+      internalID: 4724604015030115593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 608
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7dbd8429442d6f0800000000000000
+      internalID: -661390800191760427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_40
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 609
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404687dc00a16b0f0800000000000000
+      internalID: -1101664468095966204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_41
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 600
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4bdfa7b8b050a40800000000000000
+      internalID: 5333682027382027448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_42
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 599
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d9081fc747ec5f0800000000000000
+      internalID: -734521609238307559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_43
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 601
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7d1a864cbef9450800000000000000
+      internalID: 6097851649284495330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 549
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b790c3da5f0524f0800000000000000
+      internalID: -854259671542753352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_45
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 547
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ba1913fb42c8b10800000000000000
+      internalID: 1985001939352529786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_46
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 535
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e73f7fb81bb6a90800000000000000
+      internalID: -7319561554642108772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 544
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316606c07db741270800000000000000
+      internalID: 8220331383413827091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_48
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 535
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86949095df77e1730800000000000000
+      internalID: 3971743851391568232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_49
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 535
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1430a9e724aeb2a30800000000000000
+      internalID: 4191701449511142209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_50
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 545
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73fc712d903680e0800000000000000
+      internalID: -2268071910904630406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_51
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 546
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6128ef315d9deff0800000000000000
+      internalID: -5175052267413138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_52
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 543
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359b70f82796c2360800000000000000
+      internalID: 7146202649476970835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_53
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 535
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109e789aa69db3710800000000000000
+      internalID: 1674170738632288513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 535
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43869a643e563cec0800000000000000
+      internalID: -3547880054620329932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 535
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7d43d10dc3d3a60800000000000000
+      internalID: 7655341806140577699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_56
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 535
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a460de415459970800000000000000
+      internalID: 8760984606297442975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_57
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 535
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c412173d8dd227260800000000000000
+      internalID: 7093782772345545036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_58
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 471
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ba0d6bcdee13110800000000000000
+      internalID: 1239034004230941585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 484
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4937f96c6a497f250800000000000000
+      internalID: 5978410474375443348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_60
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 482
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c64b40f4ca982740800000000000000
+      internalID: 5127518346397042377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_61
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 471
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c1306d2dd4c5640800000000000000
+      internalID: 5070012848441334857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 483
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6e829395145c430800000000000000
+      internalID: 3802517311851128533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 471
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6234ae7867862f700800000000000000
+      internalID: 572634960925180710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_64
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 482
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93246cff175a99f00800000000000000
+      internalID: 1124111491046720057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_65
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 471
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae630996ac9c4540800000000000000
+      internalID: 4993538326192680619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_66
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 477
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7915fac443138d4e0800000000000000
+      internalID: -1956759937397861993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_67
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 471
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8670cc157ab8410800000000000000
+      internalID: 1480460872278567146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_68
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 471
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0a77ded2d8fd9f0800000000000000
+      internalID: -441479010061934413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_69
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 483
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b06dc0743307e7f0800000000000000
+      internalID: -583494102955499336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_70
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 473
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b707f48137e84310800000000000000
+      internalID: 1389614684913993657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_71
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 480
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cac4855efa87cde0800000000000000
+      internalID: -1312927941394117950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_72
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 481
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13b0fdfb16fdb5b0800000000000000
+      internalID: -5350850182161321188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_73
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 472
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea40bb586bb94bf80800000000000000
+      internalID: -8091671422247959378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_74
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 407
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbbed8839c740b60800000000000000
+      internalID: 7711425435063466972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_75
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 408
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d60cef3f36152470800000000000000
+      internalID: 8369119943449118423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_76
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 408
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd5900b56a218f20800000000000000
+      internalID: 3423063808011754941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_77
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 407
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc89ee4542edb610800000000000000
+      internalID: 1638714626737278175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_78
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 410
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441d35c2d44c2cd10800000000000000
+      internalID: 2144492208316993860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_79
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 415
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c593d859d256340800000000000000
+      internalID: 4856337893531671613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_80
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 400
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6cf15a677dbddd0800000000000000
+      internalID: -2460135866851408193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_81
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 412
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a8c1fb77a37cc20800000000000000
+      internalID: 3226611944016087669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_82
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 400
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfb72587647fbd00800000000000000
+      internalID: 990638431009226687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_83
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 415
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a3f1f33ef5ac510800000000000000
+      internalID: 1570172849713265196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_84
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 399
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416b3663b73b1b450800000000000000
+      internalID: 6102856311838586388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_85
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 413
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff64539e5a740c800800000000000000
+      internalID: 630582725739628287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_86
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 407
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4c5967f7e82fa80800000000000000
+      internalID: -8434522474010000152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_87
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 409
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eadf784fd4e6c150800000000000000
+      internalID: 5892648810106051305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_88
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 407
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e069dd65fc8b4c50800000000000000
+      internalID: 6650564260480508137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_89
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 343
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455cad4ddb4cf9390800000000000000
+      internalID: -7809306909238180524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_90
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 343
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901a45a1810381410800000000000000
+      internalID: 1447960160278716681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_91
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 344
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6975e2818f313cd00800000000000000
+      internalID: 991658299230148502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_92
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 343
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76857542cb3fea4e0800000000000000
+      internalID: -1968367997725222809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_93
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 346
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40994b84fc9730f20800000000000000
+      internalID: 3387685275897731332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_94
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 351
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3406826f08056cc0800000000000000
+      internalID: -3718557055153994694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_95
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 336
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b392165c8a294210800000000000000
+      internalID: 1317631148210426802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_96
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 347
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1da00c35bbe9f6f0800000000000000
+      internalID: -650229507550040806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_97
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 336
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6417f5882f25a660800000000000000
+      internalID: 7396369814118667372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_98
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 351
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791b9c2eb94860550800000000000000
+      internalID: 6126730148143804823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_99
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 335
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa967ce04fbd01cc0800000000000000
+      internalID: -3742249449078429270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_100
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 349
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fae4c33d5cd9d600800000000000000
+      internalID: 493667927032392433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_101
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 343
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6c94e0c5ee3b710800000000000000
+      internalID: 1707970762847667955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_102
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 345
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19863cd95de0f9290800000000000000
+      internalID: -7881564512237426543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_103
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 343
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd0a560d24643740800000000000000
+      internalID: 5130836020024708559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_104
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 279
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f136b51ec83a4cbd0800000000000000
+      internalID: -2610782058496433377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_105
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef8d571b0adae410800000000000000
+      internalID: 1507256766480355299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_106
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 279
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80febfaecd2a3f040800000000000000
+      internalID: 4680263507486961416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_107
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 281
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0ed7a3bad3cca10800000000000000
+      internalID: 1930986145865130157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_108
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 272
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dca65d47a93480f0800000000000000
+      internalID: -1115703416961192748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_109
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2e94ec946af6b50800000000000000
+      internalID: 6588667615790097139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_110
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 282
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75449a5166e3c2fa0800000000000000
+      internalID: -5824211609925893033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_111
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 287
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d480ed662d237a20800000000000000
+      internalID: 3058838214990136536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_112
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 273
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eda44d5b97bc480800000000000000
+      internalID: -8877868418573083040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_113
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 279
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95173db3704ffdd20800000000000000
+      internalID: 3305628963418894681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_114
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 280
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6333c8f95c37c1310800000000000000
+      internalID: 1377102878691046198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_115
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 279
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297d6026c84397a90800000000000000
+      internalID: -7315758342141978734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_116
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 272
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ca2e51cf5458ea0800000000000000
+      internalID: -5871209590206321651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_117
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 229
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940b6e74ef1530740800000000000000
+      internalID: 5117023754192859209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_118
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 223
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc950767a24d2690800000000000000
+      internalID: -7625365307312988932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_119
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 228
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54891ffe0a711b280800000000000000
+      internalID: -9029409797913339835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_120
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 222
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682e1efce29742910800000000000000
+      internalID: 1811706192072925830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_121
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bb147024f115790800000000000000
+      internalID: -7543213532418819281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_122
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 218
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c83a7c630b57a20800000000000000
+      internalID: 3059545271192226943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_123
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 223
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa8ad31fb8956190800000000000000
+      internalID: -7969796019122959620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_124
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 215
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7fdb7a4abcd87c0800000000000000
+      internalID: -4067370980396369955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_125
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 215
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7137bcf03c79b94f0800000000000000
+      internalID: -820895643025575145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_126
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 215
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80958f652d6f726d0800000000000000
+      internalID: -3015170042238576376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_127
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 226
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e2186328b6a4030800000000000000
+      internalID: 3479711869101485651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_128
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 215
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbf22ac2b8b1f3b0800000000000000
+      internalID: -5480396193498203169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_129
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb146a7c6352a65c0800000000000000
+      internalID: -4221520783498395204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_130
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 222
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9dc205003331900800000000000000
+      internalID: 653922447336987053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_131
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 223
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0aa8c16836e5750800000000000000
+      internalID: 6295578756766146789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_132
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 215
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9596f769a8479d0800000000000000
+      internalID: -2777442691193415226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_133
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 151
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733baa52175074da0800000000000000
+      internalID: -5960789598280174793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_134
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 151
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd41af405f8e76920800000000000000
+      internalID: 2983609417204372703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_135
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 143
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459f9f63826341ce0800000000000000
+      internalID: -1435462834875401900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_136
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 143
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6864f80fa43fbd0800000000000000
+      internalID: -2597650163006273875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_137
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d8686a2e4be2900800000000000000
+      internalID: 661665080819486019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_138
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 143
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966feb9c6a4332ac0800000000000000
+      internalID: -3881200562909284759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_139
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 144
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d5a09b0894c98f0800000000000000
+      internalID: -532469838727455487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_140
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 140
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85abb59c963f83210800000000000000
+      internalID: 1313066927053847128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_141
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 143
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689c2dee64cfa1c00800000000000000
+      internalID: 872286859434314118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_142
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 143
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd82a76d817442db0800000000000000
+      internalID: -4817647529376470821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_143
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 144
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5bbbb59db7d5830800000000000000
+      internalID: 4061538612435203510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_144
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 143
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c1d1ab0730478a0800000000000000
+      internalID: -6308413395345531826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_145
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 152
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b183f24f69e673d0800000000000000
+      internalID: -3209121020381003338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_146
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfabcd7cc9aa6c830800000000000000
+      internalID: 4091144901857426172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_147
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 82
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7d58b4972939700800000000000000
+      internalID: 545941029497722787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_148
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 85
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182bf50e3d8996160800000000000000
+      internalID: 7019309530003518081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_149
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 75
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce12aeeed68751030800000000000000
+      internalID: 3464807901886554604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_150
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 71
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6c532a9909f66a0800000000000000
+      internalID: -6453780751472802096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_151
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dbc4b4dd08345f0800000000000000
+      internalID: -773633023038145246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_152
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb94462662cb2560800000000000000
+      internalID: 7290134165813762995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_153
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 71
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415daaf7c42f90dc0800000000000000
+      internalID: -3672137610770590444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_154
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 80
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef7b50ffde6b0d60800000000000000
+      internalID: 7857495882967252962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_155
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 72
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7d17d8f2b95d830800000000000000
+      internalID: 4095350064702150577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_156
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 71
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c25d9b53b4c50ff0800000000000000
+      internalID: -70433944539147581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_157
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2f5fe207162aa50800000000000000
+      internalID: 6530889544092742332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_158
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157e94716e07396e0800000000000000
+      internalID: -1831996489874151599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_159
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 71
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cd3021a32a32380800000000000000
+      internalID: -8997169260262073240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_160
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b5ed5c9f7d2e280800000000000000
+      internalID: -9015406036275799165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_161
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619c34091c3c9c7d0800000000000000
+      internalID: -2897569649119737578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_162
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fc0528dc14d21d0800000000000000
+      internalID: -3373968194920198319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_163
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 11
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f11460bdb6a6cf90800000000000000
+      internalID: -6933671242651921933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_164
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 7
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8259874af992826e0800000000000000
+      internalID: -1862192680281795288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_165
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 9
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27e328853a5807c0800000000000000
+      internalID: -4104931874384386258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_166
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 11
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb823b123bdfafd0800000000000000
+      internalID: -2328401474076111942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_167
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0b0daf5e951fa50800000000000000
+      internalID: 6553117777091145950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_168
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 8
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fba0a292cf24ee0800000000000000
+      internalID: -1278182090490593482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_169
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddf73d15125f5e30800000000000000
+      internalID: 4494401203777043923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_170
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4627c0313140cb120800000000000000
+      internalID: 2430822378843697764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_171
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 8
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730aaba21f2d73d00800000000000000
+      internalID: 952461779457974327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_172
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6c99faff62c7d50800000000000000
+      internalID: 6736302022244026095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_173
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 8
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046b4daca1af05a00800000000000000
+      internalID: 743368931495163456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peasantAlpha_174
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de021c9e6ed576460800000000000000
+      internalID: 7234854572739600621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      peasantAlpha_0: -4546199711906858595
+      peasantAlpha_1: -8475125438095725196
+      peasantAlpha_10: 2851049695510339250
+      peasantAlpha_100: 493667927032392433
+      peasantAlpha_101: 1707970762847667955
+      peasantAlpha_102: -7881564512237426543
+      peasantAlpha_103: 5130836020024708559
+      peasantAlpha_104: -2610782058496433377
+      peasantAlpha_105: 1507256766480355299
+      peasantAlpha_106: 4680263507486961416
+      peasantAlpha_107: 1930986145865130157
+      peasantAlpha_108: -1115703416961192748
+      peasantAlpha_109: 6588667615790097139
+      peasantAlpha_11: 8685906322211990416
+      peasantAlpha_110: -5824211609925893033
+      peasantAlpha_111: 3058838214990136536
+      peasantAlpha_112: -8877868418573083040
+      peasantAlpha_113: 3305628963418894681
+      peasantAlpha_114: 1377102878691046198
+      peasantAlpha_115: -7315758342141978734
+      peasantAlpha_116: -5871209590206321651
+      peasantAlpha_117: 5117023754192859209
+      peasantAlpha_118: -7625365307312988932
+      peasantAlpha_119: -9029409797913339835
+      peasantAlpha_12: 7114544463743103644
+      peasantAlpha_120: 1811706192072925830
+      peasantAlpha_121: -7543213532418819281
+      peasantAlpha_122: 3059545271192226943
+      peasantAlpha_123: -7969796019122959620
+      peasantAlpha_124: -4067370980396369955
+      peasantAlpha_125: -820895643025575145
+      peasantAlpha_126: -3015170042238576376
+      peasantAlpha_127: 3479711869101485651
+      peasantAlpha_128: -5480396193498203169
+      peasantAlpha_129: -4221520783498395204
+      peasantAlpha_13: -4714902921690992376
+      peasantAlpha_130: 653922447336987053
+      peasantAlpha_131: 6295578756766146789
+      peasantAlpha_132: -2777442691193415226
+      peasantAlpha_133: -5960789598280174793
+      peasantAlpha_134: 2983609417204372703
+      peasantAlpha_135: -1435462834875401900
+      peasantAlpha_136: -2597650163006273875
+      peasantAlpha_137: 661665080819486019
+      peasantAlpha_138: -3881200562909284759
+      peasantAlpha_139: -532469838727455487
+      peasantAlpha_14: -7810640313084226023
+      peasantAlpha_140: 1313066927053847128
+      peasantAlpha_141: 872286859434314118
+      peasantAlpha_142: -4817647529376470821
+      peasantAlpha_143: 4061538612435203510
+      peasantAlpha_144: -6308413395345531826
+      peasantAlpha_145: -3209121020381003338
+      peasantAlpha_146: 4091144901857426172
+      peasantAlpha_147: 545941029497722787
+      peasantAlpha_148: 7019309530003518081
+      peasantAlpha_149: 3464807901886554604
+      peasantAlpha_15: 2418724174741213031
+      peasantAlpha_150: -6453780751472802096
+      peasantAlpha_151: -773633023038145246
+      peasantAlpha_152: 7290134165813762995
+      peasantAlpha_153: -3672137610770590444
+      peasantAlpha_154: 7857495882967252962
+      peasantAlpha_155: 4095350064702150577
+      peasantAlpha_156: -70433944539147581
+      peasantAlpha_157: 6530889544092742332
+      peasantAlpha_158: -1831996489874151599
+      peasantAlpha_159: -8997169260262073240
+      peasantAlpha_16: 7153198375185332307
+      peasantAlpha_160: -9015406036275799165
+      peasantAlpha_161: -2897569649119737578
+      peasantAlpha_162: -3373968194920198319
+      peasantAlpha_163: -6933671242651921933
+      peasantAlpha_164: -1862192680281795288
+      peasantAlpha_165: -4104931874384386258
+      peasantAlpha_166: -2328401474076111942
+      peasantAlpha_167: 6553117777091145950
+      peasantAlpha_168: -1278182090490593482
+      peasantAlpha_169: 4494401203777043923
+      peasantAlpha_17: -4018435711580097856
+      peasantAlpha_170: 2430822378843697764
+      peasantAlpha_171: 952461779457974327
+      peasantAlpha_172: 6736302022244026095
+      peasantAlpha_173: 743368931495163456
+      peasantAlpha_174: 7234854572739600621
+      peasantAlpha_18: 3867774232929735338
+      peasantAlpha_19: 1125413202933686890
+      peasantAlpha_2: -1498337989704591644
+      peasantAlpha_20: -2122981982337800749
+      peasantAlpha_21: -6578056393865794116
+      peasantAlpha_22: -3914647096999449838
+      peasantAlpha_23: -4571338016123481676
+      peasantAlpha_24: -5083010520607761723
+      peasantAlpha_25: 2168624216958670132
+      peasantAlpha_26: -1370462692047310977
+      peasantAlpha_27: -7810602265122098473
+      peasantAlpha_28: -1631808286074449196
+      peasantAlpha_29: -1208104876505525505
+      peasantAlpha_3: 8211845876299773148
+      peasantAlpha_30: 9065351510696345545
+      peasantAlpha_31: 6382511978939067089
+      peasantAlpha_32: 8724604993188550451
+      peasantAlpha_33: 8003578223522559040
+      peasantAlpha_34: -5912051779893031439
+      peasantAlpha_35: 7600330293239432125
+      peasantAlpha_36: 5892907237437685241
+      peasantAlpha_37: -4184815459048583808
+      peasantAlpha_38: 4724604015030115593
+      peasantAlpha_39: -661390800191760427
+      peasantAlpha_4: 4958928456878820409
+      peasantAlpha_40: -1101664468095966204
+      peasantAlpha_41: 5333682027382027448
+      peasantAlpha_42: -734521609238307559
+      peasantAlpha_43: 6097851649284495330
+      peasantAlpha_44: -854259671542753352
+      peasantAlpha_45: 1985001939352529786
+      peasantAlpha_46: -7319561554642108772
+      peasantAlpha_47: 8220331383413827091
+      peasantAlpha_48: 3971743851391568232
+      peasantAlpha_49: 4191701449511142209
+      peasantAlpha_5: -5534651635644064675
+      peasantAlpha_50: -2268071910904630406
+      peasantAlpha_51: -5175052267413138
+      peasantAlpha_52: 7146202649476970835
+      peasantAlpha_53: 1674170738632288513
+      peasantAlpha_54: -3547880054620329932
+      peasantAlpha_55: 7655341806140577699
+      peasantAlpha_56: 8760984606297442975
+      peasantAlpha_57: 7093782772345545036
+      peasantAlpha_58: 1239034004230941585
+      peasantAlpha_59: 5978410474375443348
+      peasantAlpha_6: 7148916577888938455
+      peasantAlpha_60: 5127518346397042377
+      peasantAlpha_61: 5070012848441334857
+      peasantAlpha_62: 3802517311851128533
+      peasantAlpha_63: 572634960925180710
+      peasantAlpha_64: 1124111491046720057
+      peasantAlpha_65: 4993538326192680619
+      peasantAlpha_66: -1956759937397861993
+      peasantAlpha_67: 1480460872278567146
+      peasantAlpha_68: -441479010061934413
+      peasantAlpha_69: -583494102955499336
+      peasantAlpha_7: -2888912932719840650
+      peasantAlpha_70: 1389614684913993657
+      peasantAlpha_71: -1312927941394117950
+      peasantAlpha_72: -5350850182161321188
+      peasantAlpha_73: -8091671422247959378
+      peasantAlpha_74: 7711425435063466972
+      peasantAlpha_75: 8369119943449118423
+      peasantAlpha_76: 3423063808011754941
+      peasantAlpha_77: 1638714626737278175
+      peasantAlpha_78: 2144492208316993860
+      peasantAlpha_79: 4856337893531671613
+      peasantAlpha_8: 7704350055476695624
+      peasantAlpha_80: -2460135866851408193
+      peasantAlpha_81: 3226611944016087669
+      peasantAlpha_82: 990638431009226687
+      peasantAlpha_83: 1570172849713265196
+      peasantAlpha_84: 6102856311838586388
+      peasantAlpha_85: 630582725739628287
+      peasantAlpha_86: -8434522474010000152
+      peasantAlpha_87: 5892648810106051305
+      peasantAlpha_88: 6650564260480508137
+      peasantAlpha_89: -7809306909238180524
+      peasantAlpha_9: -1079455705598558492
+      peasantAlpha_90: 1447960160278716681
+      peasantAlpha_91: 991658299230148502
+      peasantAlpha_92: -1968367997725222809
+      peasantAlpha_93: 3387685275897731332
+      peasantAlpha_94: -3718557055153994694
+      peasantAlpha_95: 1317631148210426802
+      peasantAlpha_96: -650229507550040806
+      peasantAlpha_97: 7396369814118667372
+      peasantAlpha_98: 6126730148143804823
+      peasantAlpha_99: -3742249449078429270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

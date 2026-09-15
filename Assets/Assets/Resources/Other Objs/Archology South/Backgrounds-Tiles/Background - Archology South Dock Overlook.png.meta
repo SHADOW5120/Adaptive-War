@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 220538dec83cd594dac2dbd08b02db66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1540756002272916960
+    second: Background - Archology South Dock Overlook_0
+  - first:
+      213: -3772112575344189625
+    second: Background - Archology South Dock Overlook_1
+  - first:
+      213: -8320524885898165895
+    second: Background - Archology South Dock Overlook_2
+  - first:
+      213: 2430255032783007069
+    second: Background - Archology South Dock Overlook_3
+  - first:
+      213: -43071517191309090
+    second: Background - Archology South Dock Overlook_4
+  - first:
+      213: -4074385446603355596
+    second: Background - Archology South Dock Overlook_5
+  - first:
+      213: 4266362697949518026
+    second: Background - Archology South Dock Overlook_6
+  - first:
+      213: 4394569530833957512
+    second: Background - Archology South Dock Overlook_7
+  - first:
+      213: 3059105481848713766
+    second: Background - Archology South Dock Overlook_8
+  - first:
+      213: 6805836461999730876
+    second: Background - Archology South Dock Overlook_9
+  - first:
+      213: -4930198496906592230
+    second: Background - Archology South Dock Overlook_10
+  - first:
+      213: 7574703785909273144
+    second: Background - Archology South Dock Overlook_11
+  - first:
+      213: 8641183621310046238
+    second: Background - Archology South Dock Overlook_12
+  - first:
+      213: 5185968087461267823
+    second: Background - Archology South Dock Overlook_13
+  - first:
+      213: -5954392193139820405
+    second: Background - Archology South Dock Overlook_14
+  - first:
+      213: -7795376390815264403
+    second: Background - Archology South Dock Overlook_15
+  - first:
+      213: 7908431291294925973
+    second: Background - Archology South Dock Overlook_16
+  - first:
+      213: -352157798301065815
+    second: Background - Archology South Dock Overlook_17
+  - first:
+      213: -2575050027083925765
+    second: Background - Archology South Dock Overlook_18
+  - first:
+      213: -5600001277012371993
+    second: Background - Archology South Dock Overlook_19
+  - first:
+      213: 5692270201890384044
+    second: Background - Archology South Dock Overlook_20
+  - first:
+      213: 673267779186806238
+    second: Background - Archology South Dock Overlook_21
+  - first:
+      213: -5437172994919511112
+    second: Background - Archology South Dock Overlook_22
+  - first:
+      213: 281798369212342774
+    second: Background - Archology South Dock Overlook_23
+  - first:
+      213: -5924986538886080111
+    second: Background - Archology South Dock Overlook_24
+  - first:
+      213: -7403224945748496182
+    second: Background - Archology South Dock Overlook_25
+  - first:
+      213: -6432512305465178482
+    second: Background - Archology South Dock Overlook_26
+  - first:
+      213: -9095951625956331355
+    second: Background - Archology South Dock Overlook_27
+  - first:
+      213: -2307956248539023049
+    second: Background - Archology South Dock Overlook_28
+  - first:
+      213: -735999997749657443
+    second: Background - Archology South Dock Overlook_29
+  - first:
+      213: 3867477840235384563
+    second: Background - Archology South Dock Overlook_30
+  - first:
+      213: 7011862469075604339
+    second: Background - Archology South Dock Overlook_31
+  - first:
+      213: 6806723513752575786
+    second: Background - Archology South Dock Overlook_32
+  - first:
+      213: 7558638535153243063
+    second: Background - Archology South Dock Overlook_33
+  - first:
+      213: 7584215629170996188
+    second: Background - Archology South Dock Overlook_34
+  - first:
+      213: 475926578245655388
+    second: Background - Archology South Dock Overlook_35
+  - first:
+      213: -8918439161189880402
+    second: Background - Archology South Dock Overlook_36
+  - first:
+      213: -4835469357838479753
+    second: Background - Archology South Dock Overlook_37
+  - first:
+      213: 5099570034827872061
+    second: Background - Archology South Dock Overlook_38
+  - first:
+      213: 6223342910286030475
+    second: Background - Archology South Dock Overlook_39
+  - first:
+      213: -2401076770714540006
+    second: Background - Archology South Dock Overlook_40
+  - first:
+      213: -7341348332270628780
+    second: Background - Archology South Dock Overlook_41
+  - first:
+      213: 1936160278350636358
+    second: Background - Archology South Dock Overlook_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5284
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 294
+        width: 5226
+        height: 3239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ac8f644922e9ae0800000000000000
+      internalID: -1540756002272916960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_1
+      rect:
+        serializedVersion: 2
+        x: 5221
+        y: 2353
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f53d52993c6abc0800000000000000
+      internalID: -3772112575344189625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_2
+      rect:
+        serializedVersion: 2
+        x: 5237
+        y: 2274
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9710e3743be878c80800000000000000
+      internalID: -8320524885898165895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_3
+      rect:
+        serializedVersion: 2
+        x: 5247
+        y: 2336
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5de2a683100ab120800000000000000
+      internalID: 2430255032783007069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_4
+      rect:
+        serializedVersion: 2
+        x: 5235
+        y: 2329
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8ffddeeaaf66ff0800000000000000
+      internalID: -43071517191309090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_5
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 2326
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a8f29f500e477c0800000000000000
+      internalID: -4074385446603355596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_6
+      rect:
+        serializedVersion: 2
+        x: 5273
+        y: 2338
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac81246054a253b30800000000000000
+      internalID: 4266362697949518026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_7
+      rect:
+        serializedVersion: 2
+        x: 5254
+        y: 2311
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882fc1274b5acfc30800000000000000
+      internalID: 4394569530833957512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_8
+      rect:
+        serializedVersion: 2
+        x: 5264
+        y: 2322
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622fa085a30247a20800000000000000
+      internalID: 3059105481848713766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_9
+      rect:
+        serializedVersion: 2
+        x: 5258
+        y: 2292
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb035ec0430337e50800000000000000
+      internalID: 6805836461999730876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_10
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 2302
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10c7bf969a649bb0800000000000000
+      internalID: -4930198496906592230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_11
+      rect:
+        serializedVersion: 2
+        x: 5275
+        y: 2295
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832cde5f5f0ce1960800000000000000
+      internalID: 7574703785909273144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_12
+      rect:
+        serializedVersion: 2
+        x: 5217
+        y: 2251
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10eb1b78b6abe770800000000000000
+      internalID: 8641183621310046238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_13
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 2245
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6904a5cf7248f740800000000000000
+      internalID: 5185968087461267823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_14
+      rect:
+        serializedVersion: 2
+        x: 5262
+        y: 2256
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88ba8a19dfbd5da0800000000000000
+      internalID: -5954392193139820405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_15
+      rect:
+        serializedVersion: 2
+        x: 5243
+        y: 2206
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d615df6697241d390800000000000000
+      internalID: -7795376390815264403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_16
+      rect:
+        serializedVersion: 2
+        x: 5252
+        y: 2217
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594c738db5460cd60800000000000000
+      internalID: 7908431291294925973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_17
+      rect:
+        serializedVersion: 2
+        x: 5260
+        y: 2228
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad91672952ec1bf0800000000000000
+      internalID: -352157798301065815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_18
+      rect:
+        serializedVersion: 2
+        x: 5267
+        y: 2198
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf67dc0c4a5934cd0800000000000000
+      internalID: -2575050027083925765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_19
+      rect:
+        serializedVersion: 2
+        x: 5234
+        y: 2133
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e591f5328cc842b0800000000000000
+      internalID: -5600001277012371993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_20
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 2139
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8a735f6910ffe40800000000000000
+      internalID: 5692270201890384044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_21
+      rect:
+        serializedVersion: 2
+        x: 5276
+        y: 2168
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd45216a7de75900800000000000000
+      internalID: 673267779186806238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_22
+      rect:
+        serializedVersion: 2
+        x: 5264
+        y: 2136
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbc97fe7f74b84b0800000000000000
+      internalID: -5437172994919511112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_23
+      rect:
+        serializedVersion: 2
+        x: 5266
+        y: 2142
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1af2faf1629e300800000000000000
+      internalID: 281798369212342774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_24
+      rect:
+        serializedVersion: 2
+        x: 5223
+        y: 2113
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19959b2822836cda0800000000000000
+      internalID: -5924986538886080111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_25
+      rect:
+        serializedVersion: 2
+        x: 5228
+        y: 2131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0b954c226724990800000000000000
+      internalID: -7403224945748496182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_26
+      rect:
+        serializedVersion: 2
+        x: 5245
+        y: 2120
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e864b6b93202bb6a0800000000000000
+      internalID: -6432512305465178482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_27
+      rect:
+        serializedVersion: 2
+        x: 5247
+        y: 2131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a07cb84030b4c180800000000000000
+      internalID: -9095951625956331355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_28
+      rect:
+        serializedVersion: 2
+        x: 5254
+        y: 2127
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73930b0250e78ffd0800000000000000
+      internalID: -2307956248539023049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_29
+      rect:
+        serializedVersion: 2
+        x: 5272
+        y: 2120
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90817bc6e339c5f0800000000000000
+      internalID: -735999997749657443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_30
+      rect:
+        serializedVersion: 2
+        x: 5234
+        y: 2089
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3feccebda9a0ca530800000000000000
+      internalID: 3867477840235384563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_31
+      rect:
+        serializedVersion: 2
+        x: 5239
+        y: 2118
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3731523e3c32f4160800000000000000
+      internalID: 7011862469075604339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_32
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 2111
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f5581e8f6567e50800000000000000
+      internalID: 6806723513752575786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_33
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 2110
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3536943bda5e860800000000000000
+      internalID: 7558638535153243063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_34
+      rect:
+        serializedVersion: 2
+        x: 5219
+        y: 2072
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3f3bc8eeb804960800000000000000
+      internalID: 7584215629170996188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_35
+      rect:
+        serializedVersion: 2
+        x: 5228
+        y: 2086
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bdf7b83b4da9600800000000000000
+      internalID: 475926578245655388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_36
+      rect:
+        serializedVersion: 2
+        x: 5232
+        y: 2078
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead2856b5d65b3480800000000000000
+      internalID: -8918439161189880402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_37
+      rect:
+        serializedVersion: 2
+        x: 5238
+        y: 2065
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e40cb0d36f4ecb0800000000000000
+      internalID: -4835469357838479753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_38
+      rect:
+        serializedVersion: 2
+        x: 5259
+        y: 2073
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3744219def45c640800000000000000
+      internalID: 5099570034827872061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_39
+      rect:
+        serializedVersion: 2
+        x: 5234
+        y: 2057
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b866b0b7761cd5650800000000000000
+      internalID: 6223342910286030475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_40
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 2063
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a182e130669adaed0800000000000000
+      internalID: -2401076770714540006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_41
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 0
+        width: 50
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4505a92869a4e1a90800000000000000
+      internalID: -7341348332270628780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background - Archology South Dock Overlook_42
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 0
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645af43d38f9eda10800000000000000
+      internalID: 1936160278350636358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Background - Archology South Dock Overlook_0: -1540756002272916960
+      Background - Archology South Dock Overlook_1: -3772112575344189625
+      Background - Archology South Dock Overlook_10: -4930198496906592230
+      Background - Archology South Dock Overlook_11: 7574703785909273144
+      Background - Archology South Dock Overlook_12: 8641183621310046238
+      Background - Archology South Dock Overlook_13: 5185968087461267823
+      Background - Archology South Dock Overlook_14: -5954392193139820405
+      Background - Archology South Dock Overlook_15: -7795376390815264403
+      Background - Archology South Dock Overlook_16: 7908431291294925973
+      Background - Archology South Dock Overlook_17: -352157798301065815
+      Background - Archology South Dock Overlook_18: -2575050027083925765
+      Background - Archology South Dock Overlook_19: -5600001277012371993
+      Background - Archology South Dock Overlook_2: -8320524885898165895
+      Background - Archology South Dock Overlook_20: 5692270201890384044
+      Background - Archology South Dock Overlook_21: 673267779186806238
+      Background - Archology South Dock Overlook_22: -5437172994919511112
+      Background - Archology South Dock Overlook_23: 281798369212342774
+      Background - Archology South Dock Overlook_24: -5924986538886080111
+      Background - Archology South Dock Overlook_25: -7403224945748496182
+      Background - Archology South Dock Overlook_26: -6432512305465178482
+      Background - Archology South Dock Overlook_27: -9095951625956331355
+      Background - Archology South Dock Overlook_28: -2307956248539023049
+      Background - Archology South Dock Overlook_29: -735999997749657443
+      Background - Archology South Dock Overlook_3: 2430255032783007069
+      Background - Archology South Dock Overlook_30: 3867477840235384563
+      Background - Archology South Dock Overlook_31: 7011862469075604339
+      Background - Archology South Dock Overlook_32: 6806723513752575786
+      Background - Archology South Dock Overlook_33: 7558638535153243063
+      Background - Archology South Dock Overlook_34: 7584215629170996188
+      Background - Archology South Dock Overlook_35: 475926578245655388
+      Background - Archology South Dock Overlook_36: -8918439161189880402
+      Background - Archology South Dock Overlook_37: -4835469357838479753
+      Background - Archology South Dock Overlook_38: 5099570034827872061
+      Background - Archology South Dock Overlook_39: 6223342910286030475
+      Background - Archology South Dock Overlook_4: -43071517191309090
+      Background - Archology South Dock Overlook_40: -2401076770714540006
+      Background - Archology South Dock Overlook_41: -7341348332270628780
+      Background - Archology South Dock Overlook_42: 1936160278350636358
+      Background - Archology South Dock Overlook_5: -4074385446603355596
+      Background - Archology South Dock Overlook_6: 4266362697949518026
+      Background - Archology South Dock Overlook_7: 4394569530833957512
+      Background - Archology South Dock Overlook_8: 3059105481848713766
+      Background - Archology South Dock Overlook_9: 6805836461999730876
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

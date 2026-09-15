@@ -1,0 +1,2674 @@
+fileFormatVersion: 2
+guid: a65937188a2844b43bad6c124b286d1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5136968688501792736
+    second: pikeman_0
+  - first:
+      213: 3560127773357592636
+    second: pikeman_1
+  - first:
+      213: -931459686592054634
+    second: pikeman_2
+  - first:
+      213: -8867825156806261082
+    second: pikeman_3
+  - first:
+      213: 2619081181776711249
+    second: pikeman_4
+  - first:
+      213: 5532620529324635365
+    second: pikeman_5
+  - first:
+      213: 536980533724450509
+    second: pikeman_6
+  - first:
+      213: 8865696167726098679
+    second: pikeman_7
+  - first:
+      213: -3105796105685384559
+    second: pikeman_8
+  - first:
+      213: -3728397134672292691
+    second: pikeman_9
+  - first:
+      213: -1737277427844183252
+    second: pikeman_10
+  - first:
+      213: -2575832332003066513
+    second: pikeman_11
+  - first:
+      213: -3514573456094463658
+    second: pikeman_12
+  - first:
+      213: -4663324773316914853
+    second: pikeman_13
+  - first:
+      213: 3294386335760877000
+    second: pikeman_14
+  - first:
+      213: 1608008382790792401
+    second: pikeman_15
+  - first:
+      213: 3245522533946026917
+    second: pikeman_16
+  - first:
+      213: 4272641997231833516
+    second: pikeman_17
+  - first:
+      213: 8117615113824751978
+    second: pikeman_18
+  - first:
+      213: 2863159323794729657
+    second: pikeman_19
+  - first:
+      213: 8415840973986219127
+    second: pikeman_20
+  - first:
+      213: 4562281331228604209
+    second: pikeman_21
+  - first:
+      213: -3616078758841955699
+    second: pikeman_22
+  - first:
+      213: 8993232602634672880
+    second: pikeman_23
+  - first:
+      213: -7219120836309769119
+    second: pikeman_24
+  - first:
+      213: -2153314639606454043
+    second: pikeman_25
+  - first:
+      213: -7723677677071652034
+    second: pikeman_26
+  - first:
+      213: 3065938923803257995
+    second: pikeman_27
+  - first:
+      213: 5433684490010700144
+    second: pikeman_28
+  - first:
+      213: 8958665843438848316
+    second: pikeman_29
+  - first:
+      213: -2216236079332356688
+    second: pikeman_30
+  - first:
+      213: 2530559479440223013
+    second: pikeman_31
+  - first:
+      213: 2461495301906162520
+    second: pikeman_32
+  - first:
+      213: -3825647528383258911
+    second: pikeman_33
+  - first:
+      213: 5380679171826805977
+    second: pikeman_34
+  - first:
+      213: -3434341026284626005
+    second: pikeman_35
+  - first:
+      213: -3885798549048725223
+    second: pikeman_36
+  - first:
+      213: 6560106965748156430
+    second: pikeman_37
+  - first:
+      213: -8106062058935997321
+    second: pikeman_38
+  - first:
+      213: -6104943390720581978
+    second: pikeman_39
+  - first:
+      213: 5124709108941033493
+    second: pikeman_40
+  - first:
+      213: -4465953507919391270
+    second: pikeman_41
+  - first:
+      213: 2080171347170536810
+    second: pikeman_42
+  - first:
+      213: -8143820964357217738
+    second: pikeman_43
+  - first:
+      213: -399603765176864782
+    second: pikeman_44
+  - first:
+      213: -2733095217994201574
+    second: pikeman_45
+  - first:
+      213: -109967502771424160
+    second: pikeman_46
+  - first:
+      213: 1312066871129917358
+    second: pikeman_47
+  - first:
+      213: -7813320169256704637
+    second: pikeman_48
+  - first:
+      213: 3183771305591045346
+    second: pikeman_49
+  - first:
+      213: 7521452200457721956
+    second: pikeman_50
+  - first:
+      213: -2353011690346396283
+    second: pikeman_51
+  - first:
+      213: 13723424565851698
+    second: pikeman_52
+  - first:
+      213: -3994751802456518700
+    second: pikeman_53
+  - first:
+      213: 4180462516257829300
+    second: pikeman_54
+  - first:
+      213: -488294540836164491
+    second: pikeman_55
+  - first:
+      213: 8660366951926919979
+    second: pikeman_56
+  - first:
+      213: -4045165326526229671
+    second: pikeman_57
+  - first:
+      213: 7842596776634697333
+    second: pikeman_58
+  - first:
+      213: 605127308314882059
+    second: pikeman_59
+  - first:
+      213: -9659060246252087
+    second: pikeman_60
+  - first:
+      213: -5068009778993702854
+    second: pikeman_61
+  - first:
+      213: 3652655236936937223
+    second: pikeman_62
+  - first:
+      213: 1301103753299756022
+    second: pikeman_63
+  - first:
+      213: -413538987626815486
+    second: pikeman_64
+  - first:
+      213: -837153253111632554
+    second: pikeman_65
+  - first:
+      213: -8938254253191644737
+    second: pikeman_66
+  - first:
+      213: 4548736092427081610
+    second: pikeman_67
+  - first:
+      213: 5645925671729149490
+    second: pikeman_68
+  - first:
+      213: -7735021283195230369
+    second: pikeman_69
+  - first:
+      213: -7456530571014564618
+    second: pikeman_70
+  - first:
+      213: -4763189716530852856
+    second: pikeman_71
+  - first:
+      213: -2593718102178670820
+    second: pikeman_72
+  - first:
+      213: 6465352765324079028
+    second: pikeman_73
+  - first:
+      213: 1880877096026452779
+    second: pikeman_74
+  - first:
+      213: -1840557690320953800
+    second: pikeman_75
+  - first:
+      213: -2962630611897746277
+    second: pikeman_76
+  - first:
+      213: -5051985239261802937
+    second: pikeman_77
+  - first:
+      213: -2354365462716763053
+    second: pikeman_78
+  - first:
+      213: 4806105495833917778
+    second: pikeman_79
+  - first:
+      213: 5177367274837642777
+    second: pikeman_80
+  - first:
+      213: 455250340313155501
+    second: pikeman_81
+  - first:
+      213: -2618152874156548058
+    second: pikeman_82
+  - first:
+      213: -8948349838570335774
+    second: pikeman_83
+  - first:
+      213: 2621220217250368549
+    second: pikeman_84
+  - first:
+      213: -3730156039024010097
+    second: pikeman_85
+  - first:
+      213: -3947715250960964488
+    second: pikeman_86
+  - first:
+      213: -176902548768040717
+    second: pikeman_87
+  - first:
+      213: 7476154759267245833
+    second: pikeman_88
+  - first:
+      213: -3034135488307099066
+    second: pikeman_89
+  - first:
+      213: 8175047610732773637
+    second: pikeman_90
+  - first:
+      213: -6724455076187750177
+    second: pikeman_91
+  - first:
+      213: 1486770058319162045
+    second: pikeman_92
+  - first:
+      213: -1876075058282216078
+    second: pikeman_93
+  - first:
+      213: 2049250568886762023
+    second: pikeman_94
+  - first:
+      213: -533847506488832956
+    second: pikeman_95
+  - first:
+      213: 4668705844398868314
+    second: pikeman_96
+  - first:
+      213: -2410767085333012415
+    second: pikeman_97
+  - first:
+      213: 3327650921996386865
+    second: pikeman_98
+  - first:
+      213: -5335191708677755701
+    second: pikeman_99
+  - first:
+      213: 5757323940774738621
+    second: pikeman_100
+  - first:
+      213: -6910057279906492475
+    second: pikeman_101
+  - first:
+      213: 6772842522246581534
+    second: pikeman_102
+  - first:
+      213: 1048682430321374104
+    second: pikeman_103
+  - first:
+      213: -9079882617738915486
+    second: pikeman_104
+  - first:
+      213: 3418674644589447020
+    second: pikeman_105
+  - first:
+      213: 494475003877657585
+    second: pikeman_106
+  - first:
+      213: -2952206493714060375
+    second: pikeman_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pikeman_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 713
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef147c2ecd2a4740800000000000000
+      internalID: 5136968688501792736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 713
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c305bf5f85d186130800000000000000
+      internalID: 3560127773357592636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 709
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a7512a95ac213f0800000000000000
+      internalID: -931459686592054634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 708
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a64a4ee0082fe480800000000000000
+      internalID: -8867825156806261082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 710
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4bd6fee01d7cc40800000000000000
+      internalID: 5532620529324635365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 715
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce02fb43fcb37700800000000000000
+      internalID: 536980533724450509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 714
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f82bdb21b7490b70800000000000000
+      internalID: 8865696167726098679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 713
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192c4d7a5eef5e4d0800000000000000
+      internalID: -3105796105685384559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 648
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da416465f82124cc0800000000000000
+      internalID: -3728397134672292691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 649
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b0b054263f3e7e0800000000000000
+      internalID: -1737277427844183252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 645
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dbdf1342ec04cd0800000000000000
+      internalID: -2575832332003066513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 642
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659f87c001ab93fc0800000000000000
+      internalID: -3514573456094463658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 646
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b519a2673da884fb0800000000000000
+      internalID: -4663324773316914853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 650
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c58deffae208bd20800000000000000
+      internalID: 3294386335760877000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 650
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d47814ca1bc05610800000000000000
+      internalID: 1608008382790792401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_16
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 648
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abe0629c896a0d20800000000000000
+      internalID: 3245522533946026917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 585
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca14b6152497b4b30800000000000000
+      internalID: 4272641997231833516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 585
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61ddd2efef87a070800000000000000
+      internalID: 8117615113824751978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 581
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bae12e3c3cfbb720800000000000000
+      internalID: 2863159323794729657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 578
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77440acd6c21bc470800000000000000
+      internalID: 8415840973986219127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_21
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 585
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137f641e2ba705f30800000000000000
+      internalID: 4562281331228604209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_22
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 587
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ac363178b11ddc0800000000000000
+      internalID: -3616078758841955699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_23
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 586
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa508667616ecc70800000000000000
+      internalID: 8993232602634672880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_24
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 585
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164a22119d780db90800000000000000
+      internalID: -7219120836309769119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 520
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8eb987eb3ed12e0800000000000000
+      internalID: -2153314639606454043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 520
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ba782131cffc490800000000000000
+      internalID: -7723677677071652034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 517
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c265805376c8a20800000000000000
+      internalID: 3065938923803257995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 514
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07923a83143586b40800000000000000
+      internalID: 5433684490010700144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_29
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 518
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39099b9e13935c70800000000000000
+      internalID: 8958665843438848316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_30
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 518
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd8df827095e31e0800000000000000
+      internalID: -2216236079332356688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 522
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b2807607a5e1320800000000000000
+      internalID: 2530559479440223013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_32
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 522
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853e86e7fecf82220800000000000000
+      internalID: 2461495301906162520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 457
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee5dd297d198eac0800000000000000
+      internalID: -3825647528383258911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_34
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 457
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc641fd2330caa40800000000000000
+      internalID: 5380679171826805977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 453
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf11c25805c650d0800000000000000
+      internalID: -3434341026284626005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_36
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 450
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911f837beced21ac0800000000000000
+      internalID: -3885798549048725223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 457
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e080cf5478e2a0b50800000000000000
+      internalID: 6560106965748156430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_38
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 457
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c29d1518b718f80800000000000000
+      internalID: -8106062058935997321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_39
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 458
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae1b3ed452e64ba0800000000000000
+      internalID: -6104943390720581978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_40
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 459
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51093af58cf9e1740800000000000000
+      internalID: 5124709108941033493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 393
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad51e0932feb502c0800000000000000
+      internalID: -4465953507919391270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_42
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 392
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dab0ca1d04edc10800000000000000
+      internalID: 2080171347170536810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 393
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632eb111bf55bfe80800000000000000
+      internalID: -8143820964357217738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 386
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff69b52e72547af0800000000000000
+      internalID: -399603765176864782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_45
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 385
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16032a3168121ad0800000000000000
+      internalID: -2733095217994201574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_46
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 392
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064f87c8321597ef0800000000000000
+      internalID: -109967502771424160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_47
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 395
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7c14f1ed5653210800000000000000
+      internalID: 1312066871129917358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_48
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 393
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3852f0be3b2819390800000000000000
+      internalID: -7813320169256704637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 323
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecf5d352270f2c20800000000000000
+      internalID: 3183771305591045346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 322
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468dc5b0de0916860800000000000000
+      internalID: 7521452200457721956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 327
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585cf8c955c685fd0800000000000000
+      internalID: -2353011690346396283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_52
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 326
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2367956c161c03000800000000000000
+      internalID: 13723424565851698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_54
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 325
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1326e628cf30a30800000000000000
+      internalID: 4180462516257829300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 328
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ca2b3c3ba3939f0800000000000000
+      internalID: -488294540836164491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 330
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23f222bbddcf2870800000000000000
+      internalID: 8660366951926919979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_57
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9535da6519facd7c0800000000000000
+      internalID: -4045165326526229671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_58
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 255
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5764feb673086dc60800000000000000
+      internalID: 7842596776634697333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_59
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 258
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b003fffa418d56800800000000000000
+      internalID: 605127308314882059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_61
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 264
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38dfdc15ffcaa9b0800000000000000
+      internalID: -5068009778993702854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 262
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fa89cd596d0b230800000000000000
+      internalID: 3652655236936937223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_63
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 261
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f30c5758f27e0210800000000000000
+      internalID: 1301103753299756022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_64
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 262
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200aab55b70d24af0800000000000000
+      internalID: -413538987626815486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_65
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 264
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65de7bd3d85d164f0800000000000000
+      internalID: -837153253111632554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_67
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 262
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a875d16306b502f30800000000000000
+      internalID: 4548736092427081610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 195
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57ef05ff1fa7a490800000000000000
+      internalID: -7735021283195230369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 194
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f416d9b3f4158890800000000000000
+      internalID: -7456530571014564618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_71
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 199
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c82647030c5edb0800000000000000
+      internalID: -4763189716530852856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 198
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17d320d023410cd0800000000000000
+      internalID: -2593718102178670820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_74
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 197
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2333d6e0c73a1a10800000000000000
+      internalID: 1880877096026452779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_75
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 200
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e5ec748860576e0800000000000000
+      internalID: -1840557690320953800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_76
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 202
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cf229b72f92e6d0800000000000000
+      internalID: -2962630611897746277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_77
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 200
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e8843013eb3e9b0800000000000000
+      internalID: -5051985239261802937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_78
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 133
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354b15be51d935fd0800000000000000
+      internalID: -2354365462716763053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 134
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259bb301c77b2b240800000000000000
+      internalID: 4806105495833917778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 134
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e0e680b14b9d740800000000000000
+      internalID: 5177367274837642777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_81
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 135
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7cd32c5cf515600800000000000000
+      internalID: 455250340313155501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_82
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 134
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6202b3025d37aabd0800000000000000
+      internalID: -2618152874156548058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_84
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 137
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cc74756e1706420800000000000000
+      internalID: 2621220217250368549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_86
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 139
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874641825e5e639c0800000000000000
+      internalID: -3947715250960964488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_87
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 135
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8d1d4b1148b8df0800000000000000
+      internalID: -176902548768040717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_92
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 69
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaecc4ad7112a410800000000000000
+      internalID: 1486770058319162045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_93
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 68
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2754e13aca7d6f5e0800000000000000
+      internalID: -1876075058282216078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_94
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a3346f886607c10800000000000000
+      internalID: 2049250568886762023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_95
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 70
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c418375846798f0800000000000000
+      internalID: -533847506488832956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_96
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 69
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a574f28ca339ac040800000000000000
+      internalID: 4668705844398868314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_97
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 71
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140a582db1c3b8ed0800000000000000
+      internalID: -2410767085333012415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_98
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 74
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132881602e03e2e20800000000000000
+      internalID: 3327650921996386865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_99
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 71
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc27a3786795f5b0800000000000000
+      internalID: -5335191708677755701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_100
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbafabade9f16ef40800000000000000
+      internalID: 5757323940774738621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_101
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf4295d38b8a10a0800000000000000
+      internalID: -6910057279906492475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_102
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d0b22d368fdfd50800000000000000
+      internalID: 6772842522246581534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_103
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893bf7d3d1bad8e00800000000000000
+      internalID: 1048682430321374104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_104
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2619d6fcdd6cdf180800000000000000
+      internalID: -9079882617738915486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_105
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 5
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c678361f972917f20800000000000000
+      internalID: 3418674644589447020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_106
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb007c656abcd600800000000000000
+      internalID: 494475003877657585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pikeman_107
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 4
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab629ed5d7a707d0800000000000000
+      internalID: -2952206493714060375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 87f767765b13f0449beabe379e98a18c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pikeman_0: 5136968688501792736
+      pikeman_1: 3560127773357592636
+      pikeman_10: -1737277427844183252
+      pikeman_100: 5757323940774738621
+      pikeman_101: -6910057279906492475
+      pikeman_102: 6772842522246581534
+      pikeman_103: 1048682430321374104
+      pikeman_104: -9079882617738915486
+      pikeman_105: 3418674644589447020
+      pikeman_106: 494475003877657585
+      pikeman_107: -2952206493714060375
+      pikeman_11: -2575832332003066513
+      pikeman_12: -3514573456094463658
+      pikeman_13: -4663324773316914853
+      pikeman_14: 3294386335760877000
+      pikeman_15: 1608008382790792401
+      pikeman_16: 3245522533946026917
+      pikeman_17: 4272641997231833516
+      pikeman_18: 8117615113824751978
+      pikeman_19: 2863159323794729657
+      pikeman_2: -931459686592054634
+      pikeman_20: 8415840973986219127
+      pikeman_21: 4562281331228604209
+      pikeman_22: -3616078758841955699
+      pikeman_23: 8993232602634672880
+      pikeman_24: -7219120836309769119
+      pikeman_25: -2153314639606454043
+      pikeman_26: -7723677677071652034
+      pikeman_27: 3065938923803257995
+      pikeman_28: 5433684490010700144
+      pikeman_29: 8958665843438848316
+      pikeman_3: -8867825156806261082
+      pikeman_30: -2216236079332356688
+      pikeman_31: 2530559479440223013
+      pikeman_32: 2461495301906162520
+      pikeman_33: -3825647528383258911
+      pikeman_34: 5380679171826805977
+      pikeman_35: -3434341026284626005
+      pikeman_36: -3885798549048725223
+      pikeman_37: 6560106965748156430
+      pikeman_38: -8106062058935997321
+      pikeman_39: -6104943390720581978
+      pikeman_4: 2619081181776711249
+      pikeman_40: 5124709108941033493
+      pikeman_41: -4465953507919391270
+      pikeman_42: 2080171347170536810
+      pikeman_43: -8143820964357217738
+      pikeman_44: -399603765176864782
+      pikeman_45: -2733095217994201574
+      pikeman_46: -109967502771424160
+      pikeman_47: 1312066871129917358
+      pikeman_48: -7813320169256704637
+      pikeman_49: 3183771305591045346
+      pikeman_5: 5532620529324635365
+      pikeman_50: 7521452200457721956
+      pikeman_51: -2353011690346396283
+      pikeman_52: 13723424565851698
+      pikeman_53: -3994751802456518700
+      pikeman_54: 4180462516257829300
+      pikeman_55: -488294540836164491
+      pikeman_56: 8660366951926919979
+      pikeman_57: -4045165326526229671
+      pikeman_58: 7842596776634697333
+      pikeman_59: 605127308314882059
+      pikeman_6: 536980533724450509
+      pikeman_60: -9659060246252087
+      pikeman_61: -5068009778993702854
+      pikeman_62: 3652655236936937223
+      pikeman_63: 1301103753299756022
+      pikeman_64: -413538987626815486
+      pikeman_65: -837153253111632554
+      pikeman_66: -8938254253191644737
+      pikeman_67: 4548736092427081610
+      pikeman_68: 5645925671729149490
+      pikeman_69: -7735021283195230369
+      pikeman_7: 8865696167726098679
+      pikeman_70: -7456530571014564618
+      pikeman_71: -4763189716530852856
+      pikeman_72: -2593718102178670820
+      pikeman_73: 6465352765324079028
+      pikeman_74: 1880877096026452779
+      pikeman_75: -1840557690320953800
+      pikeman_76: -2962630611897746277
+      pikeman_77: -5051985239261802937
+      pikeman_78: -2354365462716763053
+      pikeman_79: 4806105495833917778
+      pikeman_8: -3105796105685384559
+      pikeman_80: 5177367274837642777
+      pikeman_81: 455250340313155501
+      pikeman_82: -2618152874156548058
+      pikeman_83: -8948349838570335774
+      pikeman_84: 2621220217250368549
+      pikeman_85: -3730156039024010097
+      pikeman_86: -3947715250960964488
+      pikeman_87: -176902548768040717
+      pikeman_88: 7476154759267245833
+      pikeman_89: -3034135488307099066
+      pikeman_9: -3728397134672292691
+      pikeman_90: 8175047610732773637
+      pikeman_91: -6724455076187750177
+      pikeman_92: 1486770058319162045
+      pikeman_93: -1876075058282216078
+      pikeman_94: 2049250568886762023
+      pikeman_95: -533847506488832956
+      pikeman_96: 4668705844398868314
+      pikeman_97: -2410767085333012415
+      pikeman_98: 3327650921996386865
+      pikeman_99: -5335191708677755701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

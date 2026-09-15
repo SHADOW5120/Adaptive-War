@@ -1,0 +1,2650 @@
+fileFormatVersion: 2
+guid: ee49183ddd9dbd94abd407dc79b2178f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3863098141252980944
+    second: arcer_0
+  - first:
+      213: -3456937289466006289
+    second: arcer_1
+  - first:
+      213: 8393138914134344029
+    second: arcer_2
+  - first:
+      213: -8730640904956906699
+    second: arcer_3
+  - first:
+      213: -2267463241180311863
+    second: arcer_4
+  - first:
+      213: -6962143028263608029
+    second: arcer_5
+  - first:
+      213: 6591007480053498392
+    second: arcer_6
+  - first:
+      213: -8241504638422522352
+    second: arcer_7
+  - first:
+      213: -3177448186919735183
+    second: arcer_8
+  - first:
+      213: -412356638177346970
+    second: arcer_9
+  - first:
+      213: -2721748759314995043
+    second: arcer_10
+  - first:
+      213: 8864835851554663314
+    second: arcer_11
+  - first:
+      213: 7193993208130266117
+    second: arcer_12
+  - first:
+      213: 8395732914940509438
+    second: arcer_13
+  - first:
+      213: -5166627304995511303
+    second: arcer_14
+  - first:
+      213: 84195628890048421
+    second: arcer_15
+  - first:
+      213: 8487000791635891057
+    second: arcer_16
+  - first:
+      213: -7493395822073377657
+    second: arcer_17
+  - first:
+      213: 1293445022142262387
+    second: arcer_18
+  - first:
+      213: -7778975334768643097
+    second: arcer_19
+  - first:
+      213: -1820909850247189060
+    second: arcer_20
+  - first:
+      213: 4582129191711801110
+    second: arcer_21
+  - first:
+      213: -1628924341914086180
+    second: arcer_22
+  - first:
+      213: 6656996934762312599
+    second: arcer_23
+  - first:
+      213: 6056636274027154066
+    second: arcer_24
+  - first:
+      213: 4670790308034310361
+    second: arcer_25
+  - first:
+      213: 5425494313688311008
+    second: arcer_26
+  - first:
+      213: 2355449413508758980
+    second: arcer_27
+  - first:
+      213: -5400279404317374846
+    second: arcer_28
+  - first:
+      213: 1523628271908249525
+    second: arcer_29
+  - first:
+      213: -5813010981431962758
+    second: arcer_30
+  - first:
+      213: 945162856509512200
+    second: arcer_31
+  - first:
+      213: -7892214637361235764
+    second: arcer_32
+  - first:
+      213: -3843435084908626255
+    second: arcer_33
+  - first:
+      213: -4771063640141656000
+    second: arcer_34
+  - first:
+      213: 1927652221222443605
+    second: arcer_35
+  - first:
+      213: -3977077240828124795
+    second: arcer_36
+  - first:
+      213: -2062346494779359107
+    second: arcer_37
+  - first:
+      213: -6417906560933066821
+    second: arcer_38
+  - first:
+      213: 2615083813783562209
+    second: arcer_39
+  - first:
+      213: -2375799718474945344
+    second: arcer_40
+  - first:
+      213: 2482479139520798477
+    second: arcer_41
+  - first:
+      213: -3614151232805480638
+    second: arcer_42
+  - first:
+      213: 5557847771407240484
+    second: arcer_43
+  - first:
+      213: -6033694202610447844
+    second: arcer_44
+  - first:
+      213: -3956114476858256580
+    second: arcer_45
+  - first:
+      213: 1630342805997262746
+    second: arcer_46
+  - first:
+      213: -5809972412734392632
+    second: arcer_47
+  - first:
+      213: -1006533801145714899
+    second: arcer_48
+  - first:
+      213: 4566537424644577047
+    second: arcer_49
+  - first:
+      213: -6221795154317614323
+    second: arcer_50
+  - first:
+      213: 816986654588531426
+    second: arcer_51
+  - first:
+      213: 5981306509886375469
+    second: arcer_52
+  - first:
+      213: -864062603018100236
+    second: arcer_53
+  - first:
+      213: -4725106009790138939
+    second: arcer_54
+  - first:
+      213: 6892687722505018763
+    second: arcer_55
+  - first:
+      213: -2425544616800132696
+    second: arcer_56
+  - first:
+      213: -5081997076283035827
+    second: arcer_57
+  - first:
+      213: 4220899837447818666
+    second: arcer_58
+  - first:
+      213: 2090326147860270798
+    second: arcer_59
+  - first:
+      213: -3996982432507300070
+    second: arcer_60
+  - first:
+      213: 3765939189585228589
+    second: arcer_61
+  - first:
+      213: -2455034802906170926
+    second: arcer_62
+  - first:
+      213: 8767825758113463518
+    second: arcer_63
+  - first:
+      213: -4279958288547588819
+    second: arcer_64
+  - first:
+      213: -6014332790232244604
+    second: arcer_65
+  - first:
+      213: -6971632943855836175
+    second: arcer_66
+  - first:
+      213: -5946768562065729208
+    second: arcer_67
+  - first:
+      213: 927548678049630875
+    second: arcer_68
+  - first:
+      213: 2413879802678790430
+    second: arcer_69
+  - first:
+      213: 8435661634306120614
+    second: arcer_70
+  - first:
+      213: -5238312322241840032
+    second: arcer_71
+  - first:
+      213: -3063317186424748897
+    second: arcer_72
+  - first:
+      213: -2434455393553677169
+    second: arcer_73
+  - first:
+      213: -5908763873682669557
+    second: arcer_74
+  - first:
+      213: -2701681966077508092
+    second: arcer_75
+  - first:
+      213: 8604338288620129688
+    second: arcer_76
+  - first:
+      213: 2900252169725158104
+    second: arcer_77
+  - first:
+      213: 4061215291976892276
+    second: arcer_78
+  - first:
+      213: -123900472272886050
+    second: arcer_79
+  - first:
+      213: -2382196202093208085
+    second: arcer_80
+  - first:
+      213: -8290852115378696735
+    second: arcer_81
+  - first:
+      213: 4434154057967733378
+    second: arcer_82
+  - first:
+      213: -6348820353716259971
+    second: arcer_83
+  - first:
+      213: -134015305059635386
+    second: arcer_84
+  - first:
+      213: 2741763962540364284
+    second: arcer_85
+  - first:
+      213: -4781125053073405588
+    second: arcer_86
+  - first:
+      213: 6069456892854262148
+    second: arcer_87
+  - first:
+      213: 1414556618203549618
+    second: arcer_88
+  - first:
+      213: 5509840435969633829
+    second: arcer_89
+  - first:
+      213: -2374394865032851423
+    second: arcer_90
+  - first:
+      213: 2592481781091770988
+    second: arcer_91
+  - first:
+      213: -430957743191795604
+    second: arcer_92
+  - first:
+      213: -6396952465879315459
+    second: arcer_93
+  - first:
+      213: 7251569668526814580
+    second: arcer_94
+  - first:
+      213: 7968424879986253933
+    second: arcer_95
+  - first:
+      213: 1671516354606933280
+    second: arcer_96
+  - first:
+      213: -8896719526082116218
+    second: arcer_97
+  - first:
+      213: 6549677365943606039
+    second: arcer_98
+  - first:
+      213: -6105209317277832380
+    second: arcer_99
+  - first:
+      213: -7491270495425179388
+    second: arcer_100
+  - first:
+      213: 1173613118276651626
+    second: arcer_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arcer_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 714
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d01bd9ba4b7c9530800000000000000
+      internalID: 3863098141252980944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 712
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4b392d9dd7600d0800000000000000
+      internalID: -3456937289466006289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 711
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d514c77af5b6a7470800000000000000
+      internalID: 8393138914134344029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 708
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5337c869a5886d680800000000000000
+      internalID: -8730640904956906699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 711
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce0138123a5880e0800000000000000
+      internalID: -2267463241180311863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 712
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321a2e48dcf716f90800000000000000
+      internalID: -6962143028263608029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 714
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8120888e166f77b50800000000000000
+      internalID: 6591007480053498392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 714
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016671c523b40ad80800000000000000
+      internalID: -8241504638422522352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 648
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170b07675bf67e3d0800000000000000
+      internalID: -3177448186919735183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 647
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a3aa482d3074af0800000000000000
+      internalID: -412356638177346970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 647
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d986b218ce76a3ad0800000000000000
+      internalID: -2721748759314995043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 646
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b20143d39360b70800000000000000
+      internalID: 8864835851554663314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 647
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5046d2715b236d360800000000000000
+      internalID: 7193993208130266117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 648
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc75188a92a38470800000000000000
+      internalID: 8395732914940509438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 650
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3a8ee07d37c48b0800000000000000
+      internalID: -5166627304995511303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 648
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7c1a77a7f1b2100800000000000000
+      internalID: 84195628890048421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 585
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1739ae10142e7c570800000000000000
+      internalID: 8487000791635891057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 584
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c8be7933c120890800000000000000
+      internalID: -7493395822073377657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 583
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c6949056d33f110800000000000000
+      internalID: 1293445022142262387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 581
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3f696d5278b0490800000000000000
+      internalID: -7778975334768643097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 580
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbda1088324dab6e0800000000000000
+      internalID: -1820909850247189060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 586
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ffde2093ef69f30800000000000000
+      internalID: 4582129191711801110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 586
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4593201f5e469e0800000000000000
+      internalID: -1628924341914086180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 585
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7933f5f1177626c50800000000000000
+      internalID: 6656996934762312599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 520
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a422f0a9e7d0450800000000000000
+      internalID: 6056636274027154066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 520
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0f8bac90bf1d040800000000000000
+      internalID: 4670790308034310361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 519
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e42b42355a3b4b40800000000000000
+      internalID: 5425494313688311008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 514
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd779a03cc30b020800000000000000
+      internalID: 2355449413508758980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 515
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2860ec16e7a5e05b0800000000000000
+      internalID: -5400279404317374846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 519
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf55dc37d3052510800000000000000
+      internalID: 1523628271908249525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_30
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 522
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a739d40af49045fa0800000000000000
+      internalID: -5813010981431962758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 522
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a942d3c94ed1d00800000000000000
+      internalID: 945162856509512200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 458
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8f1f02a98397290800000000000000
+      internalID: -7892214637361235764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 456
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be7fb6572069aac0800000000000000
+      internalID: -3843435084908626255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 455
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0401390c5e6c9cdb0800000000000000
+      internalID: -4771063640141656000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_35
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 455
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ad4786b7560ca10800000000000000
+      internalID: 1927652221222443605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 455
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581262822559ec8c0800000000000000
+      internalID: -3977077240828124795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_37
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 457
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7087ee2ac21163e0800000000000000
+      internalID: -2062346494779359107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_38
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 458
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb78fe18cf30fe6a0800000000000000
+      internalID: -6417906560933066821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_39
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 459
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e761729fd4aa4420800000000000000
+      internalID: 2615083813783562209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 393
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cce3da5eb6770fd0800000000000000
+      internalID: -2375799718474945344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 392
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f5479ef99837220800000000000000
+      internalID: 2482479139520798477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_42
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 390
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247d6143a94f7ddc0800000000000000
+      internalID: -3614151232805480638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 391
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dcc62f911712d40800000000000000
+      internalID: 5557847771407240484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_44
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 391
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a02123713044ca0800000000000000
+      internalID: -6033694202610447844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_45
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 392
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33551cf7de0919c0800000000000000
+      internalID: -3956114476858256580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_46
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 394
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a979495e42420a610800000000000000
+      internalID: 1630342805997262746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_47
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 395
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6b5288fd4de5fa0800000000000000
+      internalID: -5809972412734392632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 325
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27394837d21802f0800000000000000
+      internalID: -1006533801145714899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 326
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7179779d7999f5f30800000000000000
+      internalID: 4566537424644577047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 327
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03e6a9854eb7a9a0800000000000000
+      internalID: -6221795154317614323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 326
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2fbf4a805865b00800000000000000
+      internalID: 816986654588531426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_52
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 326
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d264286949ed10350800000000000000
+      internalID: 5981306509886375469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_53
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 329
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1286bf3ab3204f0800000000000000
+      internalID: -864062603018100236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 330
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c535686e1d0d6eb0800000000000000
+      internalID: -4725106009790138939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_55
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 331
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d9b9fe6feb7af50800000000000000
+      internalID: 6892687722505018763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 263
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a164c8a50cb65ed0800000000000000
+      internalID: -2425544616800132696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_57
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 262
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f639ea59e1979b0800000000000000
+      internalID: -5081997076283035827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 263
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadc493f906a39a30800000000000000
+      internalID: 4220899837447818666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_59
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 261
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece0ce37e84520d10800000000000000
+      internalID: 2090326147860270798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_60
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 262
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17fce097add788c0800000000000000
+      internalID: -3996982432507300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_61
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 265
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2333f87dbd434430800000000000000
+      internalID: 3765939189585228589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_62
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 266
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d97e85aad6fdedd0800000000000000
+      internalID: -2455034802906170926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_63
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 267
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc7fd4b2139da970800000000000000
+      internalID: 8767825758113463518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 197
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25d1addc988a94c0800000000000000
+      internalID: -4279958288547588819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_65
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 197
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e193d413cc88ca0800000000000000
+      internalID: -6014332790232244604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_66
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 199
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3ef0d56c8cf3f90800000000000000
+      internalID: -6971632943855836175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 198
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8499c980085d87da0800000000000000
+      internalID: -5946768562065729208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_68
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 195
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a080bbb905fdc00800000000000000
+      internalID: 927548678049630875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_69
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 198
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19c82924e2df7120800000000000000
+      internalID: 2413879802678790430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_70
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 202
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab1536ff8d711570800000000000000
+      internalID: 8435661634306120614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_71
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 202
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c393a52b6cd47b0800000000000000
+      internalID: -5238312322241840032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_73
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 133
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8403b5c7b3173ed0800000000000000
+      internalID: -2434455393553677169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_74
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 133
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00cb77109adffda0800000000000000
+      internalID: -5908763873682669557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_75
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 134
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4060fd3e092b18ad0800000000000000
+      internalID: -2701681966077508092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_76
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 132
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dce74f510c86770800000000000000
+      internalID: 8604338288620129688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_77
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 131
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2268f6bf3cf3820800000000000000
+      internalID: 2900252169725158104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_78
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 133
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fbaa27ac55c5830800000000000000
+      internalID: 4061215291976892276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_79
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 139
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6ebaa4d21d74ef0800000000000000
+      internalID: -123900472272886050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_80
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 137
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed13f4fc2db0fed0800000000000000
+      internalID: -2382196202093208085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_86
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 70
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69c6d0881806adb0800000000000000
+      internalID: -4781125053073405588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_87
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 70
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489df1ef2ea0b3450800000000000000
+      internalID: 6069456892854262148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_88
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 72
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf43b6efb381a310800000000000000
+      internalID: 1414556618203549618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_89
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 68
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ead032fa2e67c40800000000000000
+      internalID: 5509840435969633829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_90
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 66
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120943943747c0fd0800000000000000
+      internalID: -2374394865032851423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_91
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 69
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62a5a0c1785af320800000000000000
+      internalID: 2592481781091770988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_92
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 74
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6859d3473ee40af0800000000000000
+      internalID: -430957743191795604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_93
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 70
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb4432ff957937a0800000000000000
+      internalID: -6396952465879315459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_94
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475b98c6130c2a460800000000000000
+      internalID: 7251569668526814580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_95
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 5
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6027f6b538859e60800000000000000
+      internalID: 7968424879986253933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_96
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 5
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0252a98b44b623710800000000000000
+      internalID: 1671516354606933280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_97
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68508955ab0888480800000000000000
+      internalID: -8896719526082116218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_98
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b1c76dcd025ea50800000000000000
+      internalID: 6549677365943606039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_99
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 5
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bef340970f54ba0800000000000000
+      internalID: -6105209317277832380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_100
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 9
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40151d3cc29a90890800000000000000
+      internalID: -7491270495425179388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcer_101
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 6
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a4e9ab9e2894010800000000000000
+      internalID: 1173613118276651626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d476c26e151cd4d429f9c257c637c27b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arcer_0: 3863098141252980944
+      arcer_1: -3456937289466006289
+      arcer_10: -2721748759314995043
+      arcer_100: -7491270495425179388
+      arcer_101: 1173613118276651626
+      arcer_11: 8864835851554663314
+      arcer_12: 7193993208130266117
+      arcer_13: 8395732914940509438
+      arcer_14: -5166627304995511303
+      arcer_15: 84195628890048421
+      arcer_16: 8487000791635891057
+      arcer_17: -7493395822073377657
+      arcer_18: 1293445022142262387
+      arcer_19: -7778975334768643097
+      arcer_2: 8393138914134344029
+      arcer_20: -1820909850247189060
+      arcer_21: 4582129191711801110
+      arcer_22: -1628924341914086180
+      arcer_23: 6656996934762312599
+      arcer_24: 6056636274027154066
+      arcer_25: 4670790308034310361
+      arcer_26: 5425494313688311008
+      arcer_27: 2355449413508758980
+      arcer_28: -5400279404317374846
+      arcer_29: 1523628271908249525
+      arcer_3: -8730640904956906699
+      arcer_30: -5813010981431962758
+      arcer_31: 945162856509512200
+      arcer_32: -7892214637361235764
+      arcer_33: -3843435084908626255
+      arcer_34: -4771063640141656000
+      arcer_35: 1927652221222443605
+      arcer_36: -3977077240828124795
+      arcer_37: -2062346494779359107
+      arcer_38: -6417906560933066821
+      arcer_39: 2615083813783562209
+      arcer_4: -2267463241180311863
+      arcer_40: -2375799718474945344
+      arcer_41: 2482479139520798477
+      arcer_42: -3614151232805480638
+      arcer_43: 5557847771407240484
+      arcer_44: -6033694202610447844
+      arcer_45: -3956114476858256580
+      arcer_46: 1630342805997262746
+      arcer_47: -5809972412734392632
+      arcer_48: -1006533801145714899
+      arcer_49: 4566537424644577047
+      arcer_5: -6962143028263608029
+      arcer_50: -6221795154317614323
+      arcer_51: 816986654588531426
+      arcer_52: 5981306509886375469
+      arcer_53: -864062603018100236
+      arcer_54: -4725106009790138939
+      arcer_55: 6892687722505018763
+      arcer_56: -2425544616800132696
+      arcer_57: -5081997076283035827
+      arcer_58: 4220899837447818666
+      arcer_59: 2090326147860270798
+      arcer_6: 6591007480053498392
+      arcer_60: -3996982432507300070
+      arcer_61: 3765939189585228589
+      arcer_62: -2455034802906170926
+      arcer_63: 8767825758113463518
+      arcer_64: -4279958288547588819
+      arcer_65: -6014332790232244604
+      arcer_66: -6971632943855836175
+      arcer_67: -5946768562065729208
+      arcer_68: 927548678049630875
+      arcer_69: 2413879802678790430
+      arcer_7: -8241504638422522352
+      arcer_70: 8435661634306120614
+      arcer_71: -5238312322241840032
+      arcer_72: -3063317186424748897
+      arcer_73: -2434455393553677169
+      arcer_74: -5908763873682669557
+      arcer_75: -2701681966077508092
+      arcer_76: 8604338288620129688
+      arcer_77: 2900252169725158104
+      arcer_78: 4061215291976892276
+      arcer_79: -123900472272886050
+      arcer_8: -3177448186919735183
+      arcer_80: -2382196202093208085
+      arcer_81: -8290852115378696735
+      arcer_82: 4434154057967733378
+      arcer_83: -6348820353716259971
+      arcer_84: -134015305059635386
+      arcer_85: 2741763962540364284
+      arcer_86: -4781125053073405588
+      arcer_87: 6069456892854262148
+      arcer_88: 1414556618203549618
+      arcer_89: 5509840435969633829
+      arcer_9: -412356638177346970
+      arcer_90: -2374394865032851423
+      arcer_91: 2592481781091770988
+      arcer_92: -430957743191795604
+      arcer_93: -6396952465879315459
+      arcer_94: 7251569668526814580
+      arcer_95: 7968424879986253933
+      arcer_96: 1671516354606933280
+      arcer_97: -8896719526082116218
+      arcer_98: 6549677365943606039
+      arcer_99: -6105209317277832380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

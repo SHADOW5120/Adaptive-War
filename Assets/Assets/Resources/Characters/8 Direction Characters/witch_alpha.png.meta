@@ -1,0 +1,4056 @@
+fileFormatVersion: 2
+guid: 291c7a7d90052334b88984702c518f05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2439079364929677676
+    second: witch_alpha_0
+  - first:
+      213: 3207582358141052907
+    second: witch_alpha_1
+  - first:
+      213: -3494437262642950507
+    second: witch_alpha_2
+  - first:
+      213: 2458915957400304304
+    second: witch_alpha_3
+  - first:
+      213: 4549417974384635527
+    second: witch_alpha_4
+  - first:
+      213: 5865787066095550911
+    second: witch_alpha_5
+  - first:
+      213: -2501409188306233860
+    second: witch_alpha_6
+  - first:
+      213: 6171518846268524392
+    second: witch_alpha_7
+  - first:
+      213: 2064390861321210602
+    second: witch_alpha_8
+  - first:
+      213: 6648855421623430943
+    second: witch_alpha_9
+  - first:
+      213: 120969281083788838
+    second: witch_alpha_10
+  - first:
+      213: -8784059445859675384
+    second: witch_alpha_11
+  - first:
+      213: 8416227971002525257
+    second: witch_alpha_12
+  - first:
+      213: -4399669768788122196
+    second: witch_alpha_13
+  - first:
+      213: -2562822171370367721
+    second: witch_alpha_14
+  - first:
+      213: 2583705719917747796
+    second: witch_alpha_15
+  - first:
+      213: 6027465332282461999
+    second: witch_alpha_16
+  - first:
+      213: -6084875389908553465
+    second: witch_alpha_17
+  - first:
+      213: -897983903484451269
+    second: witch_alpha_18
+  - first:
+      213: -7625933032589601316
+    second: witch_alpha_19
+  - first:
+      213: -8890728718844033780
+    second: witch_alpha_20
+  - first:
+      213: -6817112739370205747
+    second: witch_alpha_21
+  - first:
+      213: 6825653429531983142
+    second: witch_alpha_22
+  - first:
+      213: -2316191622585038302
+    second: witch_alpha_23
+  - first:
+      213: -6026199753046656090
+    second: witch_alpha_24
+  - first:
+      213: 1034744392449742026
+    second: witch_alpha_25
+  - first:
+      213: 8985941564410426967
+    second: witch_alpha_26
+  - first:
+      213: -4832743653972236939
+    second: witch_alpha_27
+  - first:
+      213: -7009279717240890578
+    second: witch_alpha_28
+  - first:
+      213: 5085963887262198023
+    second: witch_alpha_29
+  - first:
+      213: 1116965598866210183
+    second: witch_alpha_30
+  - first:
+      213: 3242135754257653335
+    second: witch_alpha_31
+  - first:
+      213: -7666975340622740085
+    second: witch_alpha_32
+  - first:
+      213: 6967124628778937135
+    second: witch_alpha_33
+  - first:
+      213: -6354032421438653865
+    second: witch_alpha_34
+  - first:
+      213: -7976164103794507633
+    second: witch_alpha_35
+  - first:
+      213: 304282116506474782
+    second: witch_alpha_36
+  - first:
+      213: 8910206229270026916
+    second: witch_alpha_37
+  - first:
+      213: 833948349548918186
+    second: witch_alpha_38
+  - first:
+      213: -8963434184742400289
+    second: witch_alpha_39
+  - first:
+      213: 3159784171943102908
+    second: witch_alpha_40
+  - first:
+      213: -6427916840420661620
+    second: witch_alpha_41
+  - first:
+      213: 2359415195883695439
+    second: witch_alpha_42
+  - first:
+      213: 6488390643190118515
+    second: witch_alpha_43
+  - first:
+      213: 5646266563892957519
+    second: witch_alpha_44
+  - first:
+      213: 1448653237888560736
+    second: witch_alpha_45
+  - first:
+      213: 6080767479682201146
+    second: witch_alpha_46
+  - first:
+      213: 1276894554129357462
+    second: witch_alpha_47
+  - first:
+      213: 6730598096232372924
+    second: witch_alpha_48
+  - first:
+      213: 8622043042549489394
+    second: witch_alpha_49
+  - first:
+      213: -5623537215977861528
+    second: witch_alpha_50
+  - first:
+      213: -1095429721723217152
+    second: witch_alpha_51
+  - first:
+      213: 2365699194999555661
+    second: witch_alpha_52
+  - first:
+      213: 4886558038858679688
+    second: witch_alpha_53
+  - first:
+      213: 445324174202386482
+    second: witch_alpha_54
+  - first:
+      213: -2558736221392731854
+    second: witch_alpha_55
+  - first:
+      213: 9173211796594920653
+    second: witch_alpha_56
+  - first:
+      213: 3689476771437753782
+    second: witch_alpha_57
+  - first:
+      213: 1884721185925469364
+    second: witch_alpha_58
+  - first:
+      213: 6761258600303601204
+    second: witch_alpha_59
+  - first:
+      213: 2281143782474522933
+    second: witch_alpha_60
+  - first:
+      213: -7134179077811295860
+    second: witch_alpha_61
+  - first:
+      213: -8023394074743123312
+    second: witch_alpha_62
+  - first:
+      213: 3961549164281310655
+    second: witch_alpha_63
+  - first:
+      213: 6604761833685300514
+    second: witch_alpha_64
+  - first:
+      213: 6061592197620937389
+    second: witch_alpha_65
+  - first:
+      213: 8851841281427497636
+    second: witch_alpha_66
+  - first:
+      213: 4179057138167399888
+    second: witch_alpha_67
+  - first:
+      213: -7748265806832044966
+    second: witch_alpha_68
+  - first:
+      213: 1815977052350459066
+    second: witch_alpha_69
+  - first:
+      213: -3549215028944652840
+    second: witch_alpha_70
+  - first:
+      213: 6742222557324820393
+    second: witch_alpha_71
+  - first:
+      213: -873927040424602104
+    second: witch_alpha_72
+  - first:
+      213: -7105084164273530380
+    second: witch_alpha_73
+  - first:
+      213: 4022179220053536299
+    second: witch_alpha_74
+  - first:
+      213: -5355297628106172405
+    second: witch_alpha_75
+  - first:
+      213: 4371470030756824951
+    second: witch_alpha_76
+  - first:
+      213: -3353186778288394498
+    second: witch_alpha_77
+  - first:
+      213: -5176615304327940050
+    second: witch_alpha_78
+  - first:
+      213: 8684510652358766006
+    second: witch_alpha_79
+  - first:
+      213: -7223191404017655713
+    second: witch_alpha_80
+  - first:
+      213: 5869801789494639814
+    second: witch_alpha_81
+  - first:
+      213: 1880070949747606305
+    second: witch_alpha_82
+  - first:
+      213: 7712732797622958688
+    second: witch_alpha_83
+  - first:
+      213: -5824480662310791987
+    second: witch_alpha_84
+  - first:
+      213: 7145955853497268770
+    second: witch_alpha_85
+  - first:
+      213: 589192802678038552
+    second: witch_alpha_86
+  - first:
+      213: -2100095496051681424
+    second: witch_alpha_87
+  - first:
+      213: -3191868958701632886
+    second: witch_alpha_88
+  - first:
+      213: -5443006799973839739
+    second: witch_alpha_89
+  - first:
+      213: -254295987849536435
+    second: witch_alpha_90
+  - first:
+      213: -8401564405960790490
+    second: witch_alpha_91
+  - first:
+      213: -4743589468260809333
+    second: witch_alpha_92
+  - first:
+      213: 2662138820443474651
+    second: witch_alpha_93
+  - first:
+      213: 4744215847851059487
+    second: witch_alpha_94
+  - first:
+      213: 9148439564153526073
+    second: witch_alpha_95
+  - first:
+      213: 6532919367786445924
+    second: witch_alpha_96
+  - first:
+      213: -2770458543883946670
+    second: witch_alpha_97
+  - first:
+      213: -4452314771339769820
+    second: witch_alpha_98
+  - first:
+      213: -2929923526691203776
+    second: witch_alpha_99
+  - first:
+      213: 2306561101745350334
+    second: witch_alpha_100
+  - first:
+      213: -4438852750976953956
+    second: witch_alpha_101
+  - first:
+      213: 5105561505235825503
+    second: witch_alpha_102
+  - first:
+      213: 4121470556269103001
+    second: witch_alpha_103
+  - first:
+      213: 6534807325496598787
+    second: witch_alpha_104
+  - first:
+      213: -5649662513525391674
+    second: witch_alpha_105
+  - first:
+      213: -3142410997612574841
+    second: witch_alpha_106
+  - first:
+      213: -5681753273353623600
+    second: witch_alpha_107
+  - first:
+      213: 2271576834944098137
+    second: witch_alpha_108
+  - first:
+      213: -3441153117525685291
+    second: witch_alpha_109
+  - first:
+      213: 3851303944505438874
+    second: witch_alpha_110
+  - first:
+      213: 5139948488765519741
+    second: witch_alpha_111
+  - first:
+      213: 412719498862418054
+    second: witch_alpha_112
+  - first:
+      213: 1075415049601590351
+    second: witch_alpha_113
+  - first:
+      213: 778368549755232314
+    second: witch_alpha_114
+  - first:
+      213: -6293653178940357722
+    second: witch_alpha_115
+  - first:
+      213: -5489037804140304849
+    second: witch_alpha_116
+  - first:
+      213: 5780134794670010067
+    second: witch_alpha_117
+  - first:
+      213: 1222353764281431818
+    second: witch_alpha_118
+  - first:
+      213: 7573440886095593914
+    second: witch_alpha_119
+  - first:
+      213: -4531619555803350160
+    second: witch_alpha_120
+  - first:
+      213: 3318139001289294048
+    second: witch_alpha_121
+  - first:
+      213: -6206170625130622842
+    second: witch_alpha_122
+  - first:
+      213: -2865387472914631136
+    second: witch_alpha_123
+  - first:
+      213: -1791910216182508694
+    second: witch_alpha_124
+  - first:
+      213: -452360536207970169
+    second: witch_alpha_125
+  - first:
+      213: 1062900526428440582
+    second: witch_alpha_126
+  - first:
+      213: -2708307990240146693
+    second: witch_alpha_127
+  - first:
+      213: 4415490827813822763
+    second: witch_alpha_128
+  - first:
+      213: -404064706272810690
+    second: witch_alpha_129
+  - first:
+      213: -5662453971980143774
+    second: witch_alpha_130
+  - first:
+      213: 4874833469703915240
+    second: witch_alpha_131
+  - first:
+      213: -4057720825813933140
+    second: witch_alpha_132
+  - first:
+      213: 4559409747020813950
+    second: witch_alpha_133
+  - first:
+      213: 5658617596632811443
+    second: witch_alpha_134
+  - first:
+      213: 5168397899878273147
+    second: witch_alpha_135
+  - first:
+      213: -1788432822604067648
+    second: witch_alpha_136
+  - first:
+      213: -3762732251947544579
+    second: witch_alpha_137
+  - first:
+      213: 952173823830538299
+    second: witch_alpha_138
+  - first:
+      213: 8387193469347952715
+    second: witch_alpha_139
+  - first:
+      213: 487467937945041644
+    second: witch_alpha_140
+  - first:
+      213: 7651257367304430598
+    second: witch_alpha_141
+  - first:
+      213: 4708193538989236157
+    second: witch_alpha_142
+  - first:
+      213: 4126271998630572608
+    second: witch_alpha_143
+  - first:
+      213: -674471784458588662
+    second: witch_alpha_144
+  - first:
+      213: -6653392413805835831
+    second: witch_alpha_145
+  - first:
+      213: -5515453971412807118
+    second: witch_alpha_146
+  - first:
+      213: -4048423130711312816
+    second: witch_alpha_147
+  - first:
+      213: -8709184556922590076
+    second: witch_alpha_148
+  - first:
+      213: 1013424134328549306
+    second: witch_alpha_149
+  - first:
+      213: -3685521749238909292
+    second: witch_alpha_150
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: witch_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1073
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c696e9572c959d120800000000000000
+      internalID: 2439079364929677676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1093
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7aec4092f938c20800000000000000
+      internalID: 3207582358141052907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1069
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e474ee2d3418fc0800000000000000
+      internalID: -3494437262642950507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba726d0903df1220800000000000000
+      internalID: 2458915957400304304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1071
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e29f93b87c22f30800000000000000
+      internalID: 4549417974384635527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1071
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1c4b22246776150800000000000000
+      internalID: 5865787066095550911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1071
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5db15a895394dd0800000000000000
+      internalID: -2501409188306233860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1069
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867c67c41b3a5a550800000000000000
+      internalID: 6171518846268524392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1089
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea0d9efc8036ac10800000000000000
+      internalID: 2064390861321210602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1071
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f6bc067ca754c50800000000000000
+      internalID: 6648855421623430943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1071
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ecbb39be4cda100800000000000000
+      internalID: 120969281083788838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1071
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8039e935970c81680800000000000000
+      internalID: -8784059445859675384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1092
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946ef40afb27cc470800000000000000
+      internalID: 8416227971002525257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1091
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5eb5ed7ab31f2c0800000000000000
+      internalID: -4399669768788122196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1071
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71559f440d60f6cd0800000000000000
+      internalID: -2562822171370367721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 967
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e97d7c9aa2bd320800000000000000
+      internalID: 2583705719917747796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 975
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f8daae8cbd5a350800000000000000
+      internalID: 6027465332282461999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 975
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701fbf9621e2e8ba0800000000000000
+      internalID: -6084875389908553465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 981
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b366ac2c568b983f0800000000000000
+      internalID: -897983903484451269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_19
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 969
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5549f8f4e3b2690800000000000000
+      internalID: -7625933032589601316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_20
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 986
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0500f6d559cd9480800000000000000
+      internalID: -8890728718844033780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_21
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 967
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd7c080510c461a0800000000000000
+      internalID: -6817112739370205747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_22
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 975
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d3e2b51a799be50800000000000000
+      internalID: 6825653429531983142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_23
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 973
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a4510bdfb3bdfd0800000000000000
+      internalID: -2316191622585038302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_24
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 983
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab7b16b043ae5ca0800000000000000
+      internalID: -6026199753046656090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_25
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 967
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac45b49ea862c5e00800000000000000
+      internalID: 1034744392449742026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 967
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756f9174e3a74bc70800000000000000
+      internalID: 8985941564410426967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 887
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575267e6045aeecb0800000000000000
+      internalID: -4832743653972236939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 879
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b9182eb390abe90800000000000000
+      internalID: -7009279717240890578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 879
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7096ab87539f49640800000000000000
+      internalID: 5085963887262198023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_30
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 879
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d70c25b42408f00800000000000000
+      internalID: 1116965598866210183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_31
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 879
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ede1a7a416efc20800000000000000
+      internalID: 3242135754257653335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_32
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 879
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8580809c8e699590800000000000000
+      internalID: -7666975340622740085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_33
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 879
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b6e3cbfe230b060800000000000000
+      internalID: 6967124628778937135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_34
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 900
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a75d48d21f1d7a0800000000000000
+      internalID: -6354032421438653865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_35
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 877
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f804b13d109fe4190800000000000000
+      internalID: -7976164103794507633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_36
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 871
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e195fd909f6093400800000000000000
+      internalID: 304282116506474782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_37
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 879
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aadc137b5967ab70800000000000000
+      internalID: 8910206229270026916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 789
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5f2effa97c29b00800000000000000
+      internalID: 833948349548918186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 792
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde06da691c7b9380800000000000000
+      internalID: -8963434184742400289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_40
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 775
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9029f86fec9db20800000000000000
+      internalID: 3159784171943102908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_41
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 791
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86a9f0b0b37bc6a0800000000000000
+      internalID: -6427916840420661620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 781
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d6e44be935eb020800000000000000
+      internalID: 2359415195883695439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_43
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 783
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378b05bb9e46b0a50800000000000000
+      internalID: 6488390643190118515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_44
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 778
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41510056819b5e40800000000000000
+      internalID: 5646266563892957519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_45
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 781
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e211fc176aa1410800000000000000
+      internalID: 1448653237888560736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_46
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 783
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3674343ec9336450800000000000000
+      internalID: 6080767479682201146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_47
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 783
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ad28ae4d078b110800000000000000
+      internalID: 1276894554129357462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_48
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 784
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbad9dbee43e76d50800000000000000
+      internalID: 6730598096232372924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_49
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 791
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe5a453776a7a770800000000000000
+      internalID: 8622043042549489394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 775
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e437462be25f1b0800000000000000
+      internalID: -5623537215977861528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_51
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 775
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b5840d8704cc0f0800000000000000
+      internalID: -1095429721723217152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_52
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 687
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46406342e6a4d020800000000000000
+      internalID: 2365699194999555661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_53
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 695
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885408075aa80d340800000000000000
+      internalID: 4886558038858679688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_54
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 685
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2383a3d1afb1e2600800000000000000
+      internalID: 445324174202386482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_55
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 686
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23106f1a6fa8d7cd0800000000000000
+      internalID: -2558736221392731854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_56
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 687
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc8679f68bcd4f70800000000000000
+      internalID: 9173211796594920653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_57
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 687
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b53a907397a33330800000000000000
+      internalID: 3689476771437753782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_58
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 687
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b49db3deefd72a10800000000000000
+      internalID: 1884721185925469364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_59
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 687
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436a6a1dfd0d4dd50800000000000000
+      internalID: 6761258600303601204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_60
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 687
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5312cf32f2048af10800000000000000
+      internalID: 2281143782474522933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_61
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 687
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89a80f5ded4efc90800000000000000
+      internalID: -7134179077811295860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_62
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 583
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09256f9499d27a090800000000000000
+      internalID: -8023394074743123312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_63
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 602
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdab39c9ff3af630800000000000000
+      internalID: 3961549164281310655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 583
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225bedae4e3d8ab50800000000000000
+      internalID: 6604761833685300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_65
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 591
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2b970fcf91f1450800000000000000
+      internalID: 6061592197620937389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_66
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 591
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2ef931fbe08da70800000000000000
+      internalID: 8851841281427497636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_67
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 592
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d54788535efef930800000000000000
+      internalID: 4179057138167399888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_68
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 583
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54787efc41a87490800000000000000
+      internalID: -7748265806832044966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_69
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 583
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc2c95f185a33910800000000000000
+      internalID: 1815977052350459066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_70
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 592
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5b6485cb7aebec0800000000000000
+      internalID: -3549215028944652840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_71
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 589
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afb8fda1bf219d50800000000000000
+      internalID: 6742222557324820393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_72
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 591
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80612ebacff2fd3f0800000000000000
+      internalID: -873927040424602104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_73
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 591
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f91931d89ba56d90800000000000000
+      internalID: -7105084164273530380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_74
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 487
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2eaf32b0b6a1d730800000000000000
+      internalID: 4022179220053536299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_75
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 501
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b085d3a4e292ea5b0800000000000000
+      internalID: -5355297628106172405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_76
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 487
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777c689f4d49aac30800000000000000
+      internalID: 4371470030756824951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_77
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 494
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe659e14661771d0800000000000000
+      internalID: -3353186778288394498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_78
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 495
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28beaebec7f828b0800000000000000
+      internalID: -5176615304327940050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_79
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 488
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bda0f10d64958870800000000000000
+      internalID: 8684510652358766006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_80
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 495
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f506fda20b112cb90800000000000000
+      internalID: -7223191404017655713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_81
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 500
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccb7c4c0a9b57150800000000000000
+      internalID: 5869801789494639814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_82
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 487
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123cc38519a571a10800000000000000
+      internalID: 1880070949747606305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_83
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 496
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a32d99d91290b60800000000000000
+      internalID: 7712732797622958688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_84
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 493
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc455d172b94b2fa0800000000000000
+      internalID: -5824480662310791987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_85
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 495
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22af354ecf88b2360800000000000000
+      internalID: 7145955853497268770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_86
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 495
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81067db7bbb3d2800800000000000000
+      internalID: 589192802678038552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_87
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 495
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077117be546fad2e0800000000000000
+      internalID: -2100095496051681424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_88
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 419
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a824ef2e71434b3d0800000000000000
+      internalID: -3191868958701632886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_89
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 391
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c0689572e8674b0800000000000000
+      internalID: -5443006799973839739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_90
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 392
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cdb68752f887cf0800000000000000
+      internalID: -254295987849536435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_91
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 399
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e2429afa5a76b80800000000000000
+      internalID: -8401564405960790490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_92
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 399
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85c700e2826b2eb0800000000000000
+      internalID: -4743589468260809333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_93
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 391
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda8f4f0721d1f420800000000000000
+      internalID: 2662138820443474651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_94
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 391
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19e0fc7d27d6d140800000000000000
+      internalID: 4744215847851059487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_95
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 399
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93710862059c5fe70800000000000000
+      internalID: 9148439564153526073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_96
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 415
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c3e275d8799aa50800000000000000
+      internalID: 6532919367786445924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_97
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 392
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255f9d202aa5d89d0800000000000000
+      internalID: -2770458543883946670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_98
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 415
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428811a0e433632c0800000000000000
+      internalID: -4452314771339769820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_99
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 399
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045d28c6312d657d0800000000000000
+      internalID: -2929923526691203776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_100
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 397
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6e342f91d820020800000000000000
+      internalID: 2306561101745350334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_101
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 303
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91d0c7e0f60662c0800000000000000
+      internalID: -4438852750976953956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_102
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 295
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f537d7a73299ad640800000000000000
+      internalID: 5105561505235825503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_103
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 314
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997c6aa62a7623930800000000000000
+      internalID: 4121470556269103001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_104
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 308
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30168dfb3ac40ba50800000000000000
+      internalID: 6534807325496598787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_105
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 302
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce7a7c80ed5891b0800000000000000
+      internalID: -5649662513525391674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_106
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 303
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787850dc8d9e364d0800000000000000
+      internalID: -3142410997612574841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_107
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 303
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d72858408b5621b0800000000000000
+      internalID: -5681753273353623600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_108
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 303
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f59d69813468f10800000000000000
+      internalID: 2271576834944098137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_109
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 301
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db472cb8719e30d0800000000000000
+      internalID: -3441153117525685291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_110
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 303
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92be4e4884927530800000000000000
+      internalID: 3851303944505438874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_111
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 319
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77bcacfae3c45740800000000000000
+      internalID: 5139948488765519741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_112
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 303
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688529192364ab500800000000000000
+      internalID: 412719498862418054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_113
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 295
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44ac913a44acee00800000000000000
+      internalID: 1075415049601590351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_114
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 208
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a302f7072125dca00800000000000000
+      internalID: 778368549755232314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_115
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 205
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a380c967c378a8a0800000000000000
+      internalID: -6293653178940357722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_116
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 199
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26e685033503d3b0800000000000000
+      internalID: -5489037804140304849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_117
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 217
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de6e26a8f9273050800000000000000
+      internalID: 5780134794670010067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_118
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 205
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a073bd5b54ca6f010800000000000000
+      internalID: 1222353764281431818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_119
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 215
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1c52f2c544a1960800000000000000
+      internalID: 7573440886095593914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_120
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 207
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bb02706047c11c0800000000000000
+      internalID: -4531619555803350160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_121
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 207
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0c73767d56c0e20800000000000000
+      internalID: 3318139001289294048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_122
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 212
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68010a9b2b04fd9a0800000000000000
+      internalID: -6206170625130622842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_123
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 207
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026b11d56491c38d0800000000000000
+      internalID: -2865387472914631136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_124
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 207
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a635c0ff62bd127e0800000000000000
+      internalID: -1791910216182508694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_125
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 111
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7803be03d74e8b9f0800000000000000
+      internalID: -452360536207970169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_126
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 117
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608c755b56e20ce00800000000000000
+      internalID: 1062900526428440582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_127
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa426b6b382a6ad0800000000000000
+      internalID: -2708307990240146693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_128
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 111
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21a6dc7389f64d30800000000000000
+      internalID: 4415490827813822763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_129
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 103
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39265c5a49746af0800000000000000
+      internalID: -404064706272810690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_130
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 103
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263bf1b0d1cea61b0800000000000000
+      internalID: -5662453971980143774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_131
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 139
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e603e47633e6a340800000000000000
+      internalID: 4874833469703915240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_132
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 110
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3e7ab586410b7c0800000000000000
+      internalID: -4057720825813933140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_133
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 114
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7611a41207464f30800000000000000
+      internalID: 4559409747020813950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_134
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 103
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7c21739b2778e40800000000000000
+      internalID: 5658617596632811443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_135
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b709e10b186d9b740800000000000000
+      internalID: 5168397899878273147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_136
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 16
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc0908c2d53e27e0800000000000000
+      internalID: -1788432822604067648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_137
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffc2c1e3f618cbc0800000000000000
+      internalID: -3762732251947544579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_138
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 15
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3838d54c0dc63d00800000000000000
+      internalID: 952173823830538299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_139
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 15
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48f5fae50c456470800000000000000
+      internalID: 8387193469347952715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_140
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 7
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea3b90c185d3c600800000000000000
+      internalID: 487467937945041644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_141
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6046547990abe2a60800000000000000
+      internalID: 7651257367304430598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_142
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf1e31241dd65140800000000000000
+      internalID: 4708193538989236157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_143
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 17
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04234055586734930800000000000000
+      internalID: 4126271998630572608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_144
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 7
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e625c4c7bc3a6f0800000000000000
+      internalID: -674471784458588662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_145
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 15
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c903dfc9d66aa3a0800000000000000
+      internalID: -6653392413805835831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_146
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 15
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2321ceac5db2573b0800000000000000
+      internalID: -5515453971412807118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_147
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 15
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0563a71bc9c11d7c0800000000000000
+      internalID: -4048423130711312816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_148
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 15
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48caf49e9c2c22780800000000000000
+      internalID: -8709184556922590076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_149
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 7
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abff57d71e7601e00800000000000000
+      internalID: 1013424134328549306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_alpha_150
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 15
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49673acee756adcc0800000000000000
+      internalID: -3685521749238909292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      witch_alpha_0: 2439079364929677676
+      witch_alpha_1: 3207582358141052907
+      witch_alpha_10: 120969281083788838
+      witch_alpha_100: 2306561101745350334
+      witch_alpha_101: -4438852750976953956
+      witch_alpha_102: 5105561505235825503
+      witch_alpha_103: 4121470556269103001
+      witch_alpha_104: 6534807325496598787
+      witch_alpha_105: -5649662513525391674
+      witch_alpha_106: -3142410997612574841
+      witch_alpha_107: -5681753273353623600
+      witch_alpha_108: 2271576834944098137
+      witch_alpha_109: -3441153117525685291
+      witch_alpha_11: -8784059445859675384
+      witch_alpha_110: 3851303944505438874
+      witch_alpha_111: 5139948488765519741
+      witch_alpha_112: 412719498862418054
+      witch_alpha_113: 1075415049601590351
+      witch_alpha_114: 778368549755232314
+      witch_alpha_115: -6293653178940357722
+      witch_alpha_116: -5489037804140304849
+      witch_alpha_117: 5780134794670010067
+      witch_alpha_118: 1222353764281431818
+      witch_alpha_119: 7573440886095593914
+      witch_alpha_12: 8416227971002525257
+      witch_alpha_120: -4531619555803350160
+      witch_alpha_121: 3318139001289294048
+      witch_alpha_122: -6206170625130622842
+      witch_alpha_123: -2865387472914631136
+      witch_alpha_124: -1791910216182508694
+      witch_alpha_125: -452360536207970169
+      witch_alpha_126: 1062900526428440582
+      witch_alpha_127: -2708307990240146693
+      witch_alpha_128: 4415490827813822763
+      witch_alpha_129: -404064706272810690
+      witch_alpha_13: -4399669768788122196
+      witch_alpha_130: -5662453971980143774
+      witch_alpha_131: 4874833469703915240
+      witch_alpha_132: -4057720825813933140
+      witch_alpha_133: 4559409747020813950
+      witch_alpha_134: 5658617596632811443
+      witch_alpha_135: 5168397899878273147
+      witch_alpha_136: -1788432822604067648
+      witch_alpha_137: -3762732251947544579
+      witch_alpha_138: 952173823830538299
+      witch_alpha_139: 8387193469347952715
+      witch_alpha_14: -2562822171370367721
+      witch_alpha_140: 487467937945041644
+      witch_alpha_141: 7651257367304430598
+      witch_alpha_142: 4708193538989236157
+      witch_alpha_143: 4126271998630572608
+      witch_alpha_144: -674471784458588662
+      witch_alpha_145: -6653392413805835831
+      witch_alpha_146: -5515453971412807118
+      witch_alpha_147: -4048423130711312816
+      witch_alpha_148: -8709184556922590076
+      witch_alpha_149: 1013424134328549306
+      witch_alpha_15: 2583705719917747796
+      witch_alpha_150: -3685521749238909292
+      witch_alpha_16: 6027465332282461999
+      witch_alpha_17: -6084875389908553465
+      witch_alpha_18: -897983903484451269
+      witch_alpha_19: -7625933032589601316
+      witch_alpha_2: -3494437262642950507
+      witch_alpha_20: -8890728718844033780
+      witch_alpha_21: -6817112739370205747
+      witch_alpha_22: 6825653429531983142
+      witch_alpha_23: -2316191622585038302
+      witch_alpha_24: -6026199753046656090
+      witch_alpha_25: 1034744392449742026
+      witch_alpha_26: 8985941564410426967
+      witch_alpha_27: -4832743653972236939
+      witch_alpha_28: -7009279717240890578
+      witch_alpha_29: 5085963887262198023
+      witch_alpha_3: 2458915957400304304
+      witch_alpha_30: 1116965598866210183
+      witch_alpha_31: 3242135754257653335
+      witch_alpha_32: -7666975340622740085
+      witch_alpha_33: 6967124628778937135
+      witch_alpha_34: -6354032421438653865
+      witch_alpha_35: -7976164103794507633
+      witch_alpha_36: 304282116506474782
+      witch_alpha_37: 8910206229270026916
+      witch_alpha_38: 833948349548918186
+      witch_alpha_39: -8963434184742400289
+      witch_alpha_4: 4549417974384635527
+      witch_alpha_40: 3159784171943102908
+      witch_alpha_41: -6427916840420661620
+      witch_alpha_42: 2359415195883695439
+      witch_alpha_43: 6488390643190118515
+      witch_alpha_44: 5646266563892957519
+      witch_alpha_45: 1448653237888560736
+      witch_alpha_46: 6080767479682201146
+      witch_alpha_47: 1276894554129357462
+      witch_alpha_48: 6730598096232372924
+      witch_alpha_49: 8622043042549489394
+      witch_alpha_5: 5865787066095550911
+      witch_alpha_50: -5623537215977861528
+      witch_alpha_51: -1095429721723217152
+      witch_alpha_52: 2365699194999555661
+      witch_alpha_53: 4886558038858679688
+      witch_alpha_54: 445324174202386482
+      witch_alpha_55: -2558736221392731854
+      witch_alpha_56: 9173211796594920653
+      witch_alpha_57: 3689476771437753782
+      witch_alpha_58: 1884721185925469364
+      witch_alpha_59: 6761258600303601204
+      witch_alpha_6: -2501409188306233860
+      witch_alpha_60: 2281143782474522933
+      witch_alpha_61: -7134179077811295860
+      witch_alpha_62: -8023394074743123312
+      witch_alpha_63: 3961549164281310655
+      witch_alpha_64: 6604761833685300514
+      witch_alpha_65: 6061592197620937389
+      witch_alpha_66: 8851841281427497636
+      witch_alpha_67: 4179057138167399888
+      witch_alpha_68: -7748265806832044966
+      witch_alpha_69: 1815977052350459066
+      witch_alpha_7: 6171518846268524392
+      witch_alpha_70: -3549215028944652840
+      witch_alpha_71: 6742222557324820393
+      witch_alpha_72: -873927040424602104
+      witch_alpha_73: -7105084164273530380
+      witch_alpha_74: 4022179220053536299
+      witch_alpha_75: -5355297628106172405
+      witch_alpha_76: 4371470030756824951
+      witch_alpha_77: -3353186778288394498
+      witch_alpha_78: -5176615304327940050
+      witch_alpha_79: 8684510652358766006
+      witch_alpha_8: 2064390861321210602
+      witch_alpha_80: -7223191404017655713
+      witch_alpha_81: 5869801789494639814
+      witch_alpha_82: 1880070949747606305
+      witch_alpha_83: 7712732797622958688
+      witch_alpha_84: -5824480662310791987
+      witch_alpha_85: 7145955853497268770
+      witch_alpha_86: 589192802678038552
+      witch_alpha_87: -2100095496051681424
+      witch_alpha_88: -3191868958701632886
+      witch_alpha_89: -5443006799973839739
+      witch_alpha_9: 6648855421623430943
+      witch_alpha_90: -254295987849536435
+      witch_alpha_91: -8401564405960790490
+      witch_alpha_92: -4743589468260809333
+      witch_alpha_93: 2662138820443474651
+      witch_alpha_94: 4744215847851059487
+      witch_alpha_95: 9148439564153526073
+      witch_alpha_96: 6532919367786445924
+      witch_alpha_97: -2770458543883946670
+      witch_alpha_98: -4452314771339769820
+      witch_alpha_99: -2929923526691203776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

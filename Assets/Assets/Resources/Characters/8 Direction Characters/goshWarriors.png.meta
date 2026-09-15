@@ -1,0 +1,2638 @@
+fileFormatVersion: 2
+guid: ccef1b842d7527a4d9a9062ae55e48b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7683444986152219469
+    second: goshWarriors_0
+  - first:
+      213: 325306365617365904
+    second: goshWarriors_1
+  - first:
+      213: 6948627044847273971
+    second: goshWarriors_2
+  - first:
+      213: 8526200027955648266
+    second: goshWarriors_3
+  - first:
+      213: 7898178302303465468
+    second: goshWarriors_4
+  - first:
+      213: -2840530488400367297
+    second: goshWarriors_5
+  - first:
+      213: 2996970005326838338
+    second: goshWarriors_6
+  - first:
+      213: -3661226248737006154
+    second: goshWarriors_7
+  - first:
+      213: 8175292623987426189
+    second: goshWarriors_8
+  - first:
+      213: -6371655568495706359
+    second: goshWarriors_9
+  - first:
+      213: 6162184832649975521
+    second: goshWarriors_10
+  - first:
+      213: -361870595845807601
+    second: goshWarriors_11
+  - first:
+      213: 7840108160177018081
+    second: goshWarriors_12
+  - first:
+      213: 6998585474795004133
+    second: goshWarriors_13
+  - first:
+      213: 8245943816057142371
+    second: goshWarriors_14
+  - first:
+      213: 8215507266904813443
+    second: goshWarriors_15
+  - first:
+      213: 5483309273566349312
+    second: goshWarriors_16
+  - first:
+      213: 8104670309517455063
+    second: goshWarriors_17
+  - first:
+      213: -9127975397283296709
+    second: goshWarriors_18
+  - first:
+      213: -5824082837592186565
+    second: goshWarriors_19
+  - first:
+      213: 147573990594928619
+    second: goshWarriors_20
+  - first:
+      213: 2209937678452411903
+    second: goshWarriors_21
+  - first:
+      213: 6269209855246867027
+    second: goshWarriors_22
+  - first:
+      213: -9131694821150202841
+    second: goshWarriors_23
+  - first:
+      213: 4000573900736618712
+    second: goshWarriors_24
+  - first:
+      213: -6757416553386532130
+    second: goshWarriors_25
+  - first:
+      213: -321481688930504569
+    second: goshWarriors_26
+  - first:
+      213: -4664618546275916456
+    second: goshWarriors_27
+  - first:
+      213: 1936491220766140267
+    second: goshWarriors_28
+  - first:
+      213: 4928416382315060898
+    second: goshWarriors_29
+  - first:
+      213: 57692496444121515
+    second: goshWarriors_30
+  - first:
+      213: 7251861870550784198
+    second: goshWarriors_31
+  - first:
+      213: 2571020668151123322
+    second: goshWarriors_32
+  - first:
+      213: 1116083363442406110
+    second: goshWarriors_33
+  - first:
+      213: -5707572093745749734
+    second: goshWarriors_34
+  - first:
+      213: 7232701983093394891
+    second: goshWarriors_35
+  - first:
+      213: 3647474593916231262
+    second: goshWarriors_36
+  - first:
+      213: -6203339894754936440
+    second: goshWarriors_37
+  - first:
+      213: 4268227730356393293
+    second: goshWarriors_38
+  - first:
+      213: -3472908868080054515
+    second: goshWarriors_39
+  - first:
+      213: -4498670457246194008
+    second: goshWarriors_40
+  - first:
+      213: 5431011977439677201
+    second: goshWarriors_41
+  - first:
+      213: 1521968231218466864
+    second: goshWarriors_42
+  - first:
+      213: -8872832220196076239
+    second: goshWarriors_43
+  - first:
+      213: -8542115953616414175
+    second: goshWarriors_44
+  - first:
+      213: 8463596442818580704
+    second: goshWarriors_45
+  - first:
+      213: 7238813112970441995
+    second: goshWarriors_46
+  - first:
+      213: 5787691527688744021
+    second: goshWarriors_47
+  - first:
+      213: 1000193517467185820
+    second: goshWarriors_48
+  - first:
+      213: 5016519602295586714
+    second: goshWarriors_49
+  - first:
+      213: 3546332325846801820
+    second: goshWarriors_50
+  - first:
+      213: -6120574964871822449
+    second: goshWarriors_51
+  - first:
+      213: 2929428897675563894
+    second: goshWarriors_52
+  - first:
+      213: -8787117115628028018
+    second: goshWarriors_53
+  - first:
+      213: -8546426636760833696
+    second: goshWarriors_54
+  - first:
+      213: 4765687081868651407
+    second: goshWarriors_55
+  - first:
+      213: -2650191794222099463
+    second: goshWarriors_56
+  - first:
+      213: -7052350906763011306
+    second: goshWarriors_57
+  - first:
+      213: -5180931652880523713
+    second: goshWarriors_58
+  - first:
+      213: -8452785899565315139
+    second: goshWarriors_59
+  - first:
+      213: -5993486516777797082
+    second: goshWarriors_60
+  - first:
+      213: -6865570953842600406
+    second: goshWarriors_61
+  - first:
+      213: 5013206252306443467
+    second: goshWarriors_62
+  - first:
+      213: 8873603278816465896
+    second: goshWarriors_63
+  - first:
+      213: -8670278139607118792
+    second: goshWarriors_64
+  - first:
+      213: 4316884603877109583
+    second: goshWarriors_65
+  - first:
+      213: 6325404477945409820
+    second: goshWarriors_66
+  - first:
+      213: -833273880082503717
+    second: goshWarriors_67
+  - first:
+      213: 5528790070916542906
+    second: goshWarriors_68
+  - first:
+      213: 4659572249232199232
+    second: goshWarriors_69
+  - first:
+      213: 4778350804092975451
+    second: goshWarriors_70
+  - first:
+      213: -6008321551922213879
+    second: goshWarriors_71
+  - first:
+      213: -336550642942944641
+    second: goshWarriors_72
+  - first:
+      213: 5877052306134508984
+    second: goshWarriors_73
+  - first:
+      213: 3902242152662656575
+    second: goshWarriors_74
+  - first:
+      213: 6281101109840237015
+    second: goshWarriors_75
+  - first:
+      213: -7210859896136658025
+    second: goshWarriors_76
+  - first:
+      213: 7786517493150669651
+    second: goshWarriors_77
+  - first:
+      213: 6419971657954651718
+    second: goshWarriors_78
+  - first:
+      213: 7558227961107766690
+    second: goshWarriors_79
+  - first:
+      213: 467755975202984747
+    second: goshWarriors_80
+  - first:
+      213: -7849138035456401687
+    second: goshWarriors_81
+  - first:
+      213: 3928710254412340958
+    second: goshWarriors_82
+  - first:
+      213: -1929895891771771148
+    second: goshWarriors_83
+  - first:
+      213: 1724540745004864845
+    second: goshWarriors_84
+  - first:
+      213: 664399176932729403
+    second: goshWarriors_85
+  - first:
+      213: -5182696650594522866
+    second: goshWarriors_86
+  - first:
+      213: -6775881379627693420
+    second: goshWarriors_87
+  - first:
+      213: -6824927567900985187
+    second: goshWarriors_88
+  - first:
+      213: 1218276863285170834
+    second: goshWarriors_89
+  - first:
+      213: 8286428516056380520
+    second: goshWarriors_90
+  - first:
+      213: 6122918310105073247
+    second: goshWarriors_91
+  - first:
+      213: 1717070334241673419
+    second: goshWarriors_92
+  - first:
+      213: -157058065278727832
+    second: goshWarriors_93
+  - first:
+      213: -5822399972499038417
+    second: goshWarriors_94
+  - first:
+      213: -4406138273101451283
+    second: goshWarriors_95
+  - first:
+      213: 2316091020870405725
+    second: goshWarriors_96
+  - first:
+      213: 1026676745866131638
+    second: goshWarriors_97
+  - first:
+      213: 8248607974676834752
+    second: goshWarriors_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goshWarriors_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 712
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43fbda918411aa60800000000000000
+      internalID: 7683444986152219469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 712
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093ebcd7a68b38400800000000000000
+      internalID: 325306365617365904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 708
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f74bcc5b7b7e6060800000000000000
+      internalID: 6948627044847273971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 706
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07d83e60c5235670800000000000000
+      internalID: 8526200027955648266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 709
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffee71d157fb9d60800000000000000
+      internalID: 7898178302303465468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 714
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31ba3112986498d0800000000000000
+      internalID: -2840530488400367297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 713
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ab10a5750679920800000000000000
+      internalID: 2996970005326838338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 712
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdd1b1ff16b03dc0800000000000000
+      internalID: -3661226248737006154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 647
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8344a3b359747170800000000000000
+      internalID: 8175292623987426189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 648
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f7ca8d4055397a0800000000000000
+      internalID: -6371655568495706359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 644
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6d666e47a748550800000000000000
+      internalID: 6162184832649975521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 641
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02a3ff3c906afaf0800000000000000
+      internalID: -361870595845807601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 645
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e41eff35d8adcc60800000000000000
+      internalID: 7840108160177018081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 649
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e06d53c868ff1160800000000000000
+      internalID: 6998585474795004133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 649
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c3ae9363a7f6270800000000000000
+      internalID: 8245943816057142371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 647
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f6085e458530270800000000000000
+      internalID: 8215507266904813443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 584
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00807848bb0a81c40800000000000000
+      internalID: 5483309273566349312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 584
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de6174c4b2997070800000000000000
+      internalID: 8104670309517455063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 580
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a8c6efcbae25180800000000000000
+      internalID: -9127975397283296709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 577
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b316eda3483bc2fa0800000000000000
+      internalID: -5824082837592186565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 580
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef5f7733c94c0200800000000000000
+      internalID: 147573990594928619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_21
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 586
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd48eb1c964bae10800000000000000
+      internalID: 2209937678452411903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 585
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a1e5cc525b00750800000000000000
+      internalID: 6269209855246867027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_23
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 584
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724611421f3b54180800000000000000
+      internalID: -9131694821150202841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 519
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0ea1b44c4e48730800000000000000
+      internalID: 4000573900736618712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 519
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed22d007275d832a0800000000000000
+      internalID: -6757416553386532130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 516
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78031817b1ed98bf0800000000000000
+      internalID: -321481688930504569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 513
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85566887522f34fb0800000000000000
+      internalID: -4664618546275916456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 517
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67ad6c518ccfda10800000000000000
+      internalID: 1936491220766140267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_29
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 517
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aeda1d7690456440800000000000000
+      internalID: 4928416382315060898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_30
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 521
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1e1c41507fcc000800000000000000
+      internalID: 57692496444121515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_31
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 521
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8116203f9c3a460800000000000000
+      internalID: 7251861870550784198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 456
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dc5530da91ea320800000000000000
+      internalID: 2571020668151123322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 456
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed235b1e7ef1d7f00800000000000000
+      internalID: 1116083363442406110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 452
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a112a56bb61aac0b0800000000000000
+      internalID: -5707572093745749734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_35
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 449
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd8b841228bf5460800000000000000
+      internalID: 7232701983093394891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 452
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e93a961de6e9230800000000000000
+      internalID: 3647474593916231262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_37
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 456
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8897f108b3f49e9a0800000000000000
+      internalID: -6203339894754936440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_38
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 457
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d455d58b18acb3b30800000000000000
+      internalID: 4268227730356393293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_39
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 458
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fc8c4e8cfbdcfc0800000000000000
+      internalID: -3472908868080054515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 392
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6eb4add038191c0800000000000000
+      internalID: -4498670457246194008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 391
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b0f266e94de5b40800000000000000
+      internalID: 5431011977439677201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 392
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030d435ea0e1f1510800000000000000
+      internalID: 1521968231218466864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_43
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 385
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13582932b1e5dd480800000000000000
+      internalID: -8872832220196076239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 384
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a1f7a5cce447980800000000000000
+      internalID: -8542115953616414175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 389
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e016786f1cb47570800000000000000
+      internalID: 8463596442818580704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_46
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 394
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05fa026c2e657460800000000000000
+      internalID: 7238813112970441995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_47
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 392
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cec69a7c2025050800000000000000
+      internalID: 5787691527688744021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 322
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92b74374b661ed00800000000000000
+      internalID: 1000193517467185820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 321
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fbc97eff14e9540800000000000000
+      internalID: 5016519602295586714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 326
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d5599067a173130800000000000000
+      internalID: 3546332325846801820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_51
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 325
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f838aa56f795f0ba0800000000000000
+      internalID: -6120574964871822449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_52
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 324
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67357b8cf0c67a820800000000000000
+      internalID: 2929428897675563894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_53
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 327
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f7c3b1a83ed0680800000000000000
+      internalID: -8787117115628028018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_54
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 329
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0612fe8314ef46980800000000000000
+      internalID: -8546426636760833696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_55
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 327
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8be279b62f132240800000000000000
+      internalID: 4765687081868651407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 255
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f39cbeba90a83bd0800000000000000
+      internalID: -2650191794222099463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 256
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b9cfa1734012e90800000000000000
+      internalID: -7052350906763011306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_58
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 263
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e9a788c12a918b0800000000000000
+      internalID: -5180931652880523713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_59
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 261
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb8af5520ca1ba80800000000000000
+      internalID: -8452785899565315139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_60
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 260
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62abd5194cbd2dca0800000000000000
+      internalID: -5993486516777797082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_61
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 261
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26d8f3c79798b0a0800000000000000
+      internalID: -6865570953842600406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_62
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 263
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc2e7e768c729540800000000000000
+      internalID: 5013206252306443467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_63
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 260
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3d89fea2f552b70800000000000000
+      internalID: 8873603278816465896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 194
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c02e818fbfca780800000000000000
+      internalID: -8670278139607118792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 193
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fa276eca7a8eb30800000000000000
+      internalID: 4316884603877109583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_66
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 198
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11f998fbd958c750800000000000000
+      internalID: 6325404477945409820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_67
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 197
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7221922dd9f64f0800000000000000
+      internalID: -833273880082503717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_68
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 196
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1ffa6d6453abc40800000000000000
+      internalID: 5528790070916542906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_69
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 199
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ec0c0f5402aa040800000000000000
+      internalID: 4659572249232199232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_70
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 201
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59f9225dbc105240800000000000000
+      internalID: 4778350804092975451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_71
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 199
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c4a59c1672e9ca0800000000000000
+      internalID: -6008321551922213879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_72
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 132
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ad47e29f4545bf0800000000000000
+      internalID: -336550642942944641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 131
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5a9893feb7f8150800000000000000
+      internalID: 5877052306134508984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_74
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 136
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f366309109c872630800000000000000
+      internalID: 3902242152662656575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_75
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 135
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1d6524e24fa2750800000000000000
+      internalID: 6281101109840237015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_77
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 136
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b5c90c7644f0c60800000000000000
+      internalID: 7786517493150669651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 136
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2add041194834e860800000000000000
+      internalID: 7558227961107766690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_80
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 138
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b235a87c49dcd7600800000000000000
+      internalID: 467755975202984747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_81
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 134
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee1d931b82421390800000000000000
+      internalID: -7849138035456401687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_83
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 68
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6357559e1a735e0800000000000000
+      internalID: -1929895891771771148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_84
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 67
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45d3baabaccee710800000000000000
+      internalID: 1724540745004864845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_85
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 71
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b322322088b683900800000000000000
+      internalID: 664399176932729403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_86
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 69
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09e4bafadc5318b0800000000000000
+      internalID: -5182696650594522866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_87
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 68
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a8b1f09cb37f1a0800000000000000
+      internalID: -6775881379627693420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_88
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 70
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98bd79798cf841a0800000000000000
+      internalID: -6824927567900985187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_89
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 73
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292903a3a5038e010800000000000000
+      internalID: 1218276863285170834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_90
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 70
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864353cf4de4ff270800000000000000
+      internalID: 8286428516056380520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_91
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f564c8e23c9f8f450800000000000000
+      internalID: 6122918310105073247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_92
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc016de1f5244d710800000000000000
+      internalID: 1717070334241673419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_93
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86983f1958402ddf0800000000000000
+      internalID: -157058065278727832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_94
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f53fac21ea23fa0800000000000000
+      internalID: -5822399972499038417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_95
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defe888d5904ad2c0800000000000000
+      internalID: -4406138273101451283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_96
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 4
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ec3762388642020800000000000000
+      internalID: 2316091020870405725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_97
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 4
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b831809f0d7f3e00800000000000000
+      internalID: 1026676745866131638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goshWarriors_98
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 3
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9211eff31f87270800000000000000
+      internalID: 8248607974676834752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 488f46c25549e6343bab606fc6627f99
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goshWarriors_0: 7683444986152219469
+      goshWarriors_1: 325306365617365904
+      goshWarriors_10: 6162184832649975521
+      goshWarriors_11: -361870595845807601
+      goshWarriors_12: 7840108160177018081
+      goshWarriors_13: 6998585474795004133
+      goshWarriors_14: 8245943816057142371
+      goshWarriors_15: 8215507266904813443
+      goshWarriors_16: 5483309273566349312
+      goshWarriors_17: 8104670309517455063
+      goshWarriors_18: -9127975397283296709
+      goshWarriors_19: -5824082837592186565
+      goshWarriors_2: 6948627044847273971
+      goshWarriors_20: 147573990594928619
+      goshWarriors_21: 2209937678452411903
+      goshWarriors_22: 6269209855246867027
+      goshWarriors_23: -9131694821150202841
+      goshWarriors_24: 4000573900736618712
+      goshWarriors_25: -6757416553386532130
+      goshWarriors_26: -321481688930504569
+      goshWarriors_27: -4664618546275916456
+      goshWarriors_28: 1936491220766140267
+      goshWarriors_29: 4928416382315060898
+      goshWarriors_3: 8526200027955648266
+      goshWarriors_30: 57692496444121515
+      goshWarriors_31: 7251861870550784198
+      goshWarriors_32: 2571020668151123322
+      goshWarriors_33: 1116083363442406110
+      goshWarriors_34: -5707572093745749734
+      goshWarriors_35: 7232701983093394891
+      goshWarriors_36: 3647474593916231262
+      goshWarriors_37: -6203339894754936440
+      goshWarriors_38: 4268227730356393293
+      goshWarriors_39: -3472908868080054515
+      goshWarriors_4: 7898178302303465468
+      goshWarriors_40: -4498670457246194008
+      goshWarriors_41: 5431011977439677201
+      goshWarriors_42: 1521968231218466864
+      goshWarriors_43: -8872832220196076239
+      goshWarriors_44: -8542115953616414175
+      goshWarriors_45: 8463596442818580704
+      goshWarriors_46: 7238813112970441995
+      goshWarriors_47: 5787691527688744021
+      goshWarriors_48: 1000193517467185820
+      goshWarriors_49: 5016519602295586714
+      goshWarriors_5: -2840530488400367297
+      goshWarriors_50: 3546332325846801820
+      goshWarriors_51: -6120574964871822449
+      goshWarriors_52: 2929428897675563894
+      goshWarriors_53: -8787117115628028018
+      goshWarriors_54: -8546426636760833696
+      goshWarriors_55: 4765687081868651407
+      goshWarriors_56: -2650191794222099463
+      goshWarriors_57: -7052350906763011306
+      goshWarriors_58: -5180931652880523713
+      goshWarriors_59: -8452785899565315139
+      goshWarriors_6: 2996970005326838338
+      goshWarriors_60: -5993486516777797082
+      goshWarriors_61: -6865570953842600406
+      goshWarriors_62: 5013206252306443467
+      goshWarriors_63: 8873603278816465896
+      goshWarriors_64: -8670278139607118792
+      goshWarriors_65: 4316884603877109583
+      goshWarriors_66: 6325404477945409820
+      goshWarriors_67: -833273880082503717
+      goshWarriors_68: 5528790070916542906
+      goshWarriors_69: 4659572249232199232
+      goshWarriors_7: -3661226248737006154
+      goshWarriors_70: 4778350804092975451
+      goshWarriors_71: -6008321551922213879
+      goshWarriors_72: -336550642942944641
+      goshWarriors_73: 5877052306134508984
+      goshWarriors_74: 3902242152662656575
+      goshWarriors_75: 6281101109840237015
+      goshWarriors_76: -7210859896136658025
+      goshWarriors_77: 7786517493150669651
+      goshWarriors_78: 6419971657954651718
+      goshWarriors_79: 7558227961107766690
+      goshWarriors_8: 8175292623987426189
+      goshWarriors_80: 467755975202984747
+      goshWarriors_81: -7849138035456401687
+      goshWarriors_82: 3928710254412340958
+      goshWarriors_83: -1929895891771771148
+      goshWarriors_84: 1724540745004864845
+      goshWarriors_85: 664399176932729403
+      goshWarriors_86: -5182696650594522866
+      goshWarriors_87: -6775881379627693420
+      goshWarriors_88: -6824927567900985187
+      goshWarriors_89: 1218276863285170834
+      goshWarriors_9: -6371655568495706359
+      goshWarriors_90: 8286428516056380520
+      goshWarriors_91: 6122918310105073247
+      goshWarriors_92: 1717070334241673419
+      goshWarriors_93: -157058065278727832
+      goshWarriors_94: -5822399972499038417
+      goshWarriors_95: -4406138273101451283
+      goshWarriors_96: 2316091020870405725
+      goshWarriors_97: 1026676745866131638
+      goshWarriors_98: 8248607974676834752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

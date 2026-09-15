@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: ed2ec4031fc49d246bacf4175eb13f8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6549611832274297353
+    second: Miner-three-all-animations_0
+  - first:
+      213: 2729911353418371641
+    second: Miner-three-all-animations_1
+  - first:
+      213: -5213171799674310365
+    second: Miner-three-all-animations_2
+  - first:
+      213: 4011314705578311266
+    second: Miner-three-all-animations_3
+  - first:
+      213: -7411766310715913407
+    second: Miner-three-all-animations_4
+  - first:
+      213: -7727312353201184534
+    second: Miner-three-all-animations_5
+  - first:
+      213: 4131985875516516939
+    second: Miner-three-all-animations_6
+  - first:
+      213: 627641966587551558
+    second: Miner-three-all-animations_7
+  - first:
+      213: -8970148866277410204
+    second: Miner-three-all-animations_8
+  - first:
+      213: 4676655323896144667
+    second: Miner-three-all-animations_9
+  - first:
+      213: -1095283967479280304
+    second: Miner-three-all-animations_10
+  - first:
+      213: -1978596526297141732
+    second: Miner-three-all-animations_11
+  - first:
+      213: -2853726400933538852
+    second: Miner-three-all-animations_12
+  - first:
+      213: 8315501995635807430
+    second: Miner-three-all-animations_13
+  - first:
+      213: -6092068667224315291
+    second: Miner-three-all-animations_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Miner-three-all-animations_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 233
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd58986dba1b15a0800000000000000
+      internalID: -6549611832274297353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner-three-all-animations_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 233
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932dec889e792e520800000000000000
+      internalID: 2729911353418371641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner-three-all-animations_2
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 233
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32134576ed717a7b0800000000000000
+      internalID: -5213171799674310365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner-three-all-animations_3
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 233
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ebb4cc87d0ba730800000000000000
+      internalID: 4011314705578311266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner-three-all-animations_4
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 233
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b02934fcd142990800000000000000
+      internalID: -7411766310715913407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner-three-all-animations_5
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 233
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0a4f61b5213c490800000000000000
+      internalID: -7727312353201184534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner-three-all-animations_6
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 233
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ae717f243c75930800000000000000
+      internalID: 4131985875516516939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner-three-all-animations_7
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 233
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f14901b05d5b800800000000000000
+      internalID: 627641966587551558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner-three-all-animations_8
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 233
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a792bc121a38380800000000000000
+      internalID: -8970148866277410204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner-three-all-animations_9
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 233
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13e4c53d31d6e040800000000000000
+      internalID: 4676655323896144667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner-three-all-animations_10
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 233
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d873ed805ccc0f0800000000000000
+      internalID: -1095283967479280304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner-three-all-animations_11
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 233
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eac3041fc9a84e0800000000000000
+      internalID: -1978596526297141732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner-three-all-animations_12
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 233
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3d33245f68568d0800000000000000
+      internalID: -2853726400933538852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner-three-all-animations_13
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 233
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c49ce2f109966370800000000000000
+      internalID: 8315501995635807430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner-three-all-animations_14
+      rect:
+        serializedVersion: 2
+        x: 3979
+        y: 233
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aaec603df947ba0800000000000000
+      internalID: -6092068667224315291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Miner-three-all-animations_0: -6549611832274297353
+      Miner-three-all-animations_1: 2729911353418371641
+      Miner-three-all-animations_10: -1095283967479280304
+      Miner-three-all-animations_11: -1978596526297141732
+      Miner-three-all-animations_12: -2853726400933538852
+      Miner-three-all-animations_13: 8315501995635807430
+      Miner-three-all-animations_14: -6092068667224315291
+      Miner-three-all-animations_2: -5213171799674310365
+      Miner-three-all-animations_3: 4011314705578311266
+      Miner-three-all-animations_4: -7411766310715913407
+      Miner-three-all-animations_5: -7727312353201184534
+      Miner-three-all-animations_6: 4131985875516516939
+      Miner-three-all-animations_7: 627641966587551558
+      Miner-three-all-animations_8: -8970148866277410204
+      Miner-three-all-animations_9: 4676655323896144667
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

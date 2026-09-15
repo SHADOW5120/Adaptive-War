@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 581cc94a25b81b24abb0598d2d6479a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6057189667835252292
+    second: oil-0002_0
+  - first:
+      213: 3702504545434124942
+    second: oil-0002_1
+  - first:
+      213: 6463848790889788882
+    second: oil-0002_2
+  - first:
+      213: -5961717010187912899
+    second: oil-0002_3
+  - first:
+      213: 5789040076984815469
+    second: oil-0002_4
+  - first:
+      213: 2101338442357145592
+    second: oil-0002_5
+  - first:
+      213: 6464346934701104529
+    second: oil-0002_6
+  - first:
+      213: 8355821526377318319
+    second: oil-0002_7
+  - first:
+      213: -692721054521645578
+    second: oil-0002_8
+  - first:
+      213: 7208041092912297072
+    second: oil-0002_9
+  - first:
+      213: 686245783142210133
+    second: oil-0002_10
+  - first:
+      213: -1781947283307344425
+    second: oil-0002_11
+  - first:
+      213: 3164737616029287492
+    second: oil-0002_12
+  - first:
+      213: 4979339985728009460
+    second: oil-0002_13
+  - first:
+      213: 851919682856036546
+    second: oil-0002_14
+  - first:
+      213: -3911605596634992330
+    second: oil-0002_15
+  - first:
+      213: 282870485318582135
+    second: oil-0002_16
+  - first:
+      213: 6840358369042560697
+    second: oil-0002_17
+  - first:
+      213: -1199557946701026430
+    second: oil-0002_18
+  - first:
+      213: -4614073733759074869
+    second: oil-0002_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oil-0002_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb17387e61a80fba0800000000000000
+      internalID: -6057189667835252292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82ced17440f16330800000000000000
+      internalID: 3702504545434124942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5f2d67a3434b950800000000000000
+      internalID: 6463848790889788882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39785c37f9b34da0800000000000000
+      internalID: -5961717010187912899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f0e23474dc65050800000000000000
+      internalID: 5789040076984815469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fff1911e24792d10800000000000000
+      internalID: 2101338442357145592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d9ebb9949f5b950800000000000000
+      internalID: 6464346934701104529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7484e3867d5f370800000000000000
+      internalID: 8355821526377318319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5adc00fd5f266f0800000000000000
+      internalID: -692721054521645578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_9
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074b4752f2b180460800000000000000
+      internalID: 7208041092912297072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_10
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a1dc467e8068900800000000000000
+      internalID: 686245783142210133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_11
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd4ef113604547e0800000000000000
+      internalID: -1781947283307344425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_12
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4440eb228186beb20800000000000000
+      internalID: 3164737616029287492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_13
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 0
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f47739d55b2a1540800000000000000
+      internalID: 4979339985728009460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_14
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 0
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c82cc91070a2db00800000000000000
+      internalID: 851919682856036546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_15
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 0
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63134273f6f27b9c0800000000000000
+      internalID: -3911605596634992330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_16
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 0
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f3bda2535fce300800000000000000
+      internalID: 282870485318582135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_17
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 0
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6f623e1b5ddee50800000000000000
+      internalID: 6840358369042560697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_18
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 0
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b636b27605a5fe0800000000000000
+      internalID: -1199557946701026430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oil-0002_19
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 0
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd74d3b26487ffb0800000000000000
+      internalID: -4614073733759074869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      oil-0002_0: -6057189667835252292
+      oil-0002_1: 3702504545434124942
+      oil-0002_10: 686245783142210133
+      oil-0002_11: -1781947283307344425
+      oil-0002_12: 3164737616029287492
+      oil-0002_13: 4979339985728009460
+      oil-0002_14: 851919682856036546
+      oil-0002_15: -3911605596634992330
+      oil-0002_16: 282870485318582135
+      oil-0002_17: 6840358369042560697
+      oil-0002_18: -1199557946701026430
+      oil-0002_19: -4614073733759074869
+      oil-0002_2: 6463848790889788882
+      oil-0002_3: -5961717010187912899
+      oil-0002_4: 5789040076984815469
+      oil-0002_5: 2101338442357145592
+      oil-0002_6: 6464346934701104529
+      oil-0002_7: 8355821526377318319
+      oil-0002_8: -692721054521645578
+      oil-0002_9: 7208041092912297072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

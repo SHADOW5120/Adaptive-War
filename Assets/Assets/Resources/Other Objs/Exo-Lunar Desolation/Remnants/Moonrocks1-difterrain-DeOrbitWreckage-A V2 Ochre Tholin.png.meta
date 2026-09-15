@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: eef157133ff322c4ea418ba154be978c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 768907396946011004
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_0
+  - first:
+      213: 6092151799858781800
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_1
+  - first:
+      213: -1173827009368120349
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_2
+  - first:
+      213: -5937361282859622398
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_3
+  - first:
+      213: 8723591153048492966
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_4
+  - first:
+      213: 1741749271473958437
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_5
+  - first:
+      213: -8187115435927404822
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_6
+  - first:
+      213: -54080308481601321
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_7
+  - first:
+      213: -5265991772814644591
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_8
+  - first:
+      213: -3836099329334887320
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_9
+  - first:
+      213: -5686715537577217880
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_10
+  - first:
+      213: -7962453054189459541
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_11
+  - first:
+      213: -4416418569738705458
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_12
+  - first:
+      213: -3154460180370522771
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_13
+  - first:
+      213: 2925324073870742582
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_14
+  - first:
+      213: -2093365008352149408
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_15
+  - first:
+      213: 3044778063249725527
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_16
+  - first:
+      213: 6793909558533147909
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_17
+  - first:
+      213: 8335354110894249017
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_18
+  - first:
+      213: -7687003680138747611
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_19
+  - first:
+      213: 6303965985485008348
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_20
+  - first:
+      213: 8675877633335758766
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_21
+  - first:
+      213: -525838845613796005
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_22
+  - first:
+      213: -5878687474512388313
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_23
+  - first:
+      213: -2115794995684157903
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_24
+  - first:
+      213: -8808294672079937726
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_25
+  - first:
+      213: -5602890985207365500
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_26
+  - first:
+      213: 5746826223217305415
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_27
+  - first:
+      213: -6606008942387234776
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_28
+  - first:
+      213: -6956844147277551637
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_29
+  - first:
+      213: 3564832443980949872
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_30
+  - first:
+      213: -2551430996535824761
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_31
+  - first:
+      213: 5267201568562187801
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_32
+  - first:
+      213: 5323407835282157667
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_33
+  - first:
+      213: -5992175444482509095
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_34
+  - first:
+      213: 361820221266975187
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_35
+  - first:
+      213: 2434520574944590856
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_36
+  - first:
+      213: 7378138419911512915
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_37
+  - first:
+      213: -1761296318640572675
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_38
+  - first:
+      213: -5426932514888306415
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_39
+  - first:
+      213: 6217614223641831451
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_40
+  - first:
+      213: -5570831711472895554
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_41
+  - first:
+      213: 713535813672048264
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_42
+  - first:
+      213: 2580989607229231603
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_43
+  - first:
+      213: -6323334762520643199
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_44
+  - first:
+      213: -564564206799218687
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_45
+  - first:
+      213: 9039175533237528342
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_46
+  - first:
+      213: -4421778684380014342
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_47
+  - first:
+      213: -5364079592471350658
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_48
+  - first:
+      213: -1039635948374687566
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_49
+  - first:
+      213: -9094851810912019869
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_50
+  - first:
+      213: 7653943128753352037
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_51
+  - first:
+      213: 7947509348936787022
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_52
+  - first:
+      213: 5156100612908136987
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_53
+  - first:
+      213: -1699941117739952918
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_54
+  - first:
+      213: 3403133727847888781
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_55
+  - first:
+      213: -4310257915526350660
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_56
+  - first:
+      213: -854005181095182301
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_57
+  - first:
+      213: 3669484145661672069
+    second: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_0
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 432
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7323242435bbaa00800000000000000
+      internalID: 768907396946011004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 440
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ed65cc8cbab8450800000000000000
+      internalID: 6092151799858781800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 432
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3aadedd8ab5bfe0800000000000000
+      internalID: -1173827009368120349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200aef7ee514a9da0800000000000000
+      internalID: -5937361282859622398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 426
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab12332feb601970800000000000000
+      internalID: 8723591153048492966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 436
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e2006fbbfeb2810800000000000000
+      internalID: 1741749271473958437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 867
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeefd6263e5816e80800000000000000
+      internalID: -8187115435927404822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 431
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d05c97fe3edf3ff0800000000000000
+      internalID: -54080308481601321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 420
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ae04f02607be6b0800000000000000
+      internalID: -5265991772814644591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 427
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c31e70cff63cac0800000000000000
+      internalID: -3836099329334887320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 431
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0f30c195ab411b0800000000000000
+      internalID: -5686715537577217880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba72054522faf7190800000000000000
+      internalID: -7962453054189459541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 429
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec52943c5bab5b2c0800000000000000
+      internalID: -4416418569738705458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_13
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 426
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d76e2dd2b1934d0800000000000000
+      internalID: -3154460180370522771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 420
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634d6f30fb6d89820800000000000000
+      internalID: 2925324073870742582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_15
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 297
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06000f3bd9fd2f2e0800000000000000
+      internalID: -2093365008352149408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_16
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 292
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758d6ef3489314a20800000000000000
+      internalID: 3044778063249725527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_17
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 286
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dcf707fb0d84e50800000000000000
+      internalID: 6793909558533147909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 282
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93491f8b6602da370800000000000000
+      internalID: 8335354110894249017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_19
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 284
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521a53261e6425590800000000000000
+      internalID: -7687003680138747611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_20
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 266
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddaaf8f9af2c7750800000000000000
+      internalID: 6303965985485008348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_21
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 277
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf0cb1adb8e66870800000000000000
+      internalID: 8675877633335758766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_22
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 278
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55961e1b58d3b8f0800000000000000
+      internalID: -525838845613796005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_23
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 262
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f962873e4ba6ea0800000000000000
+      internalID: -5878687474512388313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_24
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 271
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13652b059af23a2e0800000000000000
+      internalID: -2115794995684157903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_25
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 255
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f95b10aa6a2c580800000000000000
+      internalID: -8808294672079937726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_26
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 258
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4800a7795588e32b0800000000000000
+      internalID: -5602890985207365500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_27
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 245
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74764c48004d0cf40800000000000000
+      internalID: 5746826223217305415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_28
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 225
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82874f5fdddb254a0800000000000000
+      internalID: -6606008942387234776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_29
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 234
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be724c36b13547f90800000000000000
+      internalID: -6956844147277551637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_30
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 226
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079a5437834d87130800000000000000
+      internalID: 3564832443980949872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_31
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 218
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eaf86d60f779cd0800000000000000
+      internalID: -2551430996535824761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_32
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 210
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e87867bebd81940800000000000000
+      internalID: 5267201568562187801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_33
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 216
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3603688b83b80e940800000000000000
+      internalID: 5323407835282157667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_34
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 213
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d63dcf5e2487dca0800000000000000
+      internalID: -5992175444482509095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_35
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 192
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9db210391750500800000000000000
+      internalID: 361820221266975187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_36
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 184
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cb3f3709729c120800000000000000
+      internalID: 2434520574944590856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_37
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 185
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353dc764dc9646660800000000000000
+      internalID: 7378138419911512915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_38
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 176
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6b937745e9e87e0800000000000000
+      internalID: -1761296318640572675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_39
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 130
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111b01e71a9afa4b0800000000000000
+      internalID: -5426932514888306415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_40
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 32
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18669ea137694650800000000000000
+      internalID: 6217614223641831451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_41
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 32
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb93d2ee21e60b2b0800000000000000
+      internalID: -5570831711472895554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_42
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8861174ca0df6e900800000000000000
+      internalID: 713535813672048264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_43
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 23
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f19fd38f5481d320800000000000000
+      internalID: 2580989607229231603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_44
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189f31439800f38a0800000000000000
+      internalID: -6323334762520643199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_45
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 19
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10815d858d34a28f0800000000000000
+      internalID: -564564206799218687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_46
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 19
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6176601814a917d70800000000000000
+      internalID: 9039175533237528342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_47
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af89222d6bfa2a2c0800000000000000
+      internalID: -4421778684380014342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_48
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72b2dfd706fe85b0800000000000000
+      internalID: -5364079592471350658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_49
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 26
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b08669fc987291f0800000000000000
+      internalID: -1039635948374687566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_50
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a55cde67898c180800000000000000
+      internalID: -9094851810912019869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_51
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56da26829b4483a60800000000000000
+      internalID: 7653943128753352037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_52
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44297825a93b4e60800000000000000
+      internalID: 7947509348936787022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_53
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a309270362e8740800000000000000
+      internalID: 5156100612908136987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_54
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 16
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae497026f889868e0800000000000000
+      internalID: -1699941117739952918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_55
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87368b481c5a3f20800000000000000
+      internalID: 3403133727847888781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_56
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 4
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb87cb63343ee24c0800000000000000
+      internalID: -4310257915526350660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_57
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3208a7000d6f524f0800000000000000
+      internalID: -854005181095182301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_58
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a77138360ace230800000000000000
+      internalID: 3669484145661672069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_0: 768907396946011004
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_1: 6092151799858781800
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_10: -5686715537577217880
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_11: -7962453054189459541
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_12: -4416418569738705458
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_13: -3154460180370522771
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_14: 2925324073870742582
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_15: -2093365008352149408
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_16: 3044778063249725527
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_17: 6793909558533147909
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_18: 8335354110894249017
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_19: -7687003680138747611
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_2: -1173827009368120349
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_20: 6303965985485008348
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_21: 8675877633335758766
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_22: -525838845613796005
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_23: -5878687474512388313
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_24: -2115794995684157903
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_25: -8808294672079937726
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_26: -5602890985207365500
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_27: 5746826223217305415
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_28: -6606008942387234776
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_29: -6956844147277551637
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_3: -5937361282859622398
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_30: 3564832443980949872
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_31: -2551430996535824761
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_32: 5267201568562187801
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_33: 5323407835282157667
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_34: -5992175444482509095
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_35: 361820221266975187
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_36: 2434520574944590856
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_37: 7378138419911512915
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_38: -1761296318640572675
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_39: -5426932514888306415
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_4: 8723591153048492966
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_40: 6217614223641831451
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_41: -5570831711472895554
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_42: 713535813672048264
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_43: 2580989607229231603
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_44: -6323334762520643199
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_45: -564564206799218687
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_46: 9039175533237528342
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_47: -4421778684380014342
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_48: -5364079592471350658
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_49: -1039635948374687566
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_5: 1741749271473958437
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_50: -9094851810912019869
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_51: 7653943128753352037
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_52: 7947509348936787022
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_53: 5156100612908136987
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_54: -1699941117739952918
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_55: 3403133727847888781
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_56: -4310257915526350660
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_57: -854005181095182301
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_58: 3669484145661672069
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_6: -8187115435927404822
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_7: -54080308481601321
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_8: -5265991772814644591
+      Moonrocks1-difterrain-DeOrbitWreckage-A V2 Ochre Tholin_9: -3836099329334887320
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 88d404455775a6244a3551ad5e85cc7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 803772063937627744
+    second: all-animations-drill motor only_0
+  - first:
+      213: 8029914067766742778
+    second: all-animations-drill motor only_1
+  - first:
+      213: -6300983466658251249
+    second: all-animations-drill motor only_2
+  - first:
+      213: 2403463171661641180
+    second: all-animations-drill motor only_3
+  - first:
+      213: -5026895855450826621
+    second: all-animations-drill motor only_4
+  - first:
+      213: -2420455701693319725
+    second: all-animations-drill motor only_5
+  - first:
+      213: -523985126586003779
+    second: all-animations-drill motor only_6
+  - first:
+      213: 8724313914202857487
+    second: all-animations-drill motor only_7
+  - first:
+      213: 2579685719528466762
+    second: all-animations-drill motor only_8
+  - first:
+      213: -1619508392150291332
+    second: all-animations-drill motor only_9
+  - first:
+      213: -7410570877889398395
+    second: all-animations-drill motor only_10
+  - first:
+      213: 2655908476203791896
+    second: all-animations-drill motor only_11
+  - first:
+      213: 5344520880395587986
+    second: all-animations-drill motor only_12
+  - first:
+      213: 2403035815211898931
+    second: all-animations-drill motor only_13
+  - first:
+      213: 2859630978651021473
+    second: all-animations-drill motor only_14
+  - first:
+      213: -6934935805589393258
+    second: all-animations-drill motor only_15
+  - first:
+      213: 5298099784506151794
+    second: all-animations-drill motor only_16
+  - first:
+      213: 5599244854246828443
+    second: all-animations-drill motor only_17
+  - first:
+      213: -8079507341161059731
+    second: all-animations-drill motor only_18
+  - first:
+      213: -1033083471398920028
+    second: all-animations-drill motor only_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: all-animations-drill motor only_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 66
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066826ffe62972b00800000000000000
+      internalID: 803772063937627744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 66
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe0622ec4cff6f60800000000000000
+      internalID: 8029914067766742778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 66
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eb93ecbe86e88a0800000000000000
+      internalID: -6300983466658251249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 64
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd530a14501da5120800000000000000
+      internalID: 2403463171661641180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_4
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 61
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38858f46ad0ec3ab0800000000000000
+      internalID: -5026895855450826621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_5
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 60
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5300a0d50d86ed0800000000000000
+      internalID: -2420455701693319725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_6
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 60
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbec046bd4e6ab8f0800000000000000
+      internalID: -523985126586003779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_7
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 60
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f002f05184df21970800000000000000
+      internalID: 8724313914202857487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_8
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 60
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4964a08e72ecc320800000000000000
+      internalID: 2579685719528466762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_9
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 60
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c2e17a2b95689e0800000000000000
+      internalID: -1619508392150291332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_10
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 60
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5893c88ac0d582990800000000000000
+      internalID: -7410570877889398395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_11
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 60
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816731000beabd420800000000000000
+      internalID: 2655908476203791896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_12
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 60
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29113aa9c6d8b2a40800000000000000
+      internalID: 5344520880395587986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_13
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 60
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3381f34975c495120800000000000000
+      internalID: 2403035815211898931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_14
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 60
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0623f59337fa720800000000000000
+      internalID: 2859630978651021473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_15
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 61
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690f4bfa0a822cf90800000000000000
+      internalID: -6934935805589393258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_16
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 64
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2731018fea1a68940800000000000000
+      internalID: 5298099784506151794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_17
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 66
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99e0d3678384bd40800000000000000
+      internalID: 5599244854246828443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_18
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 66
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a2fe951e2dfdf80800000000000000
+      internalID: -8079507341161059731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all-animations-drill motor only_19
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 66
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0a0f76e00c9a1f0800000000000000
+      internalID: -1033083471398920028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      all-animations-drill motor only_0: 803772063937627744
+      all-animations-drill motor only_1: 8029914067766742778
+      all-animations-drill motor only_10: -7410570877889398395
+      all-animations-drill motor only_11: 2655908476203791896
+      all-animations-drill motor only_12: 5344520880395587986
+      all-animations-drill motor only_13: 2403035815211898931
+      all-animations-drill motor only_14: 2859630978651021473
+      all-animations-drill motor only_15: -6934935805589393258
+      all-animations-drill motor only_16: 5298099784506151794
+      all-animations-drill motor only_17: 5599244854246828443
+      all-animations-drill motor only_18: -8079507341161059731
+      all-animations-drill motor only_19: -1033083471398920028
+      all-animations-drill motor only_2: -6300983466658251249
+      all-animations-drill motor only_3: 2403463171661641180
+      all-animations-drill motor only_4: -5026895855450826621
+      all-animations-drill motor only_5: -2420455701693319725
+      all-animations-drill motor only_6: -523985126586003779
+      all-animations-drill motor only_7: 8724313914202857487
+      all-animations-drill motor only_8: 2579685719528466762
+      all-animations-drill motor only_9: -1619508392150291332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
