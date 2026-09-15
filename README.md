@@ -1,141 +1,116 @@
-⚔️ Adaptive War
-2D Isometric Strategy Game with Reinforcement Learning
+# ⚔️ Adaptive War
 
-Adaptive War is a 2D isometric strategy game developed with Unity, featuring an adaptive NPC combat system powered by Reinforcement Learning (RL).
+> **2D Isometric Strategy Game with Reinforcement Learning**
 
-Instead of relying entirely on predefined behaviors, NPCs use a trained Proximal Policy Optimization (PPO) model to make tactical decisions based on the current game state.
+Adaptive War is a 2D isometric strategy game developed with Unity, featuring an adaptive NPC combat system powered by **Reinforcement Learning (RL)**.
 
-The project combines Reinforcement Learning with traditional Game AI techniques such as Behavior Trees, Finite State Machines, Rule-Based Systems, and A* Pathfinding. This layered architecture allows the AI to remain adaptive while maintaining predictable and controllable gameplay.
+Instead of relying entirely on predefined behaviors, NPCs use a trained **Proximal Policy Optimization (PPO)** model to make tactical decisions based on the current game state.
 
-📖 Overview
+The project combines Reinforcement Learning with traditional Game AI techniques — **Behavior Trees**, **Finite State Machines**, **Rule-Based Systems**, and **A\* Pathfinding** — in a layered architecture that keeps AI adaptive while maintaining predictable and controllable gameplay.
+
+---
+
+![Main Menu](https://github.com/user-attachments/assets/b3389f25-8f09-4b78-9b49-8b065a453a89)
+
+---
+
+## 📖 Table of Contents
+
+- [Overview](#-overview)
+- [Key Features](#-key-features)
+- [AI Architecture](#-ai-architecture)
+- [NPC Decision-Making Pipeline](#-npc-decision-making-pipeline)
+- [Reinforcement Learning](#-reinforcement-learning)
+- [Training & Evaluation](#-ai-training--evaluation)
+- [Technologies](#️-technologies)
+- [Project Structure](#-project-structure)
+- [Installation & Setup](#-installation--setup)
+- [Project Objectives](#-project-objectives)
+- [Screenshots](#-screenshots)
+
+---
+
+## 📖 Overview
 
 The main idea behind Adaptive War is to integrate a trained Machine Learning model into a conventional game AI architecture.
 
-The RL model does not control the entire NPC directly. Instead, it acts as a tactical decision-making component inside the existing AI system.
+The RL model does **not** control the NPC directly. Instead, it acts as a **tactical decision-making component** inside the existing AI system, providing a balance between:
 
-This approach provides a balance between:
+| Aspect | Technology |
+|---|---|
+| 🧠 Adaptive decision-making | Reinforcement Learning (PPO) |
+| 🌳 High-level strategic control | Behavior Tree |
+| 🔄 Deterministic action execution | FSM + Game Logic |
+| 🗺️ Navigation | A\* Pathfinding |
+| ⚡ Real-time inference | ONNX inside Unity |
 
-🧠 Adaptive decision-making through Reinforcement Learning
+---
 
-🌳 High-level control through Behavior Trees
+## ✨ Key Features
 
-🔄 Deterministic action execution through FSM and game logic
+### 🧠 Adaptive NPC AI
 
-🗺️ Navigation through A* Pathfinding
+- Integrates a trained neural network directly into Unity via **ONNX**
+- Uses **PPO** to learn combat decision-making from scratch
+- NPCs react to the environment and combat state dynamically
+- RL works **alongside** deterministic game logic — not replacing it
 
-⚡ Real-time inference using an ONNX model inside Unity
+### 🏗️ Layered AI Architecture
 
-Main Menu
-<img width="1920" height="1080" alt="Main Menu" src="https://github.com/user-attachments/assets/b3389f25-8f09-4b78-9b49-8b065a453a89" />
-✨ Key Features
-🧠 Adaptive NPC AI
+| Layer | Technologies | Responsibility |
+|---|---|---|
+| **Macro Layer** | Behavior Tree, Rule-Based System | High-level strategy and game flow |
+| **Micro Layer** | FSM, PPO Neural Network | Tactical decisions for individual units |
+| **Support Layer** | A\* Pathfinding | Navigation and obstacle avoidance |
 
-Integrates a trained neural network directly into Unity using ONNX.
+### 🎮 2D Isometric Gameplay
 
-Uses PPO to learn combat decision-making.
+- 2D isometric environment and characters
+- 8-directional movement
+- Unity Animator & Blend Trees
+- Navigable environments with obstacles
+- Strategic combat and unit deployment
 
-NPCs make decisions based on the current environment and combat state.
+### 📱 Cross-Platform Design
 
-The trained model is used for offline training and runtime inference.
+Designed for deployment on:
+- 🖥️ PC
+- 📱 Android
 
-Reinforcement Learning works alongside deterministic game logic rather than replacing it.
+---
 
-🏗️ Layered AI Architecture
+## 🧠 AI Architecture
 
-Adaptive War uses three main AI layers:
+![Layered AI Architecture](https://github.com/user-attachments/assets/7a52438c-ea26-44ee-aefb-8111353099e1)
 
-Layer	Technologies	Responsibility
-Macro Layer	Behavior Tree, Rule-Based System	High-level strategy and game flow
-Micro Layer	FSM, PPO Neural Network	Tactical decisions for individual units
-Support Layer	A* Pathfinding	Navigation and obstacle avoidance
+### Macro Layer
 
-This architecture separates strategic control, tactical decision-making, and navigation, making the AI easier to control and maintain.
+Responsible for **high-level NPC behavior and strategic control**.
 
-🎮 2D Isometric Gameplay
+- Determines overall NPC behavior and decision flow
+- Reacts to game-state changes
+- Enforces rule-based constraints and behavior transitions
 
-2D isometric environment and characters
+### Micro Layer
 
-8-directional movement
+Handles **tactical decisions** made by individual units.
 
-Unity Animator and Blend Trees
+- The **PPO neural network** selects the tactical action
+- The **FSM** executes the selected action through existing game logic
+- This separation lets the neural network influence behavior without full control
 
-Navigable environments with obstacles
+### Support Layer
 
-A* pathfinding
+Handles **movement and navigation**.
 
-Strategic combat and unit deployment
+- A\* Pathfinding calculates paths through the isometric environment
+- The RL model focuses on *what* to do; pathfinding handles *how* to get there
 
-Adaptive NPC combat behavior
+---
 
-📱 Cross-Platform Design
+## 🔄 NPC Decision-Making Pipeline
 
-The project is designed with multiple deployment targets in mind:
-
-🖥️ PC
-
-📱 Android
-
-🧠 AI Architecture
-
-The core of Adaptive War is a Layered AI Architecture that combines different AI techniques according to their strengths.
-
-<img width="1024" height="559" alt="Layered AI Architecture" src="https://github.com/user-attachments/assets/7a52438c-ea26-44ee-aefb-8111353099e1" />
-Macro Layer
-
-The Macro Layer is responsible for high-level NPC behavior and strategic control.
-
-Technologies
-
-Behavior Tree
-
-Rule-Based System
-
-Responsibilities
-
-The Macro Layer determines:
-
-Overall NPC behavior
-
-High-level decision flow
-
-Game-state reactions
-
-Behavior transitions
-
-Rule-based constraints
-
-This layer ensures that AI behavior remains consistent with the rules and objectives of the game.
-
-Micro Layer
-
-The Micro Layer handles tactical decisions made by individual units.
-
-Technologies
-
-Finite State Machine (FSM)
-
-PPO Neural Network
-
-The PPO model determines the tactical action that should be taken, while the FSM and existing game logic are responsible for executing that action.
-
-This separation allows the neural network to influence NPC behavior without directly controlling every aspect of the game.
-
-Support Layer
-
-The Support Layer handles movement and navigation.
-
-Technology
-
-A* Pathfinding
-
-The A* algorithm calculates navigation paths through the isometric environment while avoiding obstacles.
-
-This allows the RL model to focus on what the unit should do, while the pathfinding system handles how the unit gets there.
-
-🔄 NPC Decision-Making Pipeline
-
-During gameplay, an NPC continuously observes the environment and uses the current state to select an appropriate action.
-
+```
 Game Environment
        │
        ▼
@@ -155,81 +130,62 @@ Game Logic
        │
        ▼
 Animation / Movement / Combat
+```
 
-1. Environment Observation
+### 1. Environment Observation
 
-The AI extracts information describing the current state of the NPC and its opponent.
+The AI extracts features describing the current combat state:
 
-Example observations include:
+- NPC health & Opponent health
+- X-axis / Y-axis distance
+- Total distance to opponent
+- Attack-range status
+- Other relevant game-state information
 
-NPC health
+### 2. Neural Network Inference
 
-Opponent health
+The extracted features are passed into the trained **Actor-Critic** network, which selects one of **10 possible actions**:
 
-X-axis distance
+| # | Action |
+|---|---|
+| 1 | Attack |
+| 2 | Idle |
+| 3 | Move Up |
+| 4 | Move Down |
+| 5 | Move Left |
+| 6 | Move Right |
+| 7 | Move Up-Left |
+| 8 | Move Up-Right |
+| 9 | Move Down-Left |
+| 10 | Move Down-Right |
 
-Y-axis distance
+### 3. Action Execution
 
-Total distance
+The selected action is passed back into the AI architecture. The **Behavior Tree** and **FSM** coordinate execution while underlying game systems handle movement, animation, and combat.
 
-Attack-range status
+![Behavior Tree](https://github.com/user-attachments/assets/774d2cef-b1d0-4f87-81f6-2a1722594588)
 
-Other game-state information required by the trained model
+---
 
-2. Neural Network Inference
+## 🤖 Reinforcement Learning
 
-The extracted features are passed into the trained Actor-Critic neural network.
+### PPO — Proximal Policy Optimization
 
-The policy selects one of 10 possible actions:
+The agent is trained using **PPO** with an **Actor-Critic** architecture:
 
-Action
-Attack
-Idle
-Move Up
-Move Down
-Move Left
-Move Right
-Move Up-Left
-Move Up-Right
-Move Down-Left
-Move Down-Right
+**Actor** — Learns the policy; determines which action to take given the current state.
 
-The model therefore learns to select actions according to the current combat situation rather than following a completely fixed sequence of behaviors.
+**Critic** — Estimates state value; helps evaluate how effective the Actor's decisions are.
 
-3. Action Execution
+The agent repeatedly interacts with the environment, receives rewards, and updates its policy to improve future decisions.
 
-The selected action is passed back into the existing AI architecture.
+### Generalized Advantage Estimation (GAE)
 
-The Behavior Tree and FSM coordinate the execution of the decision, while the underlying game systems handle movement, animation, combat, and other gameplay logic.
+Training uses **GAE** to estimate action advantages, providing more stable advantage estimates and a smoother learning process during PPO optimization.
 
-This design keeps the RL model focused on decision-making while preserving deterministic control over game execution.
+### Training Pipeline
 
-Behavior Tree
-<img width="4008" height="3348" alt="Behavior Tree" src="https://github.com/user-attachments/assets/774d2cef-b1d0-4f87-81f6-2a1722594588" />
-🤖 Reinforcement Learning
-PPO — Proximal Policy Optimization
-
-The Adaptive War agent is trained using Proximal Policy Optimization (PPO), a policy-gradient Reinforcement Learning algorithm.
-
-The model uses an Actor-Critic architecture consisting of two main components:
-
-Actor
-
-The Actor learns the policy and determines which action should be selected given the current state.
-
-Critic
-
-The Critic estimates the value of the current state and helps evaluate how effective the Actor's decisions are.
-
-During training, the agent repeatedly interacts with the environment, receives rewards, and updates its policy to improve future decisions.
-
-Generalized Advantage Estimation
-
-The training process uses Generalized Advantage Estimation (GAE) to estimate the advantage of actions.
-
-GAE helps provide more stable advantage estimates during PPO training and improves the learning process.
-
-Training Pipeline
+```
 Game Environment
        │
        ▼
@@ -248,99 +204,70 @@ Environment Reward
 GAE / PPO Update
        │
        └──────────────► Repeat
+```
 
-📊 AI Training & Evaluation
+---
 
-The RL model was evaluated using several training metrics:
+## 📊 AI Training & Evaluation
 
-Metric	Description
-Eval Return	Total reward obtained by the agent during evaluation
-Policy Entropy	Measures the randomness/exploration of the policy
-Actor Loss	Indicates optimization behavior of the policy network
-Critic Loss	Measures the performance of value estimation
-KL Divergence	Monitors changes between successive policies
+| Metric | Description |
+|---|---|
+| **Eval Return** | Total reward obtained during evaluation |
+| **Policy Entropy** | Measures randomness / exploration of the policy |
+| **Actor Loss** | Optimization behavior of the policy network |
+| **Critic Loss** | Performance of value estimation |
+| **KL Divergence** | Monitors changes between successive policies |
 
-The training curves show the agent gradually moving toward a more stable policy.
+![Training Curves](https://github.com/user-attachments/assets/8724c6cb-19f3-4bbe-bf69-4da07993dd96)
 
-Training Curves
-<img width="2850" height="1200" alt="Training Curves" src="https://github.com/user-attachments/assets/8724c6cb-19f3-4bbe-bf69-4da07993dd96" />
-🎯 Learned Combat Behaviors
+### 🎯 Learned Combat Behaviors
 
-After training, the agent learned several meaningful combat behaviors, including:
+After training, the agent learned several meaningful behaviors:
 
-Approaching targets proactively
+- ✅ Approaching targets proactively
+- ✅ Maintaining appropriate combat distance
+- ✅ Recognizing when an opponent enters attack range
+- ✅ Choosing when to attack vs. reposition
+- ✅ Moving in different directions based on combat state
+- ✅ Adapting actions to environment changes
 
-Maintaining an appropriate distance from opponents
+---
 
-Recognizing when an opponent enters attack range
+## 🛠️ Technologies
 
-Choosing when to attack
+### 🎮 Game Development
 
-Moving in different directions according to the combat situation
+- **Unity** / **C#**
+- 2D Isometric Game Architecture
+- Unity Animator & Blend Trees
 
-Adapting actions based on changes in the environment
+### 🤖 Artificial Intelligence
 
-These behaviors demonstrate how Reinforcement Learning can be used as a tactical decision-making component inside a larger game AI system.
+- Reinforcement Learning — **PPO** (Proximal Policy Optimization)
+- Actor-Critic Architecture
+- **GAE** — Generalized Advantage Estimation
+- Behavior Tree
+- Finite State Machine (FSM)
+- Rule-Based AI
+- A\* Pathfinding
 
-🛠️ Technologies
-🎮 Game Development
+### 🧠 Machine Learning & Deployment
 
-Unity
+- **Python** — Neural network training
+- **ONNX** — Model export and runtime inference in Unity
+- Offline training + real-time inference pipeline
 
-C#
+---
 
-2D Isometric Game Architecture
+## 📁 Project Structure
 
-Unity Animator
-
-Unity Blend Trees
-
-🤖 Artificial Intelligence
-
-Reinforcement Learning
-
-PPO — Proximal Policy Optimization
-
-Actor-Critic
-
-GAE — Generalized Advantage Estimation
-
-Behavior Tree
-
-Finite State Machine (FSM)
-
-Rule-Based AI
-
-A* Pathfinding
-
-🧠 Machine Learning & Deployment
-
-Python
-
-Neural Network Training
-
-ONNX
-
-Offline Model Training
-
-Runtime Neural Network Inference in Unity
-
-🎯 Target Platforms
-
-🖥️ PC
-
-📱 Android
-
-📁 Project Structure
-
-A simplified project structure:
-
+```
 AdaptiveWar/
 ├── Assets/
 │   ├── Scenes/
 │   │   └── MainMenu
 │   ├── Resources/
-│   │   └── *.onnx
+│   │   └── *.onnx          ← Trained AI model
 │   ├── Scripts/
 │   ├── Prefabs/
 │   ├── Animations/
@@ -349,106 +276,97 @@ AdaptiveWar/
 ├── Packages/
 ├── ProjectSettings/
 └── README.md
+```
 
+> The trained AI model is included as an `.onnx` file under `Assets/Resources/`.
+> **No additional training is required to run the game.**
 
-The trained AI model is included in the Unity project as an .onnx file under:
+---
 
-Assets/Resources/
+## 🚀 Installation & Setup
 
+### Prerequisites
 
-No additional model training is required to run the game.
+- Unity Editor (compatible with project version)
+- Required Unity packages
+- A PC capable of running the Unity Editor
 
-🚀 Installation & Setup
-Prerequisites
+### Steps
 
-Before running the project, make sure you have:
+**1. Clone the repository**
 
-Unity Editor compatible with the project version
-
-Required Unity packages
-
-A PC capable of running the Unity Editor
-
-Installation
-1. Clone the repository
+```bash
 git clone <repository-url>
+```
 
-2. Open the project
+**2. Open the project**
 
-Open the project using Unity Hub or the Unity Editor.
+Open the project using **Unity Hub** or the **Unity Editor**.
 
-3. Install required packages
+**3. Install required packages**
 
-Make sure the required packages are installed, including:
+Ensure the following packages are installed:
 
-A* Pathfinding Project
+- A\* Pathfinding Project
+- TextMesh Pro
+- Other packages listed in the project manifest
 
-TextMesh Pro
+**4. Open the Main Menu scene**
 
-Other packages specified by the project
+```
+Assets/Scenes/MainMenu
+```
 
-4. Open the Main Menu scene
+**5. Press Play**
 
-Navigate to:
+The trained PPO model is already integrated as an `.onnx` file — no additional training needed.
 
-Assets/Scenes/
+---
 
+## 🎯 Project Objectives
 
-Open the MainMenu scene.
+- Explore the application of Reinforcement Learning in game development
+- Implement PPO-based adaptive NPC behavior
+- Combine Machine Learning with traditional Game AI techniques
+- Develop an AI architecture suitable for real-time gameplay
+- Evaluate whether an RL agent can learn meaningful combat behaviors
+- Deploy a trained RL model directly inside a Unity game
+- Investigate the advantages of combining deterministic AI with learned behavior
 
-5. Run the game
+---
 
-Press Play in the Unity Editor and start the game.
+## 📸 Screenshots
 
-The trained PPO model is already integrated into the project as an .onnx file, so no additional training is required for gameplay.
+![Gameplay](https://github.com/user-attachments/assets/cd591d72-ca75-4809-861d-3c272fd8b984)
 
-🎯 Project Objectives
+![AI Combat](https://github.com/user-attachments/assets/a3aaa768-8f81-4974-9249-1c2705bff286)
 
-The main objectives of Adaptive War are:
+![Game Environment](https://github.com/user-attachments/assets/0ed317e0-47f0-4085-9f65-a8822fbee3b6)
 
-Explore the application of Reinforcement Learning in game development.
+---
 
-Implement PPO-based adaptive NPC behavior.
-
-Combine Machine Learning with traditional Game AI techniques.
-
-Develop an AI architecture suitable for real-time gameplay.
-
-Evaluate whether an RL agent can learn meaningful combat behaviors.
-
-Deploy a trained RL model directly inside a Unity game.
-
-Investigate the advantages of combining deterministic AI with learned behavior.
-
-🎓 Academic Context
+## 🎓 Academic Context
 
 Adaptive War explores the intersection of:
 
-Game Development × Artificial Intelligence × Reinforcement Learning
+**Game Development × Artificial Intelligence × Reinforcement Learning**
 
-The project demonstrates how a trained Reinforcement Learning model can be integrated into a conventional game AI architecture.
+The project demonstrates how a trained RL model can be integrated into a conventional game AI architecture — not replacing traditional AI systems, but serving as a **tactical decision-making component** while deterministic systems remain responsible for high-level control, action execution, navigation, and gameplay rules.
 
-Rather than replacing traditional AI systems entirely, the RL model is used as a tactical decision-making component, while deterministic systems remain responsible for high-level control, action execution, navigation, and gameplay rules.
+This approach combines the **adaptability of Machine Learning** with the **predictability and controllability** required in real-time games.
 
-This approach aims to combine the adaptability of Machine Learning with the predictability and controllability required in real-time games.
+---
 
-📸 Screenshots
+## ⭐ Conclusion
 
-<img width="3840" height="2160" alt="Gameplay" src="https://github.com/user-attachments/assets/cd591d72-ca75-4809-861d-3c272fd8b984" />
+Adaptive War demonstrates a practical approach to integrating Reinforcement Learning into a real-time game. By combining:
 
-<img width="722" height="473" alt="AI Combat" src="https://github.com/user-attachments/assets/a3aaa768-8f81-4974-9249-1c2705bff286" />
+```
+Behavior Tree + FSM + Rule-Based AI + A* Pathfinding + PPO
+```
 
-<img width="1920" height="1080" alt="Game Environment" src="https://github.com/user-attachments/assets/0ed317e0-47f0-4085-9f65-a8822fbee3b6" />
-⭐ Conclusion
+the project creates a layered AI architecture where each technique handles the type of problem it solves best. The result is an NPC system capable of learning adaptive combat behavior while remaining fully compatible with the deterministic systems required by a real-time strategy game.
 
-Adaptive War demonstrates a practical approach to integrating Reinforcement Learning into a real-time game.
+---
 
-By combining:
-
-Behavior Tree + FSM + Rule-Based AI + A Pathfinding + PPO*
-
-the project creates a layered AI architecture where each technique is responsible for the type of problem it handles best.
-
-The result is an NPC system capable of learning adaptive combat behavior while remaining compatible with the deterministic systems required by a real-time strategy game.
-
-⭐ If you find this project interesting, feel free to explore the implementation and the Reinforcement Learning approach used to build the adaptive NPC system.
+> ⭐ If you find this project interesting, feel free to explore the implementation and the Reinforcement Learning approach used to build the adaptive NPC system.
