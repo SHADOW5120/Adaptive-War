@@ -210,6 +210,8 @@ GAE / PPO Update
 
 ## 📊 AI Training & Evaluation
 
+To see more details about trainning, go to this detached project [https://github.com/SHADOW5120/Apdative-War-PPO-Model](https://github.com/SHADOW5120/Apdative-War-PPO-Model.git)
+
 | Metric | Description |
 |---|---|
 | **Eval Return** | Total reward obtained during evaluation |
